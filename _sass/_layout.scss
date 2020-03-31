@@ -1,0 +1,146 @@
+body {
+    background: #f4f4f4 url(/assets/bg.gif) top center repeat-y;
+    color: #303030;
+    font: 76% Verdana,Tahoma,Arial,sans-serif;
+}
+
+h1 {
+  font-size: 2em;
+  margin: 0 0 10px;
+}
+
+h2 {
+  font-size: 1.4em;
+  margin: 0 0 10px;
+}
+
+#title {
+  background-color: inherit;
+  color: #555;
+  float: left;
+  font-size: 2em;
+  letter-spacing: -1px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+
+#headerphoto {
+    margin: 0 0 10px;
+}
+
+#wrap {
+    background-color: #fff;
+    color: #333;
+    margin: 0 auto;
+    width: 760px;
+    padding: 0;
+}
+
+#menu {
+    display: block;
+    clear: left;
+    float: left;
+    line-height: 1.5em;
+    margin: 0 0 5px;
+    padding: 0;
+    width: 140px;
+}
+#menu ul {
+  font-size: 0.9em;
+  margin: 0 0 18px;
+  width: 140px;
+  -webkit-padding-start: 0px;
+}
+
+#menu li {
+    line-height: 1.2em;
+    list-style: none;
+    margin: 0 0 6px;
+    padding: 0;
+}
+
+#menu li a {
+    background-color: #f4f4f4;
+    border-left: 4px solid #cccccc;
+    color: #505050;
+    float: left;
+    font-weight: bold;
+    margin-bottom: 5px;
+    padding: 5px 1px 5px 5px;
+    text-decoration: none;
+    width: 130px;
+}
+
+#menu li a:hover {
+    background-color: #eaeaea;
+    border-left: 4px solid #286ea0;
+    color: #505050;
+}
+
+#content {
+    line-height: 1.6em;
+    margin: 0 0 5px 150px;
+    padding: 0;
+}
+
+p {
+  margin: 0 0 18px;
+  font-size: 11pt;
+}
+
+a {
+    background-color: inherit;
+    color: #286ea0;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: inherit;
+    color: #286ea0;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+blockquote {
+    border-left: 4px solid #e0e0e0;
+    margin: 20px;
+    padding: 8px 8px 8px 15px;
+}
+
+blockquote p {
+    background-color: inherit;
+    color: #505050;
+    font-size: 0.9em;
+    line-height: 1.3em;
+}
+
+table {
+    border-spacing: 1px;
+    margin: 10px 0px 15px 0px;
+    font-size: 8pt;
+    width: 100%;
+    text-align: left;
+    font-family: "Noto Sans", sans-serif;
+    font-feature-settings:"tnum" 1;
+}
+table td {
+    border-bottom: 1px solid #c0c0c0;
+    vertical-align: bottom;
+}
+
+#footer p {
+    font-size: 0.8em; 
+    font-weight: normal;
+}
+#footer {
+    border-top: 2px solid #e0e0e0;
+    clear: both;
+    color: #777;
+    line-height: 1.7em;
+    margin: 0 auto;
+    padding: 10px 0;
+    text-align: center;
+    width: 760px;
+}
