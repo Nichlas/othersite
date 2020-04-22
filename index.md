@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Om Vandværket
+title: The Other Site
 permalink: /
 ---
 
