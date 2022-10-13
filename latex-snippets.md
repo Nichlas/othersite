@@ -43,10 +43,10 @@ CTAN: [menukeys](https://www.ctan.org/pkg/menukeys)
 ```
 
 ## Other Packages
-Package | CTAN | Line |  Description
--- | --- | --- | ---
-Multirow | [multirow](https://www.ctan.org/pkg/multirow) | `\usepackage{multirow}` | Allows cells in tables to span multiple rows.
-Enumitem| [enumitem](https://www.ctan.org/pkg/enumitem) | `\usepackage{enumitem}` | Enable changing the indentation for text in description environments
-Parskip | [parskip](https://ctan.org/pkg/parskip) | `\usepackage{parskip}` | Removes automatic indentation for paragraphs
-booktabs | [booktabs](https://ctan.org/pkg/booktabs) | `\usepackage{booktabs}` | Improves tables
+| Package | CTAN | Line |  Description |
+| -- | --- | --- | --- |
+| Multirow | [multirow](https://www.ctan.org/pkg/multirow) | `\usepackage{multirow}` | Allows cells in tables to span multiple rows. |
+| Enumitem| [enumitem](https://www.ctan.org/pkg/enumitem) | `\usepackage{enumitem}` | Enable changing the indentation for text in description environments |
+| Parskip | [parskip](https://ctan.org/pkg/parskip) | `\usepackage{parskip}` | Removes automatic indentation for paragraphs |
+| booktabs | [booktabs](https://ctan.org/pkg/booktabs) | `\usepackage{booktabs}` | Improves tables |
 
