@@ -43,10 +43,21 @@ CTAN: [menukeys](https://www.ctan.org/pkg/menukeys)
 ```
 
 ## Other Packages
-| Package | CTAN | Line |  Description |
-| -- | --- | --- | --- |
-| Multirow | [multirow](https://www.ctan.org/pkg/multirow) | `\usepackage{multirow}` | Allows cells in tables to span multiple rows. |
-| Enumitem| [enumitem](https://www.ctan.org/pkg/enumitem) | `\usepackage{enumitem}` | Enable changing the indentation for text in description environments |
-| Parskip | [parskip](https://ctan.org/pkg/parskip) | `\usepackage{parskip}` | Removes automatic indentation for paragraphs |
-| booktabs | [booktabs](https://ctan.org/pkg/booktabs) | `\usepackage{booktabs}` | Improves tables |
-
+<table>
+<tr>
+<td>Package</td><td>CTAN</td><td>Line</td><td>Description</td>
+</tr>
+</hr>
+<tr>
+<td>Multirow</td><td>[multirow](https://www.ctan.org/pkg/multirow)</td><td>`\usepackage{multirow}`</td><td>Allows cells in tables to span multiple rows.</td>
+</tr>
+<td>
+<td>Enumitem</td><td>[enumitem](https://www.ctan.org/pkg/enumitem)</td><td>`\usepackage{enumitem}`</td><td>Enable changing the indentation for text in description environments.</td>
+</tr>
+<tr>
+<td>Parskip</td><td>[parskip](https://ctan.org/pkg/parskip)</td><td>`\usepackage{parskip}`</td><td>Removes automatic indentation for paragraphs.</td>
+</tr>
+<tr>
+<td>booktabs</td><td>[booktabs](https://ctan.org/pkg/booktabs)</td><td>`\usepackage{booktabs}`</td><td>Improves tables.</td>
+</tr>
+</table>
