@@ -45,11 +45,11 @@ CTAN: [menukeys](https://www.ctan.org/pkg/menukeys)
 ## Other Packages
 <table>
 <tr>
-<td>Package</td><td>CTAN</td><td>Line</td><td>Description</td>
+<td><b>Package</b></td><td><b>CTAN</b></td><td><b>Line</b></td><td><b>Description</b></td>
 </tr>
 </hr>
 <tr>
-<td>Multirow</td><td>[multirow](https://www.ctan.org/pkg/multirow)</td><td>`\usepackage{multirow}`</td><td>Allows cells in tables to span multiple rows.</td>
+<td>Multirow</td><td><a href="https://www.ctan.org/pkg/multirow">multirow</a></td><td>\usepackage{multirow}</td><td>Allows cells in tables to span multiple rows.</td>
 </tr>
 <tr>
 <td>Enumitem</td><td>[enumitem](https://www.ctan.org/pkg/enumitem)</td><td>`\usepackage{enumitem}`</td><td>Enable changing the indentation for text in description environments.</td>
