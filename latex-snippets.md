@@ -51,7 +51,7 @@ CTAN: [menukeys](https://www.ctan.org/pkg/menukeys)
 <tr>
 <td>Multirow</td><td>[multirow](https://www.ctan.org/pkg/multirow)</td><td>`\usepackage{multirow}`</td><td>Allows cells in tables to span multiple rows.</td>
 </tr>
-<td>
+<tr>
 <td>Enumitem</td><td>[enumitem](https://www.ctan.org/pkg/enumitem)</td><td>`\usepackage{enumitem}`</td><td>Enable changing the indentation for text in description environments.</td>
 </tr>
 <tr>
