@@ -44,20 +44,35 @@ CTAN: [menukeys](https://www.ctan.org/pkg/menukeys)
 
 ## Other Packages
 <table>
-<tr>
-<td><b>Package</b></td><td><b>CTAN</b></td><td><b>Line</b></td><td><b>Description</b></td>
-</tr>
-</hr>
-<tr>
-<td>Multirow</td><td><a href="https://www.ctan.org/pkg/multirow">multirow</a></td><td>\usepackage{multirow}</td><td>Allows cells in tables to span multiple rows.</td>
-</tr>
-<tr>
-<td>Enumitem</td><td>[enumitem](https://www.ctan.org/pkg/enumitem)</td><td>`\usepackage{enumitem}`</td><td>Enable changing the indentation for text in description environments.</td>
-</tr>
-<tr>
-<td>Parskip</td><td>[parskip](https://ctan.org/pkg/parskip)</td><td>`\usepackage{parskip}`</td><td>Removes automatic indentation for paragraphs.</td>
-</tr>
-<tr>
-<td>booktabs</td><td>[booktabs](https://ctan.org/pkg/booktabs)</td><td>`\usepackage{booktabs}`</td><td>Improves tables.</td>
-</tr>
+	<tr>
+		<td><b>Package</b></td>
+		<td><b>CTAN</b></td>
+		<td><b>Line</b></td>
+		<td><b>Description</b></td>
+	</tr>
+	</hr>
+	<tr>
+		<td>Multirow</td>
+		<td><a href="https://www.ctan.org/pkg/multirow">multirow</a></td>
+		<td>\usepackage{multirow}</td>
+		<td>Allows cells in tables to span multiple rows.</td>
+	</tr>
+	<tr>
+		<td>Enumitem</td>
+		<td><a href="https://www.ctan.org/pkg/enumitem">enumitem</a></td>
+		<td>\usepackage{enumitem}</td>
+		<td>Enable changing the indentation for text in description environments.</td>
+	</tr>
+	<tr>
+		<td>Parskip</td>
+		<td><a href="https://ctan.org/pkg/parskip">parskip</a></td>
+		<td>\usepackage{parskip}</td>
+		<td>Removes automatic indentation for paragraphs.</td>
+	</tr>
+	<tr>
+		<td>booktabs</td>
+		<td><a href="https://ctan.org/pkg/booktabs">booktabs</a></td>
+		<td>\usepackage{booktabs}</td>
+		<td>Improves tables.</td>
+	</tr>
 </table>
