@@ -76,3 +76,18 @@ CTAN: [menukeys](https://www.ctan.org/pkg/menukeys)
 		<td>Improves tables.</td>
 	</tr>
 </table>
+
+## TexStudio Macros
+
+### Add word to index as-is
+
+```
+%SCRIPT
+cursor.select(cursorEnums.WordUnderCursor)
+idx = cursor.selectedText()
+cursor.movePosition(1,cursorEnums.StartOfWord)
+editor.write("\\index{"+idx+"}")
+cursor.movePosition(1,cursorEnums.EndOfWord)
+cursor.clearSelection()
+```
+
