@@ -10,7 +10,7 @@ Vært: Anders Fuglsang</description>
         <link>http://www.radionordjyske.dk</link>
         <language>da</language>
         <copyright>NORDJYSKE Medier</copyright>
-        <lastBuildDate>Mon, 27 Jan 2020 13:18:37 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jan 2020 12:52:30 +0100</lastBuildDate>
         <itunes:subtitle>Tre goe' historier fra NORDJYSKE</itunes:subtitle>
         <itunes:summary>I Andedammen får du hver dag tre goe’ historier fra NORDJYSKE. Alt fra Obamas besøg i Aalborg over kæmpeordre til nordjysk industrigigant til lokalbrag i Superligaen. Hver dag får de tre nye historier om kultur, erhverv, sport, krimi, SoMe, byudvikling og landliv, og de bliver fortalt af de journalister der selv sidder med historien. 
 Vært: Anders Fuglsang</itunes:summary>
@@ -29,6 +29,50 @@ Vært: Anders Fuglsang</itunes:summary>
         <itunes:image href="http://www.radionet.dk/podcast/Podcastlogo.png"/>
         <itunes:category text="News &amp; Politics"/>
         <itunes:explicit>Clean</itunes:explicit>
+        <item>
+            <guid isPermaLink="false">0d09037c-f798-43c1-9ea2-d38e0d44d5d4</guid>
+            <title>30.01 - Tre nordjyske borgmestre: 'Ulla Astman lyver' - AaB dropper kamp pga. coronavirus - Nordjyske øjne på ny udligningsreform.</title>
+            <description>Andedammen er tre goe' historier fra NORDJYSKE – og har i dag fokus på tre nordjyske borgmestre, der påstår, at regionsrådsformand Ulla Astman lyver om lukningerne af lægevagten i Farsø, Brovst og Skagen. Om konsekvenserne for Nordjylland, efter statsminister Mette Frederiksen i dag præsenterede sit udspil til en ny udligningsreform. Og om AaBs aflysning af træningskamp i Spanien pga. Coronaviruset. &lt;br/&gt;
+Skriv til programmet: anders@radionordjyske.dk</description>
+            <pubDate>Thu, 30 Jan 2020 12:52:30 +0100</pubDate>
+            <author>anders@radionordjyske.dk (Anders Fuglsang)</author>
+            <itunes:author>anders@radionordjyske.dk (Anders Fuglsang)</itunes:author>
+            <itunes:summary>Andedammen er tre goe' historier fra NORDJYSKE – og har i dag fokus på tre nordjyske borgmestre, der påstår, at regionsrådsformand Ulla Astman lyver om lukningerne af lægevagten i Farsø, Brovst og Skagen. Om konsekvenserne for Nordjylland, efter statsminister Mette Frederiksen i dag præsenterede sit udspil til en ny udligningsreform. Og om AaBs aflysning af træningskamp i Spanien pga. Coronaviruset. 
+Skriv til programmet: anders@radionordjyske.dk</itunes:summary>
+            <itunes:duration>15:26</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Andedammen%20300120%20session.mp3" type="audio/mpeg" length="22279985"/>
+            <category>Nordjylland</category>
+            <category>journalistik</category>
+            <category>NORDJYSKE Medier</category>
+            <category>nordjyske historier</category>
+            <category>Andedammen</category>
+            <category>Radio NORDJYSKE</category>
+            <category>andedam</category>
+            <category>snak</category>
+            <category>Anders Fuglsang</category>
+        </item>
+        <item>
+            <guid isPermaLink="false">87578499-a025-432c-a94c-3bfbd8d3ec72</guid>
+            <title>29.01 - Trine fra Nibe vil meldes ud af samfundet - Ny midtstopper i Hobro IK - Mogens Gade: 'Regionen løber fra løfte ved at lukke lægevagten i Brovst.   </title>
+            <description>Andedammen er i dag tre goe' historier fra NORDJYSKE. Om Trine Bech, gårdbutiksejer ved Nibe, der har brændt sine regnskaber og vil meldes ud af samfundet. Om Hobro IKs nye midtstopper, Simon Jakobsen. Og om Jammerbugts borgmester, Mogens Chr. Gade, der mener, regionen bryder et gammelt løfte ved at lukke lægevagten i Brovst. &lt;br/&gt;
+Skriv til programmet: anders@radionordjyske.dk</description>
+            <pubDate>Wed, 29 Jan 2020 11:35:41 +0100</pubDate>
+            <author>anders@radionordjyske.dk (Anders Fuglsang)</author>
+            <itunes:author>anders@radionordjyske.dk (Anders Fuglsang)</itunes:author>
+            <itunes:summary>Andedammen er i dag tre goe' historier fra NORDJYSKE. Om Trine Bech, gårdbutiksejer ved Nibe, der har brændt sine regnskaber og vil meldes ud af samfundet. Om Hobro IKs nye midtstopper, Simon Jakobsen. Og om Jammerbugts borgmester, Mogens Chr. Gade, der mener, regionen bryder et gammelt løfte ved at lukke lægevagten i Brovst. 
+Skriv til programmet: anders@radionordjyske.dk</itunes:summary>
+            <itunes:duration>11:15</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Andedammen%20290120%20session.mp3" type="audio/mpeg" length="16262000"/>
+            <category>Nordjylland</category>
+            <category>journalistik</category>
+            <category>NORDJYSKE Medier</category>
+            <category>nordjyske historier</category>
+            <category>Andedammen</category>
+            <category>Radio NORDJYSKE</category>
+            <category>andedam</category>
+            <category>snak</category>
+            <category>Anders Fuglsang</category>
+        </item>
         <item>
             <guid isPermaLink="false">83f43c06-2a81-478f-890f-a6f125e9842b</guid>
             <title>27.01 - Ny gågade i Frederikshavn - Snus ætser tandkød hos 8. klasseselev - Forestillingen Fake News er forvirrende.</title>
