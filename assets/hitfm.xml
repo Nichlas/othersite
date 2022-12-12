@@ -6,64 +6,64 @@
     <link>http://www.hitfm.nu</link>
     <copyright>Hit FM</copyright>
     <language>da</language>
-    <lastBuildDate>2008_03_19 18_01_45</lastBuildDate>
-    <pubDate>2008_03_19 18_01_45</pubDate>
+    <lastBuildDate>2009_02_20 18_03_00</lastBuildDate>
+    <pubDate>2009_02_20 18_03_00</pubDate>
     <generator>Radionet</generator>
 
 	
 	<item>
-        <title>Fri Tid</title>
+        <title>Den Bedste Tid</title>
         <showid>3</showid>
-        <description>Det bedste fra: 19.03.2008. I dag har vi hele 08:24 minutter til dig :-)</description>
-        <enclosure url="http://www.radionet.dk/podcast/fritid00000600.mp3" type=".mp3"></enclosure>
-        <pubDate>2008_03_19 18_01_45</pubDate>
-        <time>08:24</time>
-	<category>Fri Tid</category>
-	<network>1,2,34</network>
+        <description>Hej. Jeg har samlet lidt af det bedste fra 20.02.2009. Det blev til 35:11 minutter. </description>
+        <enclosure url="http://www.radionet.dk/podcast/db00001707.mp3" type=".mp3"></enclosure>
+        <pubDate>2009_02_20 18_03_00</pubDate>
+        <time>35:11</time>
+	<category>Den Bedste Tid</category>
+	<network>1,2,3</network>
         </item>
 
 	<item>
         <title>Studie 10-TO</title>
         <showid>2</showid>
-        <description>Det bedste fra: 19.03.2008. I dag har vi hele 17:40 minutter til dig :-)</description>
-        <enclosure url="http://www.radionet.dk/podcast/Studie00000599.mp3" type=".mp3"></enclosure>
-        <pubDate>2008_03_19 14_03_12</pubDate>
-        <time>17:40</time>
+        <description>Det bedste fra: 20.02.2009. I dag har vi hele 16:06 minutter til dig :-)</description>
+        <enclosure url="http://www.radionet.dk/podcast/Studie00001706.mp3" type=".mp3"></enclosure>
+        <pubDate>2009_02_20 14_02_01</pubDate>
+        <time>16:06</time>
 	<category>Studie 10-TO</category>
 	<network>1,2,3,4</network>
         </item>
 
 	<item>
-        <title>Studie 10-TO</title>
-        <showid>2</showid>
-        <description>Det bedste fra: 18.03.2008. I dag har vi hele 18:54 minutter til dig :-)</description>
-        <enclosure url="http://www.radionet.dk/podcast/Studie00000596.mp3" type=".mp3"></enclosure>
-        <pubDate>2008_03_18 14_02_19</pubDate>
-        <time>18:54</time>
-	<category>Studie 10-TO</category>
-	<network>1,2,3,4</network>
-        </item>
-
-	<item>
-        <title>Fri Tid</title>
+        <title>Den Bedste Tid</title>
         <showid>3</showid>
-        <description>Det bedste fra: 17.03.2008. I dag har vi hele 14:31 minutter til dig :-)</description>
-        <enclosure url="http://www.radionet.dk/podcast/fritid00000595.mp3" type=".mp3"></enclosure>
-        <pubDate>2008_03_17 18_02_16</pubDate>
-        <time>14:31</time>
-	<category>Fri Tid</category>
-	<network>1,2,34</network>
+        <description>Hej. Jeg har samlet lidt af det bedste fra 19.02.2009. Det blev til 33:29 minutter. </description>
+        <enclosure url="http://www.radionet.dk/podcast/db00001705.mp3" type=".mp3"></enclosure>
+        <pubDate>2009_02_19 18_02_54</pubDate>
+        <time>33:29</time>
+	<category>Den Bedste Tid</category>
+	<network>1,2,3</network>
         </item>
 
 	<item>
         <title>Studie 10-TO</title>
         <showid>2</showid>
-        <description>Det bedste fra: 17.03.2008. I dag har vi hele 17:41 minutter til dig :-)</description>
-        <enclosure url="http://www.radionet.dk/podcast/Studie00000594.mp3" type=".mp3"></enclosure>
-        <pubDate>2008_03_17 14_03_17</pubDate>
-        <time>17:41</time>
+        <description>Det bedste fra: 19.02.2009. I dag har vi hele 15:44 minutter til dig :-)</description>
+        <enclosure url="http://www.radionet.dk/podcast/Studie00001704.mp3" type=".mp3"></enclosure>
+        <pubDate>2009_02_19 14_01_59</pubDate>
+        <time>15:44</time>
 	<category>Studie 10-TO</category>
 	<network>1,2,3,4</network>
+        </item>
+
+	<item>
+        <title>Den Bedste Tid</title>
+        <showid>3</showid>
+        <description>Hej. Jeg har samlet lidt af det bedste fra 18.02.2009. Det blev til 34:54 minutter. </description>
+        <enclosure url="http://www.radionet.dk/podcast/db00001703.mp3" type=".mp3"></enclosure>
+        <pubDate>2009_02_18 18_02_59</pubDate>
+        <time>34:54</time>
+	<category>Den Bedste Tid</category>
+	<network>1,2,3</network>
         </item>
 
   </channel>
