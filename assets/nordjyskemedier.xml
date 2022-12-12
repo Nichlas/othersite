@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <atom:link href="http://www.nordjyske.dk/nordjyskemedier.xml" rel="self" type="application/rss+xml"/>
+        <generator>Hindenburg Broadcaster 1.81.2272</generator>
+        <pubDate>Thu, 10 Oct 2019 14:01:10 +0200</pubDate>
+        <title>NORDJYSKE Medier</title>
+        <description>Forskellige podcasts fra NORDJYSKE Medier</description>
+        <link>http://www.nordjyske.dk</link>
+        <language>da</language>
+        <copyright>NORDJYSKE Medier</copyright>
+        <lastBuildDate>Thu, 10 Oct 2019 14:06:59 +0200</lastBuildDate>
+        <itunes:subtitle>NORDJYSKE Medier</itunes:subtitle>
+        <itunes:summary>Forskellige podcasts fra NORDJYSKE Medier</itunes:summary>
+        <itunes:keywords>Nordjylland, kultur, kriminalitet, samfund</itunes:keywords>
+        <itunes:author>NORDJYSKE Medier</itunes:author>
+        <itunes:owner>
+            <itunes:name>NORDJYSKE Medier</itunes:name>
+            <itunes:email>podcast@nordjyske.dk</itunes:email>
+        </itunes:owner>
+        <image>
+            <link>http://www.nordjyske.dk</link>
+            <title>NORDJYSKE Medier</title>
+            <height>300</height>
+            <url>http://www.radionet.dk/podcast/podcast-logo-diverse.png</url>
+        </image>
+        <itunes:image href="http://www.radionet.dk/podcast/podcast-logo-diverse.png"/>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:category text="News &amp; Politics"/>
+        <item>
+            <guid isPermaLink="false">57aba7d0-03c6-45ae-8ba0-cdc2cef0bc89</guid>
+            <title>Kommer snart</title>
+            <description>Her bliver der udgivet podcasts produceret af journalister fra NORDJYSKE Medier. </description>
+            <pubDate>Thu, 10 Oct 2019 14:06:59 +0200</pubDate>
+            <author>podcast@nordjyske.dk (NORDJYSKE Medier)</author>
+            <itunes:author>NORDJYSKE Medier</itunes:author>
+            <itunes:summary>Her bliver der udgivet podcasts produceret af journalister fra NORDJYSKE Medier. </itunes:summary>
+            <itunes:duration>00:02</itunes:duration>
+            <itunes:explicit>No</itunes:explicit>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Kommer%20snart.mp3" type="audio/mpeg" length="101608"/>
+            <category>Podcasts</category>
+            <category>Nordjylland</category>
+        </item>
+    </channel>
+</rss>
