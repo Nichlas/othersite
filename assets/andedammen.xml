@@ -10,7 +10,7 @@ Vært: Anders Fuglsang</description>
         <link>http://www.radionordjyske.dk</link>
         <language>da</language>
         <copyright>NORDJYSKE Medier</copyright>
-        <lastBuildDate>Fri, 24 Jan 2020 12:38:48 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jan 2020 13:18:37 +0100</lastBuildDate>
         <itunes:subtitle>Tre goe' historier fra NORDJYSKE</itunes:subtitle>
         <itunes:summary>I Andedammen får du hver dag tre goe’ historier fra NORDJYSKE. Alt fra Obamas besøg i Aalborg over kæmpeordre til nordjysk industrigigant til lokalbrag i Superligaen. Hver dag får de tre nye historier om kultur, erhverv, sport, krimi, SoMe, byudvikling og landliv, og de bliver fortalt af de journalister der selv sidder med historien. 
 Vært: Anders Fuglsang</itunes:summary>
@@ -29,6 +29,28 @@ Vært: Anders Fuglsang</itunes:summary>
         <itunes:image href="http://www.radionet.dk/podcast/Podcastlogo.png"/>
         <itunes:category text="News &amp; Politics"/>
         <itunes:explicit>Clean</itunes:explicit>
+        <item>
+            <guid isPermaLink="false">83f43c06-2a81-478f-890f-a6f125e9842b</guid>
+            <title>27.01 - Ny gågade i Frederikshavn - Snus ætser tandkød hos 8. klasseselev - Forestillingen Fake News er forvirrende.</title>
+            <description>Andedammen er i dag tre goe' historier fra NORDJYSKE. I dag om starten på fornyelsen af gågaden i Frederikshavn. Om forestillingen Fake News, der både er aktuel og væsentlig men desværre også forvirrende. Og om en tandlæge i Aalborg-bydelen Hasseris, der fortæller om ætset tandkød hos 8.klasseselev, der bruger snus.&lt;br/&gt;
+Skriv til programmet: anders@radionordjyske.dk</description>
+            <pubDate>Mon, 27 Jan 2020 13:18:37 +0100</pubDate>
+            <author>anders@radionordjyske.dk (Anders Fuglsang)</author>
+            <itunes:author>anders@radionordjyske.dk (Anders Fuglsang)</itunes:author>
+            <itunes:summary>Andedammen er i dag tre goe' historier fra NORDJYSKE. I dag om starten på fornyelsen af gågaden i Frederikshavn. Om forestillingen Fake News, der både er aktuel og væsentlig men desværre også forvirrende. Og om en tandlæge i Aalborg-bydelen Hasseris, der fortæller om ætset tandkød hos 8.klasseselev, der bruger snus.
+Skriv til programmet: anders@radionordjyske.dk</itunes:summary>
+            <itunes:duration>13:57</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Andedammen%20270120%20session.mp3" type="audio/mpeg" length="20144632"/>
+            <category>Nordjylland</category>
+            <category>journalistik</category>
+            <category>NORDJYSKE Medier</category>
+            <category>nordjyske historier</category>
+            <category>Andedammen</category>
+            <category>Radio NORDJYSKE</category>
+            <category>andedam</category>
+            <category>snak</category>
+            <category>Anders Fuglsang</category>
+        </item>
         <item>
             <guid isPermaLink="false">4a1bb70f-2ddf-4645-885f-1837baa0aa6e</guid>
             <title>24.01 - AaBs Mikkel Kaufmann solgt til FCK - Favorit til guldet: 'Vil egentlig helst være fri'.</title>
