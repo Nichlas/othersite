@@ -27,8 +27,19 @@
         <itunes:explicit>Clean</itunes:explicit>
         <generator>Hindenburg Broadcaster 1.82.2304</generator>
         <pubDate>Thu, 21 Mar 2019 13:32:21 +0100</pubDate>
-        <lastBuildDate>Fri, 10 Jan 2020 13:48:29 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jan 2020 08:49:44 +0100</lastBuildDate>
         <itunes:keywords>Nordjylland, radio, NORDJYSKE, Skovmand, Bue, humor, direktør, sjov, nordjylland</itunes:keywords>
+        <item>
+            <guid isPermaLink="false">17e50065-17b6-4416-81f7-3b618ed81db5</guid>
+            <title>Balkonen: Nu med tissekoneduft</title>
+            <description>I denne udgave af Balkonen tager Skovmand og Bue fat på emner som: Plastikpræmier, vrede franskmænd og ankler.</description>
+            <pubDate>Fri, 17 Jan 2020 08:49:44 +0100</pubDate>
+            <author>Niels Holger Thrane Skovmand</author>
+            <itunes:author>Niels Holger Thrane Skovmand</itunes:author>
+            <itunes:summary>I denne udgave af Balkonen tager Skovmand og Bue fat på emner som: Plastikpræmier, vrede franskmænd og ankler.</itunes:summary>
+            <itunes:duration>27:57</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/bal%20podcast%201701.mp3" type="audio/mpeg" length="26892288"/>
+        </item>
         <item>
             <guid isPermaLink="false">cc3f67d3-b5cc-4aa4-9dad-11de9e58a2d2</guid>
             <title>Balkonen i 2020</title>
