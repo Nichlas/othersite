@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+        <title>Farlig Fredag</title>
+        <link>http://www.farligfredag.dk</link>
+        <language>da</language>
+        <copyright>822754</copyright>
+        <atom:link href="http://www.radionet.dk/podcast/farligfredag.xml" rel="self" type="application/rss+xml"/>
+        <image>
+            <url>http://www.radionet.dk/podcast/FFlogo.jpg</url>
+            <title>Farlig Fredag</title>
+            <link>http://www.farligfredag.dk</link>
+            <width>138</width>
+            <height>300</height>
+        </image>
+        <itunes:subtitle>NORDJYSKE Medier</itunes:subtitle>
+        <itunes:author>NORDJYSKE Medier</itunes:author>
+        <itunes:summary>Det bliver overrr og maje farligt, når Farlig Fredag endelig er tilbage over Nordjylland!</itunes:summary>
+        <description>Det bliver overrr og maje farligt, når Farlig Fredag endelig er tilbage over Nordjylland!</description>
+        <itunes:owner>
+            <itunes:name>NORDJYSKE Medier</itunes:name>
+            <itunes:email>farligfredag@nordjyske.dk</itunes:email>
+        </itunes:owner>
+        <itunes:image href="http://www.radionet.dk/podcast/FFlogo.jpg"/>
+        <itunes:category text="Comedy"/>
+        <itunes:category text="Music"/>
+        <itunes:explicit>Yes</itunes:explicit>﻿
+        <generator>Hindenburg Journalist Pro 1.81.2256</generator>
+        <pubDate>Thu, 21 Mar 2019 13:32:21 +0100</pubDate>
+        <lastBuildDate>Fri, 05 Jul 2019 00:13:56 +0200</lastBuildDate>
+        <itunes:keywords>Farlig Fredag, Nordjylland, radio, NORDJYSKE, Skovmand, Bue, humor, sjov, nordjylland</itunes:keywords>
+        <item>
+            <guid isPermaLink="false">ad857ab4-6ed9-4ccf-9a80-2c148ffa2f95</guid>
+            <title>Farlig Fredag Episode 7</title>
+            <description>Kan man overse Kongens død i avisarkivet? Genkender Henrik Hybenkvist nogensinde Hyben? Og hvad er der lige med Mystiske Mona i denne uge? Få svarene i Farlig Fredags sidste episode i denne omgang - også med flere Greatest Hits fra dette forår. Se mere på http://farligfredag.dk</description>
+            <pubDate>Fri, 05 Jul 2019 00:13:56 +0200</pubDate>
+            <author>NORDJYSKE Medier</author>
+            <itunes:author>NORDJYSKE Medier</itunes:author>
+            <itunes:summary>Kan man overse Kongens død i avisarkivet? Genkender Henrik Hybenkvist nogensinde Hyben? Og hvad er der lige med Mystiske Mona i denne uge? Få svarene i Farlig Fredags sidste episode i denne omgang - også med flere Greatest Hits fra dette forår. Se mere på http://farligfredag.dk</itunes:summary>
+            <itunes:duration>23:35</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Farlig%20Fredag%20Episode%207.mp3" type="audio/mpeg" length="34033206"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">49576ec3-0d2a-416a-a217-59d6f215594b</guid>
+            <title>Farlig Fredag Episode 6</title>
+            <description>Hvad er en kilomet? Er koldskål virkelig noget lunkent pis? Og er ligheden virkelig så stor mellem en fugl og hyben? Få svarene og meget mere i denne uges udgave af Farlig Fredag. Se meget mere på http://farligfredag.dk</description>
+            <pubDate>Fri, 28 Jun 2019 07:06:38 +0200</pubDate>
+            <author>NORDJYSKE Medier</author>
+            <itunes:author>NORDJYSKE Medier</itunes:author>
+            <itunes:summary>Hvad er en kilomet? Er koldskål virkelig noget lunkent pis? Og er ligheden virkelig så stor mellem en fugl og hyben? Få svarene og meget mere i denne uges udgave af Farlig Fredag. Se meget mere på http://farligfredag.dk</itunes:summary>
+            <itunes:duration>18:27</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Farlig%20Fredag%20Episode%206.mp3" type="audio/mpeg" length="26640971"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">50dc03d3-a8bd-42f6-b742-96fe6bc39680</guid>
+            <title>Farlig Fredag Episode 5</title>
+            <description>Lever Dørmændene i 1994? Kan man finde sin familie i græsset efter flere år? Hvornår går Peter egentlig hjem? Få svarene og meget mere i Farlig Fredag i denne uge og find mere sjov på http://farligfredag.dk</description>
+            <pubDate>Thu, 20 Jun 2019 23:27:00 +0200</pubDate>
+            <author>NORDJYSKE Medier</author>
+            <itunes:author>NORDJYSKE Medier</itunes:author>
+            <itunes:summary>Lever Dørmændene i 1994? Kan man finde sin familie i græsset efter flere år? Hvornår går Peter egentlig hjem? Få svarene og meget mere i Farlig Fredag i denne uge og find mere sjov på http://farligfredag.dk</itunes:summary>
+            <itunes:duration>17:57</itunes:duration>
+            <itunes:explicit>No</itunes:explicit>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Farlig%20Fredag%20Episode%205.mp3" type="audio/mpeg" length="25913095"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">5f633149-f3d5-44b3-848c-7bbcb9f9be14</guid>
+            <title>Farlig Fredag Episode 4</title>
+            <description>Kom med i Tøffelhelteskole, hør hvorfor det er rivende galt hos Mystiske Mona og hvor lang tid er Peter egentlig om at installere et tv? Der er satire for alle pengene igen i denne uge.</description>
+            <pubDate>Thu, 13 Jun 2019 22:34:53 +0200</pubDate>
+            <author>NORDJYSKE Medier</author>
+            <itunes:author>NORDJYSKE Medier</itunes:author>
+            <itunes:summary>Kom med i Tøffelhelteskole, hør hvorfor det er rivende galt hos Mystiske Mona og hvor lang tid er Peter egentlig om at installere et tv? Der er satire for alle pengene igen i denne uge.</itunes:summary>
+            <itunes:duration>19:02</itunes:duration>
+            <itunes:explicit>No</itunes:explicit>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Farlig%20Fredag%20Episode%204.mp3" type="audio/mpeg" length="27477935"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">c2864e0d-9df1-4661-8530-02acecd6cfa3</guid>
+            <title>Farlig Fredag Episode 3 (7. JUNI 2019)</title>
+            <description>Hør protestsangen mod hundelort, voxpoppen om stærekasser og Mystiske Mona, der forudser fremtiden i en banjo.&lt;br/&gt;
+Find mere sjov på Farlig Fredag på Youtube og på farligfredag.dk</description>
+            <pubDate>Thu, 06 Jun 2019 23:01:56 +0200</pubDate>
+            <author>NORDJYSKE Medier</author>
+            <itunes:author>NORDJYSKE Medier</itunes:author>
+            <itunes:summary>Hør protestsangen mod hundelort, voxpoppen om stærekasser og Mystiske Mona, der forudser fremtiden i en banjo.
+Find mere sjov på Farlig Fredag på Youtube og på farligfredag.dk</itunes:summary>
+            <itunes:duration>19:39</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Farlig%20Fredag%20Episode%203%20%287.%20JUNI%202019%29.mp3" type="audio/mpeg" length="28366934"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">5bd234ee-c60a-4b00-bea3-35998e63520b</guid>
+            <title>Farlig Fredag Episode 2 (31. MAJ 2019)</title>
+            <description>Rapper Schlapp Kuss sig ind i Focketinget? Kan man misse den største begivenhed 5. maj 1945? Og hvordan var Dronningens første gang? Få svarene og meget mere i denne anden udgave af Farlig Fredag!</description>
+            <pubDate>Thu, 30 May 2019 19:46:25 +0200</pubDate>
+            <author>NORDJYSKE Medier</author>
+            <itunes:author>NORDJYSKE Medier</itunes:author>
+            <itunes:summary>Rapper Schlapp Kuss sig ind i Focketinget? Kan man misse den største begivenhed 5. maj 1945? Og hvordan var Dronningens første gang? Få svarene og meget mere i denne anden udgave af Farlig Fredag!</itunes:summary>
+            <itunes:duration>18:56</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Farlig%20Fredag%20Episode%202%20%2831.%20MAJ%202019%29.mp3" type="audio/mpeg" length="27334366"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">98401ee1-fedc-4747-8519-ef919e301cfa</guid>
+            <title>Farlig Fredag Episode 1 (24. maj)</title>
+            <description>Farlig Fredag er overmaje sjov til dig. Mød Dronningen, Dørmændene, Mystiske Mona og Grammatikmorderen. Gæt med i Kender Du Hyben? Og kom på gaden til en voxpop!&lt;br/&gt;
+Find mere sjov på Farlig Fredag på Youtube og på farligfredag.dk</description>
+            <pubDate>Thu, 23 May 2019 19:37:04 +0200</pubDate>
+            <author>NORDJYSKE Medier</author>
+            <itunes:author>NORDJYSKE Medier</itunes:author>
+            <itunes:summary>Farlig Fredag er overmaje sjov til dig. Mød Dronningen, Dørmændene, Mystiske Mona og Grammatikmorderen. Gæt med i Kender Du Hyben? Og kom på gaden til en voxpop!
+Find mere sjov på Farlig Fredag på Youtube og på farligfredag.dk</itunes:summary>
+            <itunes:duration>20:45</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Farlig%20Fredag%20Episode%201%20%2824.%20maj%29.mp3" type="audio/mpeg" length="29947446"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">86293c39-8535-4188-9f4f-714997de450c</guid>
+            <title>Schlapp Kursch</title>
+            <description>Farlig Fredag vil ha' Schlapp Kursch i Focketing.</description>
+            <pubDate>Thu, 09 May 2019 11:51:04 +0200</pubDate>
+            <author>NORDJYSKE Medier</author>
+            <itunes:author>NORDJYSKE Medier</itunes:author>
+            <itunes:summary>Farlig Fredag vil ha' Schlapp Kursch i Focketing.</itunes:summary>
+            <itunes:duration>00:21</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Schlapp%20Kursch.mp3" type="audio/mpeg" length="579753"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">b1c0c654-4e84-49dc-afec-95c45fca1f46</guid>
+            <title>Noget på vej</title>
+            <description>Vi udsender en ugentlig podcast fra 24. maj og frem til 5. juli. (i hvert fald i første omgang).</description>
+            <pubDate>Fri, 26 Apr 2019 10:21:26 +0200</pubDate>
+            <author>farligfredag@nordjyske.dk (NORDJYSKE Medier)</author>
+            <itunes:author>NORDJYSKE Medier</itunes:author>
+            <itunes:summary>Vi udsender en ugentlig podcast fra 24. maj og frem til 5. juli. (i hvert fald i første omgang).</itunes:summary>
+            <itunes:duration>00:12</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Noget%20p%E5%20vej.mp3" type="audio/mpeg" length="350294"/>
+        </item>
+    </channel>
+</rss>
