@@ -6,18 +6,18 @@
     <link>http://www.guld.fm</link>
     <copyright>Guld FM</copyright>
     <language>da</language>
-    <lastBuildDate>2008_01_10 14_01_12</lastBuildDate>
-    <pubDate>2008_01_10 14_01_12</pubDate>
+    <lastBuildDate>2008_02_15 14_02_06</lastBuildDate>
+    <pubDate>2008_02_15 14_02_06</pubDate>
     <generator>Radionet</generator>
 
 	
 	<item>
         <title>Dorte Laulund</title>
         <showid>2</showid>
-        <description>Det bedste fra Dorte Laulund: 10.01.2008 - 00 minutter. </description>
-        <enclosure url="http://www.radionet.dk/podcast/dl00000305.mp3" type=".mp3"></enclosure>
-        <pubDate>2008_01_10 14_01_12</pubDate>
-        <time>00</time>
+        <description>Det bedste fra Dorte Laulund: 15.02.2008 - 14:08 minutter. </description>
+        <enclosure url="http://www.radionet.dk/podcast/dl00000496.mp3" type=".mp3"></enclosure>
+        <pubDate>2008_02_15 14_02_06</pubDate>
+        <time>14:08</time>
 	<category>Dorte Laulund</category>
 	<network>1,2,3,4</network>
         </item>
@@ -25,32 +25,21 @@
 	<item>
         <title>Adam &amp; Lisbeth</title>
         <showid>1</showid>
-        <description>Vi har samlet det bedste fra 10.01.2008. Det blev til 18:48 minutter. </description>
-        <enclosure url="http://www.radionet.dk/podcast/al00000303.mp3" type=".mp3"></enclosure>
-        <pubDate>2008_01_10 10_02_40</pubDate>
-        <time>18:48</time>
+        <description>Vi har samlet det bedste fra 15.02.2008. Det blev til 48:54 minutter. </description>
+        <enclosure url="http://www.radionet.dk/podcast/al00000494.mp3" type=".mp3"></enclosure>
+        <pubDate>2008_02_15 10_04_35</pubDate>
+        <time>48:54</time>
 	<category>Adam &amp; Lisbeth</category>
 	<network>1</network>
-        </item>
-
-	<item>
-        <title>Dig &amp; Mike</title>
-        <showid>3</showid>
-        <description>Hej. Jeg har samlet lidt af det bedste fra 09.01.2008. Det blev til 15:37 minutter. </description>
-        <enclosure url="http://www.radionet.dk/podcast/dm00000302.mp3" type=".mp3"></enclosure>
-        <pubDate>2008_01_09 18_02_07</pubDate>
-        <time>15:37</time>
-	<category>Dig &amp; Mike</category>
-	<network>1,3</network>
         </item>
 
 	<item>
         <title>Dorte Laulund</title>
         <showid>2</showid>
-        <description>Det bedste fra Dorte Laulund: 09.01.2008 - 00 minutter. </description>
-        <enclosure url="http://www.radionet.dk/podcast/dl00000299.mp3" type=".mp3"></enclosure>
-        <pubDate>2008_01_09 14_01_12</pubDate>
-        <time>00</time>
+        <description>Det bedste fra Dorte Laulund: 15.02.2008 - 02 minutter. </description>
+        <enclosure url="http://www.radionet.dk/podcast/dl00000489.mp3" type=".mp3"></enclosure>
+        <pubDate>2008_02_15 08_56_05</pubDate>
+        <time>02</time>
 	<category>Dorte Laulund</category>
 	<network>1,2,3,4</network>
         </item>
@@ -58,12 +47,23 @@
 	<item>
         <title>Adam &amp; Lisbeth</title>
         <showid>1</showid>
-        <description>Vi har samlet det bedste fra 09.01.2008. Det blev til 56:21 minutter. </description>
-        <enclosure url="http://www.radionet.dk/podcast/al00000298.mp3" type=".mp3"></enclosure>
-        <pubDate>2008_01_09 10_05_49</pubDate>
-        <time>56:21</time>
+        <description>Vi har samlet det bedste fra 15.02.2008. Det blev til 53:17 minutter. </description>
+        <enclosure url="http://www.radionet.dk/podcast/al00000488.mp3" type=".mp3"></enclosure>
+        <pubDate>2008_02_15 08_55_46</pubDate>
+        <time>53:17</time>
 	<category>Adam &amp; Lisbeth</category>
 	<network>1</network>
+        </item>
+
+	<item>
+        <title>Dorte Laulund</title>
+        <showid>2</showid>
+        <description>Det bedste fra Dorte Laulund: 15.02.2008 - 31 minutter. </description>
+        <enclosure url="http://www.radionet.dk/podcast/dl00000486.mp3" type=".mp3"></enclosure>
+        <pubDate>2008_02_15 08_48_56</pubDate>
+        <time>31</time>
+	<category>Dorte Laulund</category>
+	<network>1,2,3,4</network>
         </item>
 
   </channel>
