@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<rss version="2.0">
+  <channel>
+    <title>ANR</title>
+    <description>Radio med puls</description>
+    <link>http://www.anr.dk</link>
+    <copyright>ANR</copyright>
+    <language>da</language>
+    <lastBuildDate>2009_03_06 18_02_31</lastBuildDate>
+    <pubDate>2009_03_06 18_02_31</pubDate>
+    <generator>Radionet</generator>
+
+	
+	<item>
+        <title>Den Bedste Tid</title>
+        <showid>3</showid>
+        <description>Hej. Jeg har samlet lidt af det bedste fra 06.03.2009. Det blev til 27:30 minutter. </description>
+        <enclosure url="http://www.radionet.dk/podcast/db00001744.mp3" type=".mp3"></enclosure>
+        <pubDate>2009_03_06 18_02_31</pubDate>
+        <time>27:30</time>
+	<category>Den Bedste Tid</category>
+	<network>1</network>
+        </item>
+
+	<item>
+        <title>Studie 10-TO</title>
+        <showid>2</showid>
+        <description>Det bedste fra: 06.03.2009. I dag har vi 21:41 minutter til dig</description>
+        <enclosure url="http://www.radionet.dk/podcast/Studie00001743.mp3" type=".mp3"></enclosure>
+        <pubDate>2009_03_06 14_02_14</pubDate>
+        <time>21:41</time>
+	<category>Studie 10-TO</category>
+	<network>1</network>
+        </item>
+
+	<item>
+        <title>Skovmand &amp; Bue</title>
+        <showid>1</showid>
+        <description>Skovmand &amp; Bues Podcast. Det bedste fra: 06.03.2009. I dag har vi 01:03:02 minutter til dig</description>
+        <enclosure url="http://www.radionet.dk/podcast/sb00001742.mp3" type=".mp3"></enclosure>
+        <pubDate>2009_03_06 10_04_18</pubDate>
+        <time>01:03:02</time>
+	<category>Skovmand &amp; Bue</category>
+	<network>1,3</network>
+        </item>
+
+	<item>
+        <title>Den Bedste Tid</title>
+        <showid>3</showid>
+        <description>Hej. Jeg har samlet lidt af det bedste fra 05.03.2009. Det blev til 29:09 minutter. </description>
+        <enclosure url="http://www.radionet.dk/podcast/db00001741.mp3" type=".mp3"></enclosure>
+        <pubDate>2009_03_05 18_02_42</pubDate>
+        <time>29:09</time>
+	<category>Den Bedste Tid</category>
+	<network>1</network>
+        </item>
+
+	<item>
+        <title>Studie 10-TO</title>
+        <showid>2</showid>
+        <description>Det bedste fra: 05.03.2009. I dag har vi 18:13 minutter til dig</description>
+        <enclosure url="http://www.radionet.dk/podcast/Studie00001740.mp3" type=".mp3"></enclosure>
+        <pubDate>2009_03_05 14_02_05</pubDate>
+        <time>18:13</time>
+	<category>Studie 10-TO</category>
+	<network>1</network>
+        </item>
+
+  </channel>
+</rss>
