@@ -9,7 +9,7 @@
         <link>http://www.nordjyske.dk</link>
         <language>da</language>
         <copyright>NORDJYSKE medier</copyright>
-        <lastBuildDate>Wed, 18 Dec 2019 19:51:12 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 11 Feb 2020 21:19:10 +0100</lastBuildDate>
         <itunes:subtitle>Fokus på nordjysk fodbold</itunes:subtitle>
         <itunes:summary>Hvad sker der i den nordjyske fodboldverden. Det tager et panel på tre eksperter en debat om hver 14.dag. Udgangspunktet er AaB, Hobro IK og Vendsyssel FF, men vi runder også 2.division og mere generelle emner med nordjysk interesse.</itunes:summary>
         <itunes:keywords>Fodbold</itunes:keywords>
@@ -29,6 +29,22 @@
             <itunes:category text="Professional"/>
         </itunes:category>
         <itunes:explicit>No</itunes:explicit>
+        <item>
+            <guid isPermaLink="false">2722ea0f-3409-4a08-92a3-552a962f9cc1</guid>
+            <title>Ripodsten episode 67</title>
+            <description>Hvad er der sket i de to nordjyske superligaklubber indtil videre i 2020, og hvordan står de rustet til forårssæsonen. Det ser vi nærmere på i denne udgave af Ripodsten, hvor gæsterne er AaB's administrerende direktør Thomas Bælum, Hobro IK's formand Lars Kühnel og NORDJYSKEs sportsredaktør Claus Jensen. Jens Otto Barsøe er vært.</description>
+            <pubDate>Tue, 11 Feb 2020 21:19:10 +0100</pubDate>
+            <author>podcast@nordjyske.dk (Jens Otto Barsøe)</author>
+            <itunes:author>Jens Otto Barsøe</itunes:author>
+            <itunes:summary>Hvad er der sket i de to nordjyske superligaklubber indtil videre i 2020, og hvordan står de rustet til forårssæsonen. Det ser vi nærmere på i denne udgave af Ripodsten, hvor gæsterne er AaB's administrerende direktør Thomas Bælum, Hobro IK's formand Lars Kühnel og NORDJYSKEs sportsredaktør Claus Jensen. Jens Otto Barsøe er vært.</itunes:summary>
+            <itunes:duration>81:23</itunes:duration>
+            <itunes:explicit>No</itunes:explicit>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Ripodsten%2067.mp3" type="audio/mpeg" length="78201879"/>
+            <category>Fodbold</category>
+            <category>Nordjylland</category>
+            <category>AaB</category>
+            <category>Hobro IK</category>
+        </item>
         <item>
             <guid isPermaLink="false">b0c25a6f-445f-4600-97c9-e2161590b2f1</guid>
             <title>Ripodsten episode 66</title>

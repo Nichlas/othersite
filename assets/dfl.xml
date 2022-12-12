@@ -26,6 +26,21 @@
 <itunes:explicit>no</itunes:explicit>
 
 <item>
+<title>Den 4. Limfjordsforbindelse - 11.02.2020</title>
+<itunes:author>Radio NORDJYSKE</itunes:author>
+<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+<itunes:summary>Det bedste fra Den fjerde Limfjordsforbindelse fra 11.02.2020</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/dfl00015302.mp3" length="172392387" type="audio/mpeg" />
+<guid isPermaLink="false">2020021117051900015302</guid>
+<pubDate>Tue, 11 Feb 2020 14:00:00 +0200</pubDate>
+<itunes:duration>03:00:00</itunes:duration>
+<itunes:keywords>radio, Den fjerde Limfjordsforbindelse, DFL, NORDJYSKE</itunes:keywords>
+<itunes:explicit>no</itunes:explicit>
+<category>Den fjerde Limfjordsforbindelse</category>
+</item>
+
+
+<item>
 <title>Den 4. Limfjordsforbindelse - 10.02.2020</title>
 <itunes:author>Radio NORDJYSKE</itunes:author>
 <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
@@ -903,24 +918,6 @@
 <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/dfl00013529.mp3" length="85989696" type="audio/mpeg" />
 <guid>2019112017034000013529</guid>
 <pubDate>Wed, 20 Nov 2019 14:00:00 +0200</pubDate>
-<itunes:duration>03:00:00</itunes:duration>
-<itunes:keywords>radio, Den fjerde Limfjordsforbindelse, DFL, NORDJYSKE</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-<category>Den fjerde Limfjordsforbindelse</category>
-</item>
-
-
-<item>
-<title>Den 4. Limfjordsforbindelse - 19.11.2019</title>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-<itunes:summary>Det bedste fra Den fjerde Limfjordsforbindelse fra 19.11.2019</itunes:summary>
-
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/dfl00013524.mp3" length="85989696" type="audio/mpeg" />
-<guid>http://www.radionet.dk/podcast/dfl00013524.mp3</guid>
-
-<pubDate>Tue, 19 Nov 2019 14:00:00 +0200</pubDate>
-
 <itunes:duration>03:00:00</itunes:duration>
 <itunes:keywords>radio, Den fjerde Limfjordsforbindelse, DFL, NORDJYSKE</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
