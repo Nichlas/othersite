@@ -10,7 +10,7 @@ Vært: Anders Fuglsang</description>
         <link>http://www.radionordjyske.dk</link>
         <language>da</language>
         <copyright>NORDJYSKE Medier</copyright>
-        <lastBuildDate>Thu, 06 Feb 2020 13:10:16 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 07 Feb 2020 12:08:28 +0100</lastBuildDate>
         <itunes:subtitle>Tre goe' historier fra NORDJYSKE</itunes:subtitle>
         <itunes:summary>I Andedammen får du hver dag tre goe’ historier fra NORDJYSKE. Alt fra Obamas besøg i Aalborg over kæmpeordre til nordjysk industrigigant til lokalbrag i Superligaen. Hver dag får de tre nye historier om kultur, erhverv, sport, krimi, SoMe, byudvikling og landliv, og de bliver fortalt af de journalister der selv sidder med historien. 
 Vært: Anders Fuglsang</itunes:summary>
@@ -29,6 +29,28 @@ Vært: Anders Fuglsang</itunes:summary>
         <itunes:image href="http://www.radionet.dk/podcast/Podcastlogo.png"/>
         <itunes:category text="News &amp; Politics"/>
         <itunes:explicit>Clean</itunes:explicit>
+        <item>
+            <guid isPermaLink="false">8533014b-49b6-46e6-9aa7-76858ee59500</guid>
+            <title>07.02 - Klimasikring ved Limfjorden for 700 mio. - Jokerens exkæreste i uimodståelig film - Nordjyske unge om kropsidealer .</title>
+            <description>Andedammen er tre goe' historier fra NORDJYSKE – og handler i dag om unges forhold til kroppen. Om Birds Of Prey – en slå-på-tæven-komedie med psykopatiske undertoner. Og om klimasikring for 700 mio. ved Limfjordens vestlige indløb.&lt;br/&gt;
+Skriv til programmet: anders@radionordjyske.dk</description>
+            <pubDate>Fri, 07 Feb 2020 12:08:28 +0100</pubDate>
+            <author>anders@radionordjyske.dk (Anders Fuglsang)</author>
+            <itunes:author>anders@radionordjyske.dk (Anders Fuglsang)</itunes:author>
+            <itunes:summary>Andedammen er tre goe' historier fra NORDJYSKE – og handler i dag om unges forhold til kroppen. Om Birds Of Prey – en slå-på-tæven-komedie med psykopatiske undertoner. Og om klimasikring for 700 mio. ved Limfjordens vestlige indløb.
+Skriv til programmet: anders@radionordjyske.dk</itunes:summary>
+            <itunes:duration>13:07</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Andedammen%20070220%20session.mp3" type="audio/mpeg" length="18949686"/>
+            <category>Nordjylland</category>
+            <category>journalistik</category>
+            <category>NORDJYSKE Medier</category>
+            <category>nordjyske historier</category>
+            <category>Andedammen</category>
+            <category>Radio NORDJYSKE</category>
+            <category>andedam</category>
+            <category>snak</category>
+            <category>Anders Fuglsang</category>
+        </item>
         <item>
             <guid isPermaLink="false">5e867949-67f2-4851-87c6-01844f873b2b</guid>
             <title>06.02 - Nærpoliti i Skagen og Løgstør? - 100 pct. trivsel på Thorup klim Skole - Elever fra Mariager med lovforslag på Christiansborg.</title>

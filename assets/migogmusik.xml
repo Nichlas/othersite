@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <atom:link href="http://www.radionet.dk/podcast/migogmusik.xml" rel="self" type="application/rss+xml"/>
+        <generator>Hindenburg Broadcaster 1.81.2288</generator>
+        <pubDate>Fri, 20 Sep 2019 13:08:01 +0200</pubDate>
+        <title>Mig og musik</title>
+        <description>Podcasten, hvor kendte nordjyder vælger musikken og fortæller om deres valg af sange.</description>
+        <link>http://www.nordjyske.dk</link>
+        <language>da</language>
+        <copyright>NORDJYSKE Medier</copyright>
+        <lastBuildDate>Thu, 21 Nov 2019 20:56:35 +0100</lastBuildDate>
+        <itunes:subtitle>Nordjysk sportspodcast</itunes:subtitle>
+        <itunes:summary>Podcasten, hvor kendte nordjyder vælger musikken og fortæller om deres valg af sange.</itunes:summary>
+        <itunes:keywords>Musik, kendte, Nordjylland</itunes:keywords>
+        <itunes:author>NORDJYSKE Medier</itunes:author>
+        <itunes:owner>
+            <itunes:name>NORDJYSKE Medier</itunes:name>
+            <itunes:email>podcast@nordjyske.dk</itunes:email>
+        </itunes:owner>
+        <image>
+            <link>http://www.nordjyske.dk</link>
+            <title>Mig og musik</title>
+            <height>300</height>
+            <url>http://www.radionet.dk/podcast/podcast-logo-mig-og-musik.png</url>
+        </image>
+        <itunes:image href="http://www.radionet.dk/podcast/podcast-logo-mig-og-musik.png"/>
+        <itunes:category text="Music"/>
+        <itunes:explicit>No</itunes:explicit>
+        <item>
+            <guid isPermaLink="false">a0b10689-230e-469b-a49f-31e3a1125fe7</guid>
+            <title>Episode 8: Julemanden fra Aalborg</title>
+            <description>Mød Julemanden fra Aalborg i den sidste udgave af Mig og Musik i 2019. Han har været så god og sød at vælge 10 julesange, der betyder noget for ham. Lyt med og lær også manden inde i julemandsdragten at kende.</description>
+            <pubDate>Thu, 21 Nov 2019 20:56:35 +0100</pubDate>
+            <author>Jan Jensen</author>
+            <itunes:author>Jan Jensen</itunes:author>
+            <itunes:summary>Mød Julemanden fra Aalborg i den sidste udgave af Mig og Musik i 2019. Han har været så god og sød at vælge 10 julesange, der betyder noget for ham. Lyt med og lær også manden inde i julemandsdragten at kende.</itunes:summary>
+            <itunes:duration>64:37</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Episode%208%20Julemanden%20fra%20Aalborg.mp3" type="audio/mpeg" length="93115917"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">9486d98b-d752-4d0f-aac7-be58a03699b4</guid>
+            <title>Episode 7: Rikke Nielsen</title>
+            <description>Den tidligere håndboldspiller og nu ejer af Lykkeliga, Rikke Nielsen, vælger sangene i denne udgave af Mig og musik. Hør bl.a. hvilken musikalsk opdragelse hun har fået hjemmefra, hvilken sang der blev sunget til hendes bryllup, og hvem børnene i Lykkeliga især godt kan lide at varme op og danse til.</description>
+            <pubDate>Thu, 14 Nov 2019 23:15:29 +0100</pubDate>
+            <author>Jan Jensen</author>
+            <itunes:author>Jan Jensen</itunes:author>
+            <itunes:summary>Den tidligere håndboldspiller og nu ejer af Lykkeliga, Rikke Nielsen, vælger sangene i denne udgave af Mig og musik. Hør bl.a. hvilken musikalsk opdragelse hun har fået hjemmefra, hvilken sang der blev sunget til hendes bryllup, og hvem børnene i Lykkeliga især godt kan lide at varme op og danse til.</itunes:summary>
+            <itunes:duration>66:33</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Episode%207%20Rikke%20Nielsen.mp3" type="audio/mpeg" length="95888867"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">443ed146-ab70-411b-a3e7-bc4ed4aa878b</guid>
+            <title>Episode 6: Mogens Jorgensen</title>
+            <description>Journalist på TV 2 Nord, Mogens Jørgensen, er gæst denne gang i "Mig og musik". Her fortæller han, hvilken (halvt) skotsk sanger, der skylder ham 10 britiske pund, hvorfor han faldt for nordjyske Allan Olsens musik, og hvilken LP han købte som sin første.</description>
+            <pubDate>Thu, 07 Nov 2019 23:08:05 +0100</pubDate>
+            <author>Jan Jensen</author>
+            <itunes:author>Jan Jensen</itunes:author>
+            <itunes:summary>Journalist på TV 2 Nord, Mogens Jørgensen, er gæst denne gang i "Mig og musik". Her fortæller han, hvilken (halvt) skotsk sanger, der skylder ham 10 britiske pund, hvorfor han faldt for nordjyske Allan Olsens musik, og hvilken LP han købte som sin første.</itunes:summary>
+            <itunes:duration>67:19</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Episode%206%20Mogens%20Jorgensen.mp3" type="audio/mpeg" length="96991025"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">3b7a62f5-3107-41e8-be10-5993032649c3</guid>
+            <title>Episode 5: Anne Kejser</title>
+            <description>Kom tæt på personen Anne Kejser i den nyeste udgave af podcasten "Mig og musik". Her fortæller hun bl.a. hvor hun har sin store passion for musicals fra, hvilken dansk sangerinde hun ser meget op til, og hvor hendes musiksmag især har ændret sig fra hun var barn.</description>
+            <pubDate>Thu, 31 Oct 2019 22:29:05 +0100</pubDate>
+            <author>Jan Jensen</author>
+            <itunes:author>Jan Jensen</itunes:author>
+            <itunes:summary>Kom tæt på personen Anne Kejser i den nyeste udgave af podcasten "Mig og musik". Her fortæller hun bl.a. hvor hun har sin store passion for musicals fra, hvilken dansk sangerinde hun ser meget op til, og hvor hendes musiksmag især har ændret sig fra hun var barn.</itunes:summary>
+            <itunes:duration>74:48</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Episode%205%20Anne%20Kejser.mp3" type="audio/mpeg" length="107769984"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">5b961444-4b5d-4f7e-8daf-b53537768db8</guid>
+            <title>Episode 4: Allan Gaarde</title>
+            <description>Den nu tidligere sportsdirektør i AaB, Allan Gaarde, vælger sangene denne gang i Mig og musik. Hør blandt andet, hvad der minder ham om det første møde med hustruen Sara, og hvem han forsøger at opdrage sønnen Gabriel på 5 år med - musikalsk.</description>
+            <pubDate>Thu, 24 Oct 2019 22:28:24 +0200</pubDate>
+            <author>Jan Jensen</author>
+            <itunes:author>Jan Jensen</itunes:author>
+            <itunes:summary>Den nu tidligere sportsdirektør i AaB, Allan Gaarde, vælger sangene denne gang i Mig og musik. Hør blandt andet, hvad der minder ham om det første møde med hustruen Sara, og hvem han forsøger at opdrage sønnen Gabriel på 5 år med - musikalsk.</itunes:summary>
+            <itunes:duration>65:51</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Episode%204%20Allan%20Gaarde.mp3" type="audio/mpeg" length="94878868"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">213e8d09-0074-4eca-a2db-6e6a2b50f691</guid>
+            <title>Episode 3 - Peter Møller Madsen</title>
+            <description>Find ud af hvor interessen for livemusik begyndte for lederen af Nibe Festival. Få svaret på hvilken koncert fra starten af 80'erne, der altid har betydet meget for ham, og kom med ned under motorhjelmen, når det afsløres, hvordan man lander et stort verdensnavn til Nbe Festival.</description>
+            <pubDate>Fri, 18 Oct 2019 05:49:42 +0200</pubDate>
+            <author>Jan Jensen</author>
+            <itunes:author>Jan Jensen</itunes:author>
+            <itunes:summary>Find ud af hvor interessen for livemusik begyndte for lederen af Nibe Festival. Få svaret på hvilken koncert fra starten af 80'erne, der altid har betydet meget for ham, og kom med ned under motorhjelmen, når det afsløres, hvordan man lander et stort verdensnavn til Nbe Festival.</itunes:summary>
+            <itunes:duration>74:23</itunes:duration>
+            <itunes:explicit>No</itunes:explicit>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Episode%203%20-%20Peter%20Moller%20Madsen.mp3" type="audio/mpeg" length="107190692"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">468a41c5-050f-4260-abb3-6856dbfb849b</guid>
+            <title>Episode 2: Christinna Pedersen &amp; Kamilla Rytter Juhl</title>
+            <description>Badmintonduoen og parret privat, Christinna Pedersen og Kamilla Rytter Juhl, vælger sangene i denne udgave af "Mig og musik". Hør bl.a. hvad de synger for datteren Molly, inden hun og skal sove, og hvilken dansk gruppe, der er god at skråle med på inden en tur med Mols Linien.</description>
+            <pubDate>Thu, 10 Oct 2019 23:33:09 +0200</pubDate>
+            <author>Jan Jensen</author>
+            <itunes:author>Jan Jensen</itunes:author>
+            <itunes:summary>Badmintonduoen og parret privat, Christinna Pedersen og Kamilla Rytter Juhl, vælger sangene i denne udgave af "Mig og musik". Hør bl.a. hvad de synger for datteren Molly, inden hun og skal sove, og hvilken dansk gruppe, der er god at skråle med på inden en tur med Mols Linien.</itunes:summary>
+            <itunes:duration>63:44</itunes:duration>
+            <itunes:explicit>No</itunes:explicit>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Episode%202%20Christinna%20Pedersen%20%26%20Kamilla%20Rytter%20Juhl.mp3" type="audio/mpeg" length="91841977"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">091963a8-756d-4127-beb5-5e142f6d87b3</guid>
+            <title>Episode 1: Thomas Kastrup-Larsen</title>
+            <description>Aalborgs borgmester fortæller, hvordan hans musikinteresse begyndte. Han giver dig svaret på, hvilken magisk koncert han var til på 1000Fryd i 90'erne, og så afslører han, hvem hans yndlingskunstner er.</description>
+            <pubDate>Thu, 03 Oct 2019 21:32:30 +0200</pubDate>
+            <author>NORDJYSKE Medier</author>
+            <itunes:author>NORDJYSKE Medier</itunes:author>
+            <itunes:summary>Aalborgs borgmester fortæller, hvordans musikinteresse begyndte. Han giver dig svaret på, hvilken magisk koncert han var til på 1000Fryd i 90'erne, og så afslører han, hvem hans yndlingskunstner er.</itunes:summary>
+            <itunes:duration>64:56</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Episode%201%20Thomas%20Kastrup-Larsen.mp3" type="audio/mpeg" length="93561670"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">4367218a-1ec9-43db-a69f-4c031f478cee</guid>
+            <title>Kommer snart</title>
+            <description>Her kommer snart podcast, hvor kendte nordjyder vælger musikken og fortæller om deres valg af sange.</description>
+            <pubDate>Fri, 20 Sep 2019 13:05:45 +0200</pubDate>
+            <author>podcast@nordjyske.dk (Jan Jensen)</author>
+            <itunes:author>Jan Jensen</itunes:author>
+            <itunes:summary>Her kommer snart podcast, hvor kendte nordjyder vælger musikken og fortæller om deres valg af sange.</itunes:summary>
+            <itunes:duration>00:39</itunes:duration>
+            <itunes:explicit>No</itunes:explicit>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Promo.mp3" type="audio/mpeg" length="991025"/>
+        </item>
+    </channel>
+</rss>
