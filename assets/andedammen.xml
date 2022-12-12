@@ -10,7 +10,7 @@ Vært: Anders Fuglsang</description>
         <link>http://www.radionordjyske.dk</link>
         <language>da</language>
         <copyright>NORDJYSKE Medier</copyright>
-        <lastBuildDate>Thu, 23 Jan 2020 12:56:08 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jan 2020 12:38:48 +0100</lastBuildDate>
         <itunes:subtitle>Tre goe' historier fra NORDJYSKE</itunes:subtitle>
         <itunes:summary>I Andedammen får du hver dag tre goe’ historier fra NORDJYSKE. Alt fra Obamas besøg i Aalborg over kæmpeordre til nordjysk industrigigant til lokalbrag i Superligaen. Hver dag får de tre nye historier om kultur, erhverv, sport, krimi, SoMe, byudvikling og landliv, og de bliver fortalt af de journalister der selv sidder med historien. 
 Vært: Anders Fuglsang</itunes:summary>
@@ -29,6 +29,28 @@ Vært: Anders Fuglsang</itunes:summary>
         <itunes:image href="http://www.radionet.dk/podcast/Podcastlogo.png"/>
         <itunes:category text="News &amp; Politics"/>
         <itunes:explicit>Clean</itunes:explicit>
+        <item>
+            <guid isPermaLink="false">4a1bb70f-2ddf-4645-885f-1837baa0aa6e</guid>
+            <title>24.01 - AaBs Mikkel Kaufmann solgt til FCK - Favorit til guldet: 'Vil egentlig helst være fri'.</title>
+            <description>Andedammen er i dag to goe' historier fra NORDJYSKE. Om AaBs supersalg af Mikkel Kaufmann til FCK. Hvordan kan AaB både få 25 mio. og samtidig beholde ham…. Og om Pandrupbokseren og OL-håbet Frederik Lundgaard Jensen, der i weekenden kan slå sig til sit 12. jyske mesterskab, men som egentlig helst vil være fri.&lt;br/&gt;
+Skriv til programmet: anders@radionordjyske.dk</description>
+            <pubDate>Fri, 24 Jan 2020 12:38:48 +0100</pubDate>
+            <author>anders@radionordjyske.dk (Anders Fuglsang)</author>
+            <itunes:author>anders@radionordjyske.dk (Anders Fuglsang)</itunes:author>
+            <itunes:summary>Andedammen er i dag to goe' historier fra NORDJYSKE. Om AaBs supersalg af Mikkel Kaufmann til FCK. Hvordan kan AaB både få 25 mio. og samtidig beholde ham…. Og om Pandrupbokseren og OL-håbet Frederik Lundgaard Jensen, der i weekenden kan slå sig til sit 12. jyske mesterskab, men som egentlig helst vil være fri.
+Skriv til programmet: anders@radionordjyske.dk</itunes:summary>
+            <itunes:duration>10:18</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Andedammen%20240120%20session.mp3" type="audio/mpeg" length="14907812"/>
+            <category>Nordjylland</category>
+            <category>journalistik</category>
+            <category>NORDJYSKE Medier</category>
+            <category>nordjyske historier</category>
+            <category>Andedammen</category>
+            <category>Radio NORDJYSKE</category>
+            <category>andedam</category>
+            <category>snak</category>
+            <category>Anders Fuglsang</category>
+        </item>
         <item>
             <guid isPermaLink="false">444b6936-c980-45c5-b88f-bb6b6a7a6866</guid>
             <title>23.01 - Klager bremser klitredning i Skagen - 100 års fødselsdag i Aars - Ginne Marker er indstillet til 3 GAFFA-priser.</title>
