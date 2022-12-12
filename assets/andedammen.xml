@@ -10,7 +10,7 @@ Vært: Anders Fuglsang</description>
         <link>http://www.radionordjyske.dk</link>
         <language>da</language>
         <copyright>NORDJYSKE Medier</copyright>
-        <lastBuildDate>Thu, 30 Jan 2020 12:52:30 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jan 2020 13:36:06 +0100</lastBuildDate>
         <itunes:subtitle>Tre goe' historier fra NORDJYSKE</itunes:subtitle>
         <itunes:summary>I Andedammen får du hver dag tre goe’ historier fra NORDJYSKE. Alt fra Obamas besøg i Aalborg over kæmpeordre til nordjysk industrigigant til lokalbrag i Superligaen. Hver dag får de tre nye historier om kultur, erhverv, sport, krimi, SoMe, byudvikling og landliv, og de bliver fortalt af de journalister der selv sidder med historien. 
 Vært: Anders Fuglsang</itunes:summary>
@@ -29,6 +29,30 @@ Vært: Anders Fuglsang</itunes:summary>
         <itunes:image href="http://www.radionet.dk/podcast/Podcastlogo.png"/>
         <itunes:category text="News &amp; Politics"/>
         <itunes:explicit>Clean</itunes:explicit>
+        <item>
+            <guid isPermaLink="false">7e0e513c-4af4-4ef4-b07c-7ffe26eb0cb9</guid>
+            <title>31.01 - Flere indblandet i ulovlig kystsikring - Udligning: Hjørring dropper sag mod staten - Nordjyske iværksættere er stærke og vedholdende.</title>
+            <description>Andedammen er tre goe' historier fra NORDJYSKE – og handler i dag om ulovlig kystsikring. Jakob Gammelgaard er med direkte fra retten i Hjørring og fortæller om indrømmelser fra grundejere, der var med til at plastre stranden syd for Lønstrup til i 2016 og 2017.&lt;br/&gt;
+Det handler om flere penge på vej til Nordjylland efter regeringens udspil til en udligningsreform - men det betyder også en ny struktur i Aalborg Kommune. Og om 1. sæson af Sæt i værk – podcastserie om nordjyske iværksættere.&lt;br/&gt;
+Skriv til programmet: anders@radionordjyske.dk</description>
+            <pubDate>Fri, 31 Jan 2020 13:36:06 +0100</pubDate>
+            <author>anders@radionordjyske.dk (Anders Fuglsang)</author>
+            <itunes:author>anders@radionordjyske.dk (Anders Fuglsang)</itunes:author>
+            <itunes:summary>Andedammen er tre goe' historier fra NORDJYSKE – og handler i dag om ulovlig kystsikring. Jakob Gammelgaard er med direkte fra retten i Hjørring og fortæller om indrømmelser fra grundejere, der var med til at plastre stranden syd for Lønstrup til i 2016 og 2017.
+Det handler om flere penge på vej til Nordjylland efter regeringens udspil til en udligningsreform - men det betyder også en ny struktur i Aalborg Kommune. Og om 1. sæson af Sæt i værk – podcastserie om nordjyske iværksættere.
+Skriv til programmet: anders@radionordjyske.dk</itunes:summary>
+            <itunes:duration>14:45</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Andedammen%20310120%20session.mp3" type="audio/mpeg" length="21296945"/>
+            <category>Nordjylland</category>
+            <category>journalistik</category>
+            <category>NORDJYSKE Medier</category>
+            <category>nordjyske historier</category>
+            <category>Andedammen</category>
+            <category>Radio NORDJYSKE</category>
+            <category>andedam</category>
+            <category>snak</category>
+            <category>Anders Fuglsang</category>
+        </item>
         <item>
             <guid isPermaLink="false">0d09037c-f798-43c1-9ea2-d38e0d44d5d4</guid>
             <title>30.01 - Tre nordjyske borgmestre: 'Ulla Astman lyver' - AaB dropper kamp pga. coronavirus - Nordjyske øjne på ny udligningsreform.</title>
