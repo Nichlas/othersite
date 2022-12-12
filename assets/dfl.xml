@@ -26,6 +26,21 @@
 <itunes:explicit>no</itunes:explicit>
 
 <item>
+<title>Den 4. Limfjordsforbindelse - 15.01.2020</title>
+<itunes:author>Radio NORDJYSKE</itunes:author>
+<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+<itunes:summary>Det bedste fra Den fjerde Limfjordsforbindelse fra 15.01.2020</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/dfl00013934.mp3" length="172392387" type="audio/mpeg" />
+<guid isPermaLink="false">2020011517052200013934</guid>
+<pubDate>Wed, 15 Jan 2020 14:00:00 +0200</pubDate>
+<itunes:duration>03:00:00</itunes:duration>
+<itunes:keywords>radio, Den fjerde Limfjordsforbindelse, DFL, NORDJYSKE</itunes:keywords>
+<itunes:explicit>no</itunes:explicit>
+<category>Den fjerde Limfjordsforbindelse</category>
+</item>
+
+
+<item>
 <title>Den 4. Limfjordsforbindelse - 14.01.2020</title>
 <itunes:author>Radio NORDJYSKE</itunes:author>
 <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
@@ -959,24 +974,6 @@
 <guid>http://www.radionet.dk/podcast/dfl00013441.mp3</guid>
 
 <pubDate>Thu, 24 Oct 2019 14:00:00 +0200</pubDate>
-
-<itunes:duration>03:00:00</itunes:duration>
-<itunes:keywords>radio, Den fjerde Limfjordsforbindelse, DFL, NORDJYSKE</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-<category>Den fjerde Limfjordsforbindelse</category>
-</item>
-
-
-<item>
-<title>Den 4. Limfjordsforbindelse - 23.10.2019</title>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-<itunes:summary>Det bedste fra Den fjerde Limfjordsforbindelse fra 23.10.2019</itunes:summary>
-
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/dfl00013440.mp3" length="85624656" type="audio/mpeg" />
-<guid>http://www.radionet.dk/podcast/dfl00013440.mp3</guid>
-
-<pubDate>Wed, 23 Oct 2019 14:00:00 +0200</pubDate>
 
 <itunes:duration>03:00:00</itunes:duration>
 <itunes:keywords>radio, Den fjerde Limfjordsforbindelse, DFL, NORDJYSKE</itunes:keywords>
