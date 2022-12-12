@@ -25,6 +25,20 @@
 <itunes:category text="Music" />
 <itunes:explicit>no</itunes:explicit> 
 ﻿<item>
+	<title>Go' morgen - 13.09.2019</title>
+	<itunes:author>Radio NORDJYSKE</itunes:author>
+	<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+	<itunes:summary>Det bedste fra Go' morgen på Radio NORDJYSKE - 13.09.2019</itunes:summary>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/gm00012552.mp3" length="85989488" type="audio/mpeg" />
+	<guid>http://www.radionet.dk/podcast/gm00012552.mp3</guid>
+	<pubDate>Fri, 13 Sep 2019 06:00:00 +0200</pubDate>
+	<itunes:duration>03:00:00</itunes:duration>
+	<itunes:keywords>radio, NORDJYSKE</itunes:keywords>
+	<itunes:explicit>No</itunes:explicit>
+	<category>Music, News</category>
+</item>
+
+﻿<item>
 	<title>Go' morgen - 12.09.2019</title>
 	<itunes:author>Radio NORDJYSKE</itunes:author>
 	<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
@@ -975,24 +989,6 @@
 <guid>http://www.radionet.dk/podcast/gm00011557.mp3</guid>
 
 <pubDate>Mon, 24 Jun 2019 06:00:00 +0200</pubDate>
-
-<itunes:duration>03:00:00</itunes:duration>
-<itunes:keywords>radio, NORDJYSKE</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-<category>Radio NORDJYSKE</category>
-</item>
-
-﻿
-<item>
-<title>Go' morgen - 21.06.2019</title>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-<itunes:summary>Det bedste fra Go' morgen på Radio NORDJYSKE - 21.06.2019</itunes:summary>
-
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/gm00011544.mp3" length="85989488" type="audio/mpeg" />
-<guid>http://www.radionet.dk/podcast/gm00011544.mp3</guid>
-
-<pubDate>Fri, 21 Jun 2019 06:00:00 +0200</pubDate>
 
 <itunes:duration>03:00:00</itunes:duration>
 <itunes:keywords>radio, NORDJYSKE</itunes:keywords>
