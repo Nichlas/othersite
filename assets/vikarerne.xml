@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+ 
+
+<channel>
+
+<title>Vikarerne</title>
+<link>http://www.anr.dk</link>
+<language>da</language>
+<copyright>&#xA9; ANR 2011</copyright>
+<atom:link href="http://www.radionet.dk/podcast/vikarerne.xml" rel="self" type="application/rss+xml" />
+
+<image>
+	<url>http://www.radionet.dk/podcast/anrb144x144.jpg</url> 
+	<title>Vikarerne</title> 
+	<link>http://www.anr.dk</link> 
+	<width>138</width> 
+	<height>138</height> 
+</image>
+
+
+<itunes:subtitle>ANR - Radio med puls</itunes:subtitle>
+<itunes:author>ANR</itunes:author>
+<itunes:summary>ANR - Radio med puls</itunes:summary>
+<description>ANR - Radio med puls</description>
+
+<itunes:owner>
+	<itunes:name>ANR</itunes:name>
+	<itunes:email>kontakt@anr.dk</itunes:email>
+</itunes:owner>
+
+<itunes:image href="http://www.radionet.dk/podcast/anr600x600.jpg" />
+<itunes:category text="Comedy" />
+<itunes:category text="Music" />
+<itunes:explicit>no</itunes:explicit> 
+
+<item>
+<title>Vikarerne - 09.05.2011</title>
+<itunes:author>ANR</itunes:author>
+<itunes:subtitle>ANR - Radio med puls</itunes:subtitle>
+<itunes:summary>Det bedste fra Vikarerne fra 09.05.2011</itunes:summary>
+
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/vk00003415.mp3" length="36222220" type="audio/mpeg" />
+<guid>http://www.radionet.dk/podcast/vk00003415.mp3</guid>
+<pubDate>Mon, 9 May 2011 06:00:35 +0200</pubDate>
+
+<itunes:duration>01:16:00</itunes:duration>
+<itunes:keywords>radio, Vikarerne, ANR</itunes:keywords>
+<itunes:explicit>no</itunes:explicit> 
+<category>Vikarerne</category>
+</item>
+
+<item>
+<title>Vikarerne - 06.05.2011</title>
+<itunes:author>ANR</itunes:author>
+<itunes:subtitle>ANR - Radio med puls</itunes:subtitle>
+<itunes:summary>Det bedste fra Vikarerne fra 06.05.2011</itunes:summary>
+
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/vk00003412.mp3" length="38658086" type="audio/mpeg" />
+<guid>http://www.radionet.dk/podcast/vk00003412.mp3</guid>
+<pubDate>Fri, 6 May 2011 06:00:33 +0200</pubDate>
+
+<itunes:duration>01:21:07</itunes:duration>
+<itunes:keywords>radio, Vikarerne, ANR</itunes:keywords>
+<itunes:explicit>no</itunes:explicit> 
+<category>Vikarerne</category>
+</item>
+
+<item>
+<title>Vikarerne - 05.05.2011</title>
+<itunes:author>ANR</itunes:author>
+<itunes:subtitle>ANR - Radio med puls</itunes:subtitle>
+<itunes:summary>Det bedste fra Vikarerne fra 05.05.2011</itunes:summary>
+
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/vk00003409.mp3" length="41706263" type="audio/mpeg" />
+<guid>http://www.radionet.dk/podcast/vk00003409.mp3</guid>
+<pubDate>Thu, 5 May 2011 06:00:28 +0200</pubDate>
+
+<itunes:duration>01:27:18</itunes:duration>
+<itunes:keywords>radio, Vikarerne, ANR</itunes:keywords>
+<itunes:explicit>no</itunes:explicit> 
+<category>Vikarerne</category>
+</item>
+
+<item>
+<title>Vikarerne - 04.05.2011</title>
+<itunes:author>ANR</itunes:author>
+<itunes:subtitle>ANR - Radio med puls</itunes:subtitle>
+<itunes:summary>Det bedste fra Vikarerne fra 04.05.2011</itunes:summary>
+
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/vk00003406.mp3" length="37700124" type="audio/mpeg" />
+<guid>http://www.radionet.dk/podcast/vk00003406.mp3</guid>
+<pubDate>Wed, 4 May 2011 06:00:32 +0200</pubDate>
+
+<itunes:duration>01:19:04</itunes:duration>
+<itunes:keywords>radio, Vikarerne, ANR</itunes:keywords>
+<itunes:explicit>no</itunes:explicit> 
+<category>Vikarerne</category>
+</item>
+
+<item>
+<title>Vikarerne - 03.05.2011</title>
+<itunes:author>ANR</itunes:author>
+<itunes:subtitle>ANR - Radio med puls</itunes:subtitle>
+<itunes:summary>Det bedste fra Vikarerne fra 03.05.2011</itunes:summary>
+
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/vk00003405.mp3" length="36789600" type="audio/mpeg" />
+<guid>http://www.radionet.dk/podcast/vk00003405.mp3</guid>
+<pubDate>Tue, 3 May 2011 06:00:31 +0200</pubDate>
+
+<itunes:duration>01:17:11</itunes:duration>
+<itunes:keywords>radio, Vikarerne, ANR</itunes:keywords>
+<itunes:explicit>no</itunes:explicit> 
+<category>Vikarerne</category>
+</item>
+  </channel>
+</rss>

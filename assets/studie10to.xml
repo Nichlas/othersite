@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+ 
+
+<channel>
+
+<title>Studie 10 - TO</title>
+<link>http://www.anr.dk</link>
+<language>da</language>
+<copyright>&#xA9; ANR 2010</copyright>
+<atom:link href="http://www.radionet.dk/podcast/studie10to.xml" rel="self" type="application/rss+xml" />
+
+<image>
+	<url>http://www.radionet.dk/podcast/Studie10to144x144.jpg</url> 
+	<title>Studie 10 - TO</title> 
+	<link>http://www.anr.dk</link> 
+	<width>138</width> 
+	<height>138</height> 
+</image>
+
+<itunes:subtitle>ANR - Radio med puls</itunes:subtitle>
+<itunes:author>ANR</itunes:author>
+<itunes:summary>ANR - Radio med puls</itunes:summary>
+<description>ANR - Radio med puls</description>
+
+<itunes:owner>
+<itunes:name>ANR</itunes:name>
+<itunes:email>kontakt@anr.dk</itunes:email>
+</itunes:owner>
+
+<itunes:image href="http://www.radionet.dk/podcast/Studie10to600x600.jpg" />
+<itunes:category text="Comedy" />
+<itunes:category text="Music" />
+<itunes:explicit>no</itunes:explicit>
+
+<item>
+<title>Studie 10-TO - 27.12.2010</title>
+<itunes:author>ANR</itunes:author>
+<itunes:subtitle>ANR - Radio med puls</itunes:subtitle>
+<itunes:summary>Det bedste fra Studie 10-TO fra 27.12.2010</itunes:summary>
+
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Studie00003156.mp3" length="5713502" type="audio/mpeg" />
+<guid>http://www.radionet.dk/podcast/Studie00003156.mp3</guid>
+
+<pubDate>Mon, 27 Dec 2010 10:02:28 +0200</pubDate>
+
+<itunes:duration>12:04</itunes:duration>
+<itunes:keywords>radio, Studie 10 - TO, ANR</itunes:keywords>
+<itunes:explicit>no</itunes:explicit> 
+<category>Studie 10-TO</category>
+</item>
+
+
+<item>
+<title>Studie 10-TO - 23.12.2010</title>
+<itunes:author>ANR</itunes:author>
+<itunes:subtitle>ANR - Radio med puls</itunes:subtitle>
+<itunes:summary>Det bedste fra Studie 10-TO fra 23.12.2010</itunes:summary>
+
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Studie00003153.mp3" length="8594285" type="audio/mpeg" />
+<guid>http://www.radionet.dk/podcast/Studie00003153.mp3</guid>
+
+<pubDate>Thu, 23 Dec 2010 10:01:12 +0200</pubDate>
+
+<itunes:duration>18:09</itunes:duration>
+<itunes:keywords>radio, Studie 10 - TO, ANR</itunes:keywords>
+<itunes:explicit>no</itunes:explicit> 
+<category>Studie 10-TO</category>
+</item>
+
+
+<item>
+<title>Studie 10-TO - 22.12.2010</title>
+<itunes:author>ANR</itunes:author>
+<itunes:subtitle>ANR - Radio med puls</itunes:subtitle>
+<itunes:summary>Det bedste fra Studie 10-TO fra 22.12.2010</itunes:summary>
+
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Studie00003151.mp3" length="21053649" type="audio/mpeg" />
+<guid>http://www.radionet.dk/podcast/Studie00003151.mp3</guid>
+
+<pubDate>Wed, 22 Dec 2010 10:02:27 +0200</pubDate>
+
+<itunes:duration>44:07</itunes:duration>
+<itunes:keywords>radio, Studie 10 - TO, ANR</itunes:keywords>
+<itunes:explicit>no</itunes:explicit> 
+<category>Studie 10-TO</category>
+</item>
+
+
+<item>
+<title>Studie 10-TO - 21.12.2010</title>
+<itunes:author>ANR</itunes:author>
+<itunes:subtitle>ANR - Radio med puls</itunes:subtitle>
+<itunes:summary>Det bedste fra Studie 10-TO fra 21.12.2010</itunes:summary>
+
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Studie00003148.mp3" length="12168672" type="audio/mpeg" />
+<guid>http://www.radionet.dk/podcast/Studie00003148.mp3</guid>
+
+<pubDate>Tue, 21 Dec 2010 10:02:12 +0200</pubDate>
+
+<itunes:duration>25:39</itunes:duration>
+<itunes:keywords>radio, Studie 10 - TO, ANR</itunes:keywords>
+<itunes:explicit>no</itunes:explicit> 
+<category>Studie 10-TO</category>
+</item>
+
+
+<item>
+<title>Studie 10-TO - 20.12.2010</title>
+<itunes:author>ANR</itunes:author>
+<itunes:subtitle>ANR - Radio med puls</itunes:subtitle>
+<itunes:summary>Det bedste fra Studie 10-TO fra 20.12.2010</itunes:summary>
+
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Studie00003145.mp3" length="12838452" type="audio/mpeg" />
+<guid>http://www.radionet.dk/podcast/Studie00003145.mp3</guid>
+
+<pubDate>Mon, 20 Dec 2010 10:01:56 +0200</pubDate>
+
+<itunes:duration>27:03</itunes:duration>
+<itunes:keywords>radio, Studie 10 - TO, ANR</itunes:keywords>
+<itunes:explicit>no</itunes:explicit> 
+<category>Studie 10-TO</category>
+</item>
+
+  </channel>
+</rss>
