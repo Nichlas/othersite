@@ -24,11 +24,110 @@
         <itunes:image href="http://www.radionet.dk/podcast/radionordjyske_1400.png"/>
         <itunes:category text="Comedy"/>
         <itunes:category text="Music"/>
-        <itunes:explicit>no</itunes:explicit>
-        <generator>Hindenburg Journalist Pro 1.81.2256</generator>
+        <itunes:explicit>Clean</itunes:explicit>
+        <generator>Hindenburg Broadcaster 1.82.2304</generator>
         <pubDate>Thu, 21 Mar 2019 13:32:21 +0100</pubDate>
-        <lastBuildDate>Tue, 25 Jun 2019 13:09:07 +0200</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jan 2020 13:48:29 +0100</lastBuildDate>
         <itunes:keywords>Nordjylland, radio, NORDJYSKE, Skovmand, Bue, humor, direktør, sjov, nordjylland</itunes:keywords>
+        <item>
+            <guid isPermaLink="false">cc3f67d3-b5cc-4aa4-9dad-11de9e58a2d2</guid>
+            <title>Balkonen i 2020</title>
+            <description>I denne udgave med royalt nyt, en bogstavevender der ikke vender bogstaver og pjækkeri på arbejdet.</description>
+            <pubDate>Fri, 10 Jan 2020 13:48:29 +0100</pubDate>
+            <author>Niels Holger Thrane Skovmand</author>
+            <itunes:author>Niels Holger Thrane Skovmand</itunes:author>
+            <itunes:summary>I denne udgave med royalt nyt, en bogstavevender der ikke vender bogstaver og pjækkeri på arbejdet.</itunes:summary>
+            <itunes:duration>27:27</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Balkonen%20i%202020.mp3" type="audio/mpeg" length="26415744"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">77fb23f3-af42-48d7-8802-34d032ac2318</guid>
+            <title>Balkon med Julemanden 20/12</title>
+            <description>Julemanden er med. Vi kigger på en farlig trappe. Går Tom Bue på toilettet i bilen? Skal Skovmand spise alene? Alt dette i denne udgave af Balkonen.</description>
+            <pubDate>Thu, 19 Dec 2019 13:05:55 +0100</pubDate>
+            <author>Niels Skovmand</author>
+            <itunes:author>Niels Skovmand</itunes:author>
+            <itunes:summary>Julemanden er med. Vi kigger på en farlig trappe. Går Tom Bue på toilettet i bilen? Skal Skovmand spise alene? Alt dette i denne udgave af Balkonen.</itunes:summary>
+            <itunes:duration>29:31</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/balpod2012.mp3" type="audio/mpeg" length="28394880"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">c008b154-d7f9-4299-b60a-9bcd43cb8021</guid>
+            <title>Julehandel, Jesus og onani</title>
+            <description>Julen rykker tættere på og det påvirker naturligvis også denne udgave af Balkonen med Skovmand og Bue:)</description>
+            <pubDate>Thu, 12 Dec 2019 09:30:16 +0100</pubDate>
+            <author>Niels Skovmand</author>
+            <itunes:author>Niels Skovmand</itunes:author>
+            <itunes:summary>Julen rykker tættere på og det påvirker naturligvis også denne udgave af Balkonen med Skovmand og Bue:)</itunes:summary>
+            <itunes:duration>24:54</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Julehandel,%20Jesus%20og%20onani.mp3" type="audio/mpeg" length="23966208"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">a410aeed-37ab-448c-b154-88f7e39653ca</guid>
+            <title>Vejvrede og golden showers</title>
+            <description>Dette er Balokonen med Skovmand og Bue. Denne gang med Golden showers, vejvrede og finanslov. Glædelig jul.</description>
+            <pubDate>Thu, 05 Dec 2019 09:58:09 +0100</pubDate>
+            <author>Niels Skovmand</author>
+            <itunes:author>Niels Skovmand</itunes:author>
+            <itunes:summary>Dette er Balokonen med Skovmand og Bue. Denne gang med Golden showers, vejvrede og finanslov. Glædelig jul.</itunes:summary>
+            <itunes:duration>32:49</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Bal%20pod%20061219.mp3" type="audio/mpeg" length="31567104"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">e1248ff9-7535-41ec-a31b-e591697fd8b7</guid>
+            <title>Hey Google i Balkonen</title>
+            <description>Hvad sker der når man taler utydeligt til google? Hvorfor håner livet Skovmand og er Bue på sukkertrip. Det og Hashkage til en begravelse, i denne udgave af Balkonen.</description>
+            <pubDate>Wed, 30 Oct 2019 13:57:16 +0100</pubDate>
+            <author>podcast@nordjyske.dk (Niels Skovmand)</author>
+            <itunes:author>Niels Skovmand</itunes:author>
+            <itunes:summary>Hvad sker der når man taler utydeligt til google? Hvorfor håner livet Skovmand og er Bue på sukkertrip. Det og Hashkage til en begravelse, i denne udgave af Balkonen.</itunes:summary>
+            <itunes:duration>30:54</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/0111%20podcast.mp3" type="audio/mpeg" length="29729280"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">f564e23f-530c-4e50-996b-bc5d4792248f</guid>
+            <title>Balkonen med verdens bedste nyhed</title>
+            <description>I denne udgave af Balkonen kan du blive klogere på hvad der sker hvis du lyver for dit barn, kagehetz og verderns bedste nyhed!</description>
+            <pubDate>Fri, 11 Oct 2019 06:42:28 +0200</pubDate>
+            <author>podcast@nordjyske.dk (Niels Skovmand)</author>
+            <itunes:author>Niels Skovmand</itunes:author>
+            <itunes:summary>I denne udgave af Balkonen kan du blive klogere på hvad der sker hvis du lyver for dit barn, kagehetz og verderns bedste nyhed!</itunes:summary>
+            <itunes:duration>26:47</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Balpod1110.mp3" type="audio/mpeg" length="25784832"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">c3eb9728-a14a-44c8-9486-cbb23b0de7c5</guid>
+            <title>Skovmand &amp; Bue til Cold Games</title>
+            <description>I denne udgave er Skovmand og Bue taget til Cold Hawaii Games i Klitmøller. Her møder de voldlige børn, en tysk kvinde der sælger karrypølse og mand der bruger vaskemidlet Piss Off. </description>
+            <pubDate>Fri, 20 Sep 2019 08:30:56 +0200</pubDate>
+            <author>podcast@nordjyske.dk (Niels Skovmand)</author>
+            <itunes:author>Niels Skovmand</itunes:author>
+            <itunes:summary>I denne udgave er Skovmand og Bue taget til Cold Hawaii Games i Klitmøller. Her møder de voldlige børn, en tysk kvinde der sælger karrypølse og mand der bruger vaskemidlet Piss Off. </itunes:summary>
+            <itunes:duration>102:17</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Klitm%F8ller%20podcast.mp3" type="audio/mpeg" length="98254725"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">74225e6d-0da2-4d45-bdac-44b149267a74</guid>
+            <title>Balkonen-Nu med kogeplade</title>
+            <description>I denne udgave bliver der kigget på Brexit, trump og kogeplademisundelse.</description>
+            <pubDate>Wed, 11 Sep 2019 10:09:53 +0200</pubDate>
+            <author>podcast@nordjyske.dk (Niels Skovmand)</author>
+            <itunes:author>Niels Skovmand</itunes:author>
+            <itunes:summary>I denne udgave bliver der kigget på Brexit, trump og kogeplademisundelse.</itunes:summary>
+            <itunes:duration>28:34</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Balkonen%2006-09-19%20podcast.mp3" type="audio/mpeg" length="27488384"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">db2ee8ce-9b07-4785-b03c-01cacd52e240</guid>
+            <title>Balkonen med Kreditforening, Kursus og DHL</title>
+            <description>DHL stafet, rekord renter på kreditforeningen og buler i  bilen. Dette er bare nogle af de emne Skovmand og Bue strejfer i denne udgave af Balkonen.</description>
+            <pubDate>Mon, 02 Sep 2019 08:49:59 +0200</pubDate>
+            <author>podcast@nordjyske.dk (Niels Skovmand)</author>
+            <itunes:author>Niels Skovmand</itunes:author>
+            <itunes:summary>DHL stafet, rekord renter på kreditforeningen og buler i  bilen. Dette er bare nogle af de emne Skovmand og Bue strejfer i denne udgave af Balkonen.</itunes:summary>
+            <itunes:duration>32:47</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Balkonen%2030-8-2019.mp3" type="audio/mpeg" length="31535482"/>
+        </item>
         <item>
             <guid isPermaLink="false">3f13689f-568f-40eb-92de-1ec7adb40b70</guid>
             <title>Balkonen sommer 28/7</title>
@@ -142,7 +241,7 @@ Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
             <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Balkonen%20podcast%202103.mp3" type="audio/mpeg" length="34838196"/>
             <category>Radio NORDJYSKE</category>
         </item>
-		<item>
+        <item>
             <title>Balkonen - 15.03.2019</title>
             <itunes:author>Radio NORDJYSKE</itunes:author>
             <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
@@ -154,8 +253,8 @@ Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
             <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <category>Radio NORDJYSKE</category>
-		</item>
-		<item>
+        </item>
+        <item>
             <title>Balkonen - 08.03.2019</title>
             <itunes:author>Radio NORDJYSKE</itunes:author>
             <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
