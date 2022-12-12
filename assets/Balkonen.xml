@@ -1,1098 +1,887 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-
-
-<channel>
-
-<title>Balkonen med Skovmand og Bue</title>
-<link>http://www.radionordjyske.dk</link>
-<language>da</language>
-<copyright>&#xA9; Radio NORDJYSKE</copyright>
-<atom:link href="http://www.radionet.dk/podcast/Balkonen.xml" rel="self" type="application/rss+xml" />
-
-<image>
-	<url>http://www.radionet.dk/podcast/radionordjyske_1400.png</url> 
-	<title>Balkonen</title> 
-	<link>http://www.radionordjyske.dk</link> 
-	<width>138</width> 
-	<height>138</height> 
-</image>
-
-<itunes:subtitle>Radio NORDJYSKE</itunes:subtitle>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:summary>Radio NORDJYSKE</itunes:summary>
-<description>Radio NORDJYSKE</description>
-
-<itunes:owner>
-<itunes:name>Radio NORDJYSKE</itunes:name>
-<itunes:email>kontakt@radionordjyske.dk</itunes:email>
-</itunes:owner>
-
-<itunes:image href="http://www.radionet.dk/podcast/radionordjyske_1400.png" />
-<itunes:category text="Nordjylland" />
-<itunes:category text="Music" />
-<itunes:explicit>no</itunes:explicit> 
-﻿
-<item>
-<title>Balkonen - 13.07.2018</title>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-<itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 13.07.2018</itunes:summary>
-
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00010414.mp3" length="12632151" type="audio/mpeg" />
-<guid>http://www.radionet.dk/podcast/Balkonen00010414.mp3</guid>
-
-<pubDate>Fri, 13 Jul 2018 09:00:12 +0200</pubDate>
-
-<itunes:duration>26:33</itunes:duration>
-<itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-<category>Radio NORDJYSKE</category>
-</item>
-
-﻿
-<item>
-<title>Balkonen - 22.06.2018</title>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-<itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 22.06.2018</itunes:summary>
-
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00010378.mp3" length="3801303" type="audio/mpeg" />
-<guid>http://www.radionet.dk/podcast/Balkonen00010378.mp3</guid>
-
-<pubDate>Fri, 22 Jun 2018 09:01:14 +0200</pubDate>
-
-<itunes:duration>08:00</itunes:duration>
-<itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-<category>Radio NORDJYSKE</category>
-</item>
-
-﻿
-<item>
-<title>Balkonen - 15.06.2018</title>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-<itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 15.06.2018</itunes:summary>
-
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00010363.mp3" length="17679895" type="audio/mpeg" />
-<guid>http://www.radionet.dk/podcast/Balkonen00010363.mp3</guid>
-
-<pubDate>Fri, 15 Jun 2018 09:05:45 +0200</pubDate>
-
-<itunes:duration>37:05</itunes:duration>
-<itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-<category>Radio NORDJYSKE</category>
-</item>
-
-﻿
-<item>
-<title>Balkonen - 01.06.2018</title>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-<itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 01.06.2018</itunes:summary>
-
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00010335.mp3" length="18105463" type="audio/mpeg" />
-<guid>http://www.radionet.dk/podcast/Balkonen00010335.mp3</guid>
-
-<pubDate>Fri, 1 Jun 2018 09:07:00 +0200</pubDate>
-
-<itunes:duration>37:58</itunes:duration>
-<itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-<category>Radio NORDJYSKE</category>
-</item>
-
-﻿
-<item>
-<title>Balkonen - 25.05.2018</title>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-<itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 25.05.2018</itunes:summary>
-
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00010316.mp3" length="20150935" type="audio/mpeg" />
-<guid>http://www.radionet.dk/podcast/Balkonen00010316.mp3</guid>
-
-<pubDate>Fri, 25 May 2018 09:02:39 +0200</pubDate>
-
-<itunes:duration>42:15</itunes:duration>
-<itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-<category>Radio NORDJYSKE</category>
-</item>
-
-﻿
-<item>
-<title>Balkonen - 18.05.2018</title>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-<itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 18.05.2018</itunes:summary>
-
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00010301.mp3" length="18758999" type="audio/mpeg" />
-<guid>http://www.radionet.dk/podcast/Balkonen00010301.mp3</guid>
-
-<pubDate>Fri, 18 May 2018 09:06:41 +0200</pubDate>
-
-<itunes:duration>39:20</itunes:duration>
-<itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-<category>Radio NORDJYSKE</category>
-</item>
-
-﻿
-<item>
-<title>Balkonen - 20.04.2018</title>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-<itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 20.04.2018</itunes:summary>
-
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00010242.mp3" length="18016439" type="audio/mpeg" />
-<guid>http://www.radionet.dk/podcast/Balkonen00010242.mp3</guid>
-
-<pubDate>Fri, 20 Apr 2018 09:06:43 +0200</pubDate>
-
-<itunes:duration>37:47</itunes:duration>
-<itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-<category>Radio NORDJYSKE</category>
-</item>
-
-﻿
-<item>
-<title>Balkonen - 13.04.2018</title>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-<itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 13.04.2018</itunes:summary>
-
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00010224.mp3" length="16684407" type="audio/mpeg" />
-<guid>http://www.radionet.dk/podcast/Balkonen00010224.mp3</guid>
-
-<pubDate>Fri, 13 Apr 2018 09:06:42 +0200</pubDate>
-
-<itunes:duration>34:59</itunes:duration>
-<itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-<category>Radio NORDJYSKE</category>
-</item>
-
-﻿
-<item>
-<title>Balkonen - 23.03.2018</title>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-<itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 23.03.2018</itunes:summary>
-
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00010188.mp3" length="18153927" type="audio/mpeg" />
-<guid>http://www.radionet.dk/podcast/Balkonen00010188.mp3</guid>
-
-<pubDate>Fri, 23 Mar 2018 09:06:19 +0200</pubDate>
-
-<itunes:duration>38:04</itunes:duration>
-<itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-<category>Radio NORDJYSKE</category>
-</item>
-
-﻿
-<item>
-<title>Balkonen - 16.03.2018</title>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-<itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 16.03.2018</itunes:summary>
-
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00010173.mp3" length="17019079" type="audio/mpeg" />
-<guid>http://www.radionet.dk/podcast/Balkonen00010173.mp3</guid>
-
-<pubDate>Fri, 16 Mar 2018 09:06:56 +0200</pubDate>
-
-<itunes:duration>35:41</itunes:duration>
-<itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-<category>Radio NORDJYSKE</category>
-</item>
-
-﻿
-<item>
-<title>Balkonen - 09.03.2018</title>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-<itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 09.03.2018</itunes:summary>
-
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00010158.mp3" length="17541159" type="audio/mpeg" />
-<guid>http://www.radionet.dk/podcast/Balkonen00010158.mp3</guid>
-
-<pubDate>Fri, 9 Mar 2018 09:07:22 +0200</pubDate>
-
-<itunes:duration>36:47</itunes:duration>
-<itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-<category>Radio NORDJYSKE</category>
-</item>
-
-﻿
-<item>
-<title>Balkonen - 16.02.2018</title>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-<itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 16.02.2018</itunes:summary>
-
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00010116.mp3" length="19541287" type="audio/mpeg" />
-<guid>http://www.radionet.dk/podcast/Balkonen00010116.mp3</guid>
-
-<pubDate>Fri, 16 Feb 2018 09:06:36 +0200</pubDate>
-
-<itunes:duration>40:58</itunes:duration>
-<itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-<category>Radio NORDJYSKE</category>
-</item>
-
-﻿
-<item>
-<title>Balkonen - 09.02.2018</title>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-<itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 09.02.2018</itunes:summary>
-
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00010100.mp3" length="17672199" type="audio/mpeg" />
-<guid>http://www.radionet.dk/podcast/Balkonen00010100.mp3</guid>
-
-<pubDate>Fri, 9 Feb 2018 09:06:50 +0200</pubDate>
-
-<itunes:duration>37:03</itunes:duration>
-<itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-<category>Radio NORDJYSKE</category>
-</item>
-
-﻿
-<item>
-<title>Balkonen - 02.02.2018</title>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-<itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 02.02.2018</itunes:summary>
-
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00010081.mp3" length="19199127" type="audio/mpeg" />
-<guid>http://www.radionet.dk/podcast/Balkonen00010081.mp3</guid>
-
-<pubDate>Fri, 2 Feb 2018 09:06:51 +0200</pubDate>
-
-<itunes:duration>40:14</itunes:duration>
-<itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-<category>Radio NORDJYSKE</category>
-</item>
-
-﻿
-<item>
-<title>Balkonen - 26.01.2018</title>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-<itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 26.01.2018</itunes:summary>
-
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00010065.mp3" length="5378775" type="audio/mpeg" />
-<guid>http://www.radionet.dk/podcast/Balkonen00010065.mp3</guid>
-
-<pubDate>Fri, 26 Jan 2018 09:00:58 +0200</pubDate>
-
-<itunes:duration>11:18</itunes:duration>
-<itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-<category>Radio NORDJYSKE</category>
-</item>
-
-﻿
-<item>
-<title>Balkonen - 19.01.2018</title>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-<itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 19.01.2018</itunes:summary>
-
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00010056.mp3" length="17816343" type="audio/mpeg" />
-<guid>http://www.radionet.dk/podcast/Balkonen00010056.mp3</guid>
-
-<pubDate>Fri, 19 Jan 2018 09:06:30 +0200</pubDate>
-
-<itunes:duration>37:27</itunes:duration>
-<itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-<category>Radio NORDJYSKE</category>
-</item>
-
-﻿
-<item>
-<title>Balkonen - 12.01.2018</title>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-<itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 12.01.2018</itunes:summary>
-
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00010040.mp3" length="17230407" type="audio/mpeg" />
-<guid>http://www.radionet.dk/podcast/Balkonen00010040.mp3</guid>
-
-<pubDate>Fri, 12 Jan 2018 09:05:48 +0200</pubDate>
-
-<itunes:duration>36:08</itunes:duration>
-<itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-<category>Radio NORDJYSKE</category>
-</item>
-
-﻿
-<item>
-<title>Balkonen - 05.01.2018</title>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-<itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 05.01.2018</itunes:summary>
-
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00010020.mp3" length="17651815" type="audio/mpeg" />
-<guid>http://www.radionet.dk/podcast/Balkonen00010020.mp3</guid>
-
-<pubDate>Fri, 5 Jan 2018 09:06:47 +0200</pubDate>
-
-<itunes:duration>37:01</itunes:duration>
-<itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-<category>Radio NORDJYSKE</category>
-</item>
-
-﻿
-<item>
-<title>Balkonen - 22.12.2017</title>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-<itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 22.12.2017</itunes:summary>
-
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00010006.mp3" length="1384135" type="audio/mpeg" />
-<guid>http://www.radionet.dk/podcast/Balkonen00010006.mp3</guid>
-
-<pubDate>Fri, 22 Dec 2017 09:01:04 +0200</pubDate>
-
-<itunes:duration>02:55</itunes:duration>
-<itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-<category>Radio NORDJYSKE</category>
-</item>
-
-﻿
-<item>
-<title>Balkonen - 15.12.2017</title>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-<itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 15.12.2017</itunes:summary>
-
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00009991.mp3" length="6551895" type="audio/mpeg" />
-<guid>http://www.radionet.dk/podcast/Balkonen00009991.mp3</guid>
-
-<pubDate>Fri, 15 Dec 2017 09:01:21 +0200</pubDate>
-
-<itunes:duration>14:25</itunes:duration>
-<itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-<category>Radio NORDJYSKE</category>
-</item>
-
-﻿
-<item>
-<title>Balkonen - 10.11.2017</title>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-<itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 10.11.2017</itunes:summary>
-
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00009945.mp3" length="22595143" type="audio/mpeg" />
-<guid>http://www.radionet.dk/podcast/Balkonen00009945.mp3</guid>
-
-<pubDate>Fri, 10 Nov 2017 09:06:52 +0200</pubDate>
-
-<itunes:duration>47:24</itunes:duration>
-<itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-<category>Radio NORDJYSKE</category>
-</item>
-
-﻿
-<item>
-<title>Balkonen - 03.11.2017</title>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-<itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 03.11.2017</itunes:summary>
-
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00009927.mp3" length="27671383" type="audio/mpeg" />
-<guid>http://www.radionet.dk/podcast/Balkonen00009927.mp3</guid>
-
-<pubDate>Fri, 3 Nov 2017 09:06:31 +0200</pubDate>
-
-<itunes:duration>58:01</itunes:duration>
-<itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-<category>Radio NORDJYSKE</category>
-</item>
-
-﻿
-<item>
-<title>Balkonen - 27.10.2017</title>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-<itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 27.10.2017</itunes:summary>
-
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00009899.mp3" length="25978887" type="audio/mpeg" />
-<guid>http://www.radionet.dk/podcast/Balkonen00009899.mp3</guid>
-
-<pubDate>Fri, 27 Oct 2017 09:06:24 +0200</pubDate>
-
-<itunes:duration>54:29</itunes:duration>
-<itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-<category>Radio NORDJYSKE</category>
-</item>
-
-﻿
-<item>
-<title>Balkonen - 20.10.2017</title>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-<itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 20.10.2017</itunes:summary>
-
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00009881.mp3" length="6780279" type="audio/mpeg" />
-<guid>http://www.radionet.dk/podcast/Balkonen00009881.mp3</guid>
-
-<pubDate>Fri, 20 Oct 2017 09:00:38 +0200</pubDate>
-
-<itunes:duration>14:14</itunes:duration>
-<itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-<category>Radio NORDJYSKE</category>
-</item>
-
-﻿
-<item>
-<title>Balkonen - 06.10.2017</title>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-<itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 06.10.2017</itunes:summary>
-
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00009853.mp3" length="24373543" type="audio/mpeg" />
-<guid>http://www.radionet.dk/podcast/Balkonen00009853.mp3</guid>
-
-<pubDate>Fri, 6 Oct 2017 09:06:00 +0200</pubDate>
-
-<itunes:duration>51:08</itunes:duration>
-<itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-<category>Radio NORDJYSKE</category>
-</item>
-
-﻿
-<item>
-<title>Balkonen - 29.09.2017</title>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-<itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 29.09.2017</itunes:summary>
-
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00009833.mp3" length="22511111" type="audio/mpeg" />
-<guid>http://www.radionet.dk/podcast/Balkonen00009833.mp3</guid>
-
-<pubDate>Fri, 29 Sep 2017 09:06:50 +0200</pubDate>
-
-<itunes:duration>47:13</itunes:duration>
-<itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-<category>Radio NORDJYSKE</category>
-</item>
-
-﻿
-<item>
-<title>Balkonen - 08.09.2017</title>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-<itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 08.09.2017</itunes:summary>
-
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00009775.mp3" length="29109287" type="audio/mpeg" />
-<guid>http://www.radionet.dk/podcast/Balkonen00009775.mp3</guid>
-
-<pubDate>Fri, 8 Sep 2017 09:05:39 +0200</pubDate>
-
-<itunes:duration>01:01:02</itunes:duration>
-<itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-<category>Radio NORDJYSKE</category>
-</item>
-
-﻿
-<item>
-<title>Balkonen - 25.08.2017</title>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-<itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 25.08.2017</itunes:summary>
-
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00009739.mp3" length="27474615" type="audio/mpeg" />
-<guid>http://www.radionet.dk/podcast/Balkonen00009739.mp3</guid>
-
-<pubDate>Fri, 25 Aug 2017 09:00:27 +0200</pubDate>
-
-<itunes:duration>57:37</itunes:duration>
-<itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-<category>Radio NORDJYSKE</category>
-</item>
-
-﻿
-<item>
-<title>Balkonen - 18.08.2017</title>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-<itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 18.08.2017</itunes:summary>
-
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00009738.mp3" length="9980775" type="audio/mpeg" />
-<guid>http://www.radionet.dk/podcast/Balkonen00009738.mp3</guid>
-
-<pubDate>Fri, 18 Aug 2017 09:00:39 +0200</pubDate>
-
-<itunes:duration>20:55</itunes:duration>
-<itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-<category>Radio NORDJYSKE</category>
-</item>
-
-﻿
-<item>
-<title>Balkonen - 11.08.2017</title>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-<itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 11.08.2017</itunes:summary>
-
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00009737.mp3" length="5931639" type="audio/mpeg" />
-<guid>http://www.radionet.dk/podcast/Balkonen00009737.mp3</guid>
-
-<pubDate>Fri, 11 Aug 2017 09:00:48 +0200</pubDate>
-
-<itunes:duration>12:28</itunes:duration>
-<itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-<category>Radio NORDJYSKE</category>
-</item>
-
-﻿
-<item>
-<title>Balkonen - 23.06.2017</title>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-<itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 23.06.2017</itunes:summary>
-
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00008941.mp3" length="26380119" type="audio/mpeg" />
-<guid>http://www.radionet.dk/podcast/Balkonen00008941.mp3</guid>
-
-<pubDate>Fri, 23 Jun 2017 09:06:23 +0200</pubDate>
-
-<itunes:duration>55:20</itunes:duration>
-<itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-<category>Radio NORDJYSKE</category>
-</item>
-
-﻿
-<item>
-<title>Balkonen - 16.06.2017</title>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-<itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 16.06.2017</itunes:summary>
-
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00008922.mp3" length="25380055" type="audio/mpeg" />
-<guid>http://www.radionet.dk/podcast/Balkonen00008922.mp3</guid>
-
-<pubDate>Fri, 16 Jun 2017 09:00:05 +0200</pubDate>
-
-<itunes:duration>53:20</itunes:duration>
-<itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-<category>Radio NORDJYSKE</category>
-</item>
-
-﻿
-<item>
-<title>Balkonen - 09.06.2017</title>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-<itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 09.06.2017</itunes:summary>
-
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00008901.mp3" length="17909319" type="audio/mpeg" />
-<guid>http://www.radionet.dk/podcast/Balkonen00008901.mp3</guid>
-
-<pubDate>Fri, 9 Jun 2017 09:00:02 +0200</pubDate>
-
-<itunes:duration>37:34</itunes:duration>
-<itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-<category>Radio NORDJYSKE</category>
-</item>
-
-﻿
-<item>
-<title>Balkonen - 26.05.2017</title>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-<itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 26.05.2017</itunes:summary>
-
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00008865.mp3" length="1175303" type="audio/mpeg" />
-<guid>http://www.radionet.dk/podcast/Balkonen00008865.mp3</guid>
-
-<pubDate>Fri, 26 May 2017 09:00:34 +0200</pubDate>
-
-<itunes:duration>02:27</itunes:duration>
-<itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-<category>Radio NORDJYSKE</category>
-</item>
-
-﻿
-<item>
-<title>Balkonen - 19.05.2017</title>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-<itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 19.05.2017</itunes:summary>
-
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00008851.mp3" length="25031031" type="audio/mpeg" />
-<guid>http://www.radionet.dk/podcast/Balkonen00008851.mp3</guid>
-
-<pubDate>Fri, 19 May 2017 09:06:52 +0200</pubDate>
-
-<itunes:duration>52:30</itunes:duration>
-<itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-<category>Radio NORDJYSKE</category>
-</item>
-
-﻿
-<item>
-<title>Balkonen - 05.05.2017</title>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-<itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 05.05.2017</itunes:summary>
-
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00008815.mp3" length="28641703" type="audio/mpeg" />
-<guid>http://www.radionet.dk/podcast/Balkonen00008815.mp3</guid>
-
-<pubDate>Fri, 5 May 2017 09:05:07 +0200</pubDate>
-
-<itunes:duration>01:00:03</itunes:duration>
-<itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-<category>Radio NORDJYSKE</category>
-</item>
-
-﻿
-<item>
-<title>Balkonen - 28.04.2017</title>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-<itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 28.04.2017</itunes:summary>
-
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00008794.mp3" length="30229367" type="audio/mpeg" />
-<guid>http://www.radionet.dk/podcast/Balkonen00008794.mp3</guid>
-
-<pubDate>Fri, 28 Apr 2017 09:00:29 +0200</pubDate>
-
-<itunes:duration>01:03:24</itunes:duration>
-<itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-<category>Radio NORDJYSKE</category>
-</item>
-
-﻿
-<item>
-<title>Balkonen - 07.04.2017</title>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-<itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 07.04.2017</itunes:summary>
-
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00008698.mp3" length="26482455" type="audio/mpeg" />
-<guid>http://www.radionet.dk/podcast/Balkonen00008698.mp3</guid>
-
-<pubDate>Fri, 7 Apr 2017 09:00:02 +0200</pubDate>
-
-<itunes:duration>55:33</itunes:duration>
-<itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-<category>Radio NORDJYSKE</category>
-</item>
-
-﻿
-<item>
-<title>Balkonen - 31.03.2017</title>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-<itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 31.03.2017</itunes:summary>
-
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00008692.mp3" length="29566887" type="audio/mpeg" />
-<guid>http://www.radionet.dk/podcast/Balkonen00008692.mp3</guid>
-
-<pubDate>Fri, 31 Mar 2017 09:06:41 +0200</pubDate>
-
-<itunes:duration>01:02:01</itunes:duration>
-<itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-<category>Radio NORDJYSKE</category>
-</item>
-
-﻿
-<item>
-<title>Balkonen - 24.03.2017</title>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-<itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 24.03.2017</itunes:summary>
-
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00008686.mp3" length="28886727" type="audio/mpeg" />
-<guid>http://www.radionet.dk/podcast/Balkonen00008686.mp3</guid>
-
-<pubDate>Fri, 24 Mar 2017 09:00:11 +0200</pubDate>
-
-<itunes:duration>01:00:35</itunes:duration>
-<itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-<category>Radio NORDJYSKE</category>
-</item>
-
-﻿
-<item>
-<title>Balkonen - 17.03.2017</title>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-<itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 17.03.2017</itunes:summary>
-
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00008682.mp3" length="29065607" type="audio/mpeg" />
-<guid>http://www.radionet.dk/podcast/Balkonen00008682.mp3</guid>
-
-<pubDate>Fri, 17 Mar 2017 09:06:18 +0200</pubDate>
-
-<itunes:duration>01:00:56</itunes:duration>
-<itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-<category>Radio NORDJYSKE</category>
-</item>
-
-﻿
-<item>
-<title>Balkonen - 10.03.2017</title>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-<itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 10.03.2017</itunes:summary>
-
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00008663.mp3" length="27601287" type="audio/mpeg" />
-<guid>http://www.radionet.dk/podcast/Balkonen00008663.mp3</guid>
-
-<pubDate>Fri, 10 Mar 2017 09:07:16 +0200</pubDate>
-
-<itunes:duration>57:54</itunes:duration>
-<itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-<category>Radio NORDJYSKE</category>
-</item>
-
-﻿
-<item>
-<title>Balkonen - 24.02.2017</title>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-<itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 24.02.2017</itunes:summary>
-
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00008623.mp3" length="10616215" type="audio/mpeg" />
-<guid>http://www.radionet.dk/podcast/Balkonen00008623.mp3</guid>
-
-<pubDate>Fri, 24 Feb 2017 09:01:05 +0200</pubDate>
-
-<itunes:duration>22:15</itunes:duration>
-<itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-<category>Radio NORDJYSKE</category>
-</item>
-
-﻿
-<item>
-<title>Balkonen - 17.02.2017</title>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-<itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 17.02.2017</itunes:summary>
-
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00008602.mp3" length="27883127" type="audio/mpeg" />
-<guid>http://www.radionet.dk/podcast/Balkonen00008602.mp3</guid>
-
-<pubDate>Fri, 17 Feb 2017 09:01:33 +0200</pubDate>
-
-<itunes:duration>58:29</itunes:duration>
-<itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-<category>Radio NORDJYSKE</category>
-</item>
-
-﻿
-<item>
-<title>Balkonen - 10.02.2017</title>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-<itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 10.02.2017</itunes:summary>
-
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00008581.mp3" length="28720119" type="audio/mpeg" />
-<guid>http://www.radionet.dk/podcast/Balkonen00008581.mp3</guid>
-
-<pubDate>Fri, 10 Feb 2017 09:00:05 +0200</pubDate>
-
-<itunes:duration>01:00:14</itunes:duration>
-<itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-<category>Radio NORDJYSKE</category>
-</item>
-
-﻿
-<item>
-<title>Balkonen - 03.02.2017</title>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-<itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 03.02.2017</itunes:summary>
-
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00008563.mp3" length="26717911" type="audio/mpeg" />
-<guid>http://www.radionet.dk/podcast/Balkonen00008563.mp3</guid>
-
-<pubDate>Fri, 3 Feb 2017 09:00:26 +0200</pubDate>
-
-<itunes:duration>56:03</itunes:duration>
-<itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-<category>Radio NORDJYSKE</category>
-</item>
-
-﻿
-<item>
-<title>Balkonen - 27.01.2017</title>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-<itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 27.01.2017</itunes:summary>
-
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00008542.mp3" length="30097911" type="audio/mpeg" />
-<guid>http://www.radionet.dk/podcast/Balkonen00008542.mp3</guid>
-
-<pubDate>Fri, 27 Jan 2017 09:00:10 +0200</pubDate>
-
-<itunes:duration>01:03:08</itunes:duration>
-<itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-<category>Radio NORDJYSKE</category>
-</item>
-
-﻿
-<item>
-<title>Balkonen - 20.01.2017</title>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-<itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 20.01.2017</itunes:summary>
-
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00008522.mp3" length="28317847" type="audio/mpeg" />
-<guid>http://www.radionet.dk/podcast/Balkonen00008522.mp3</guid>
-
-<pubDate>Fri, 20 Jan 2017 09:00:12 +0200</pubDate>
-
-<itunes:duration>59:24</itunes:duration>
-<itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-<category>Radio NORDJYSKE</category>
-</item>
-
-﻿
-<item>
-<title>Balkonen - 13.01.2017</title>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-<itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 13.01.2017</itunes:summary>
-
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00008502.mp3" length="28126903" type="audio/mpeg" />
-<guid>http://www.radionet.dk/podcast/Balkonen00008502.mp3</guid>
-
-<pubDate>Fri, 13 Jan 2017 09:00:53 +0200</pubDate>
-
-<itunes:duration>59:00</itunes:duration>
-<itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-<category>Radio NORDJYSKE</category>
-</item>
-
-﻿
-<item>
-<title>Balkonen - 06.01.2017</title>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-<itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 06.01.2017</itunes:summary>
-
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00008481.mp3" length="27274727" type="audio/mpeg" />
-<guid>http://www.radionet.dk/podcast/Balkonen00008481.mp3</guid>
-
-<pubDate>Fri, 6 Jan 2017 09:00:22 +0200</pubDate>
-
-<itunes:duration>57:13</itunes:duration>
-<itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-<category>Radio NORDJYSKE</category>
-</item>
-
-﻿
-<item>
-<title>Balkonen - 23.12.2016</title>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-<itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 23.12.2016</itunes:summary>
-
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00008461.mp3" length="19819591" type="audio/mpeg" />
-<guid>http://www.radionet.dk/podcast/Balkonen00008461.mp3</guid>
-
-<pubDate>Fri, 23 Dec 2016 09:05:59 +0200</pubDate>
-
-<itunes:duration>41:35</itunes:duration>
-<itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-<category>Radio NORDJYSKE</category>
-</item>
-
-﻿
-<item>
-<title>Balkonen - 16.12.2016</title>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-<itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 16.12.2016</itunes:summary>
-
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00008440.mp3" length="29605575" type="audio/mpeg" />
-<guid>http://www.radionet.dk/podcast/Balkonen00008440.mp3</guid>
-
-<pubDate>Fri, 16 Dec 2016 09:06:25 +0200</pubDate>
-
-<itunes:duration>01:02:04</itunes:duration>
-<itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-<category>Radio NORDJYSKE</category>
-</item>
-
-﻿
-<item>
-<title>Balkonen - 09.12.2016</title>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-<itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 09.12.2016</itunes:summary>
-
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00008420.mp3" length="26017575" type="audio/mpeg" />
-<guid>http://www.radionet.dk/podcast/Balkonen00008420.mp3</guid>
-
-<pubDate>Fri, 9 Dec 2016 09:02:08 +0200</pubDate>
-
-<itunes:duration>54:35</itunes:duration>
-<itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-<category>Radio NORDJYSKE</category>
-</item>
-
-﻿
-<item>
-<title>Balkonen - 02.12.2016</title>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-<itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 02.12.2016</itunes:summary>
-
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00008399.mp3" length="28809351" type="audio/mpeg" />
-<guid>http://www.radionet.dk/podcast/Balkonen00008399.mp3</guid>
-
-<pubDate>Fri, 2 Dec 2016 09:06:02 +0200</pubDate>
-
-<itunes:duration>01:00:25</itunes:duration>
-<itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-<category>Radio NORDJYSKE</category>
-</item>
-
-﻿
-<item>
-<title>Balkonen - 25.11.2016</title>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-<itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 25.11.2016</itunes:summary>
-
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00008382.mp3" length="26785095" type="audio/mpeg" />
-<guid>http://www.radionet.dk/podcast/Balkonen00008382.mp3</guid>
-
-<pubDate>Fri, 25 Nov 2016 09:06:24 +0200</pubDate>
-
-<itunes:duration>56:11</itunes:duration>
-<itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-<category>Radio NORDJYSKE</category>
-</item>
-
-﻿
-<item>
-<title>Balkonen - 18.11.2016</title>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-<itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 18.11.2016</itunes:summary>
-
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00008362.mp3" length="27665767" type="audio/mpeg" />
-<guid>http://www.radionet.dk/podcast/Balkonen00008362.mp3</guid>
-
-<pubDate>Fri, 18 Nov 2016 09:07:01 +0200</pubDate>
-
-<itunes:duration>58:01</itunes:duration>
-<itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-<category>Radio NORDJYSKE</category>
-</item>
-
-﻿
-<item>
-<title>Balkonen - 11.11.2016</title>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-<itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 11.11.2016</itunes:summary>
-
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00008343.mp3" length="30664711" type="audio/mpeg" />
-<guid>http://www.radionet.dk/podcast/Balkonen00008343.mp3</guid>
-
-<pubDate>Fri, 11 Nov 2016 09:08:11 +0200</pubDate>
-
-<itunes:duration>01:04:18</itunes:duration>
-<itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-<category>Radio NORDJYSKE</category>
-</item>
-
-﻿
-<item>
-<title>Balkonen - 04.11.2016</title>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-<itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 04.11.2016</itunes:summary>
-
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00008322.mp3" length="23847719" type="audio/mpeg" />
-<guid>http://www.radionet.dk/podcast/Balkonen00008322.mp3</guid>
-
-<pubDate>Fri, 4 Nov 2016 09:37:47 +0200</pubDate>
-
-<itunes:duration>50:11</itunes:duration>
-<itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-<category>Radio NORDJYSKE</category>
-</item>
-
-﻿
-<item>
-<title>Balkonen - 28.10.2016</title>
-<itunes:author>Radio NORDJYSKE</itunes:author>
-<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-<itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 28.10.2016</itunes:summary>
-
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00008306.mp3" length="5287255" type="audio/mpeg" />
-<guid>http://www.radionet.dk/podcast/Balkonen00008306.mp3</guid>
-
-<pubDate>Fri, 28 Oct 2016 09:00:30 +0200</pubDate>
-
-<itunes:duration>11:06</itunes:duration>
-<itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
-<itunes:explicit>no</itunes:explicit>
-<category>Radio NORDJYSKE</category>
-</item>
-
-  </channel>
+    <channel>
+        <title>Balkonen</title>
+        <link>http://www.radionordjyske.dk</link>
+        <language>da</language>
+        <copyright>NORDJYSKE Medier</copyright>
+        <atom:link href="http://www.radionet.dk/podcast/Balkonen.xml" rel="self" type="application/rss+xml"/>
+        <image>
+            <url>http://www.radionet.dk/podcast/radionordjyske_1400.png</url>
+            <title>Balkonen</title>
+            <link>http://www.radionordjyske.dk</link>
+            <width>138</width>
+            <height>300</height>
+        </image>
+        <itunes:subtitle>NORDJYSKE Medier</itunes:subtitle>
+        <itunes:author>NORDJYSKE Medier</itunes:author>
+        <itunes:summary>Balkonen er en podcast med Skovmand og Bue der hver uge kravler op på Balokonen og kigger på de små og store begivenheder. Dem der skal hyldes bliver det og dem der ikke fortjerner det, får noget andet. </itunes:summary>
+        <description>Balkonen er en podcast med Skovmand og Bue der hver uge kravler op på Balokonen og kigger på de små og store begivenheder. Dem der skal hyldes bliver det og dem der ikke fortjerner det, får noget andet. </description>
+        <itunes:owner>
+            <itunes:name>NORDJYSKE Medier</itunes:name>
+            <itunes:email>kontakt@radionordjyske.dk</itunes:email>
+        </itunes:owner>
+        <itunes:image href="http://www.radionet.dk/podcast/radionordjyske_1400.png"/>
+        <itunes:category text="Comedy"/>
+        <itunes:category text="Music"/>
+        <itunes:explicit>Clean</itunes:explicit>﻿
+        <generator>Hindenburg Journalist Pro 1.81.2256</generator>
+        <pubDate>Thu, 21 Mar 2019 13:32:21 +0100</pubDate>
+        <lastBuildDate>Thu, 21 Mar 2019 13:32:21 +0100</lastBuildDate>
+        <itunes:keywords>Nordjylland, radio, NORDJYSKE, Skovmand, Bue, humor, direktør, </itunes:keywords>
+        <item>
+            <guid isPermaLink="false">b5a8a563-5469-488a-8225-1387f8915c94</guid>
+            <title>21 marts</title>
+            <description>I denne udgave bliver der kigget på bandebøder, spædbarnskast og sandheden om 5G netværket sammen med Mogens Nørgaard.&lt;br/&gt;
+Skriv til programmet: skovmand@radionordjyske.dk</description>
+            <pubDate>Thu, 21 Mar 2019 13:32:21 +0100</pubDate>
+            <author>skovmand@radionordjyske.dk (Niels Skovmand)</author>
+            <itunes:author>skovmand@radionordjyske.dk (Niels Skovmand)</itunes:author>
+            <itunes:summary>I denne udgave bliver der kigget på bandebøder, spædbarnskast og sandheden om 5G netværket sammen med Mogens Nørgaard.
+Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
+            <itunes:duration>36:13</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Balkonen%20podcast%202103.mp3" type="audio/mpeg" length="34838196"/>
+            <category>5G</category>
+        </item>
+        <item>
+            <title>Balkonen - 15.03.2019
+</title>
+            <itunes:author>Radio NORDJYSKE</itunes:author>
+            <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+            <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 15.03.2019</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00011016.mp3" length="57326775" type="audio/mpeg"/>
+            <guid>http://www.radionet.dk/podcast/Balkonen00011016.mp3</guid>
+            <pubDate>Fri, 15 Mar 2019 09:00:00 +0200</pubDate>
+            <itunes:duration>02:00:00</itunes:duration>
+            <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Radio NORDJYSKE</category>
+        </item>﻿
+        <item>
+            <title>Balkonen - 08.03.2019
+</title>
+            <itunes:author>Radio NORDJYSKE</itunes:author>
+            <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+            <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 08.03.2019</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00010995.mp3" length="57326775" type="audio/mpeg"/>
+            <guid>http://www.radionet.dk/podcast/Balkonen00010995.mp3</guid>
+            <pubDate>Fri, 8 Mar 2019 09:00:00 +0200</pubDate>
+            <itunes:duration>02:00:00</itunes:duration>
+            <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Radio NORDJYSKE</category>
+        </item>﻿
+        <item>
+            <title>Balkonen - 01.03.2019
+</title>
+            <itunes:author>Radio NORDJYSKE</itunes:author>
+            <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+            <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 01.03.2019</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00010974.mp3" length="57326775" type="audio/mpeg"/>
+            <guid>http://www.radionet.dk/podcast/Balkonen00010974.mp3</guid>
+            <pubDate>Fri, 1 Mar 2019 09:00:00 +0200</pubDate>
+            <itunes:duration>02:00:00</itunes:duration>
+            <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Radio NORDJYSKE</category>
+        </item>﻿
+        <item>
+            <title>Balkonen - 22.02.2019
+</title>
+            <itunes:author>Radio NORDJYSKE</itunes:author>
+            <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+            <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 22.02.2019</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00010953.mp3" length="57326775" type="audio/mpeg"/>
+            <guid>http://www.radionet.dk/podcast/Balkonen00010953.mp3</guid>
+            <pubDate>Fri, 22 Feb 2019 09:00:00 +0200</pubDate>
+            <itunes:duration>02:00:00</itunes:duration>
+            <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Radio NORDJYSKE</category>
+        </item>﻿
+        <item>
+            <title>Balkonen - 15.02.2019
+</title>
+            <itunes:author>Radio NORDJYSKE</itunes:author>
+            <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+            <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 15.02.2019</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00010934.mp3" length="57326775" type="audio/mpeg"/>
+            <guid>http://www.radionet.dk/podcast/Balkonen00010934.mp3</guid>
+            <pubDate>Fri, 15 Feb 2019 09:00:00 +0200</pubDate>
+            <itunes:duration>02:00:00</itunes:duration>
+            <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Radio NORDJYSKE</category>
+        </item>﻿
+        <item>
+            <title>Balkonen - 
+08.02.2019</title>
+            <itunes:author>Radio NORDJYSKE</itunes:author>
+            <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+            <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 08.02.2019</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00010758.mp3" length="57326775" type="audio/mpeg"/>
+            <guid>http://www.radionet.dk/podcast/Balkonen00010758.mp3</guid>
+            <pubDate>Fri, 8 Feb 2019 09:00:00 +0200</pubDate>
+            <itunes:duration>02:00:00</itunes:duration>
+            <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Radio NORDJYSKE</category>
+        </item>﻿
+        <item>
+            <title>Balkonen - 01.02.2019
+</title>
+            <itunes:author>Radio NORDJYSKE</itunes:author>
+            <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+            <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 01.02.2019</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00010749.mp3" length="57326775" type="audio/mpeg"/>
+            <guid>http://www.radionet.dk/podcast/Balkonen00010749.mp3</guid>
+            <pubDate>Fri, 1 Feb 2019 09:00:00 +0200</pubDate>
+            <itunes:duration>02:00:00</itunes:duration>
+            <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Radio NORDJYSKE</category>
+        </item>﻿
+        <item>
+            <title>Balkonen - 25.01.2019
+</title>
+            <itunes:author>Radio NORDJYSKE</itunes:author>
+            <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+            <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 25.01.2019</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00010748.mp3" length="57326775" type="audio/mpeg"/>
+            <guid>http://www.radionet.dk/podcast/Balkonen00010748.mp3</guid>
+            <pubDate>Fri, 25 Jan 2019 09:00:00 +0200</pubDate>
+            <itunes:duration>02:00:00</itunes:duration>
+            <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Radio NORDJYSKE</category>
+        </item>﻿
+        <item>
+            <title>Balkonen - 18.01.2019
+</title>
+            <itunes:author>Radio NORDJYSKE</itunes:author>
+            <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+            <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 18.01.2019</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00010747.mp3" length="57326775" type="audio/mpeg"/>
+            <guid>http://www.radionet.dk/podcast/Balkonen00010747.mp3</guid>
+            <pubDate>Fri, 18 Jan 2019 09:00:00 +0200</pubDate>
+            <itunes:duration>02:00:00</itunes:duration>
+            <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Radio NORDJYSKE</category>
+        </item>﻿
+        <item>
+            <title>Balkonen - 11.01.2019
+</title>
+            <itunes:author>Radio NORDJYSKE</itunes:author>
+            <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+            <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 11.01.2019</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00010746.mp3" length="57326775" type="audio/mpeg"/>
+            <guid>http://www.radionet.dk/podcast/Balkonen00010746.mp3</guid>
+            <pubDate>Fri, 11 Jan 2019 09:00:00 +0200</pubDate>
+            <itunes:duration>02:00:00</itunes:duration>
+            <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Radio NORDJYSKE</category>
+        </item>﻿
+        <item>
+            <title>Balkonen - 04.01.2019
+</title>
+            <itunes:author>Radio NORDJYSKE</itunes:author>
+            <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+            <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 04.01.2019</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00010745.mp3" length="57326983" type="audio/mpeg"/>
+            <guid>http://www.radionet.dk/podcast/Balkonen00010745.mp3</guid>
+            <pubDate>Fri, 4 Jan 2019 09:00:00 +0200</pubDate>
+            <itunes:duration>02:00:00</itunes:duration>
+            <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Radio NORDJYSKE</category>
+        </item>﻿
+        <item>
+            <title>Balkonen - 28.12.2018
+</title>
+            <itunes:author>Radio NORDJYSKE</itunes:author>
+            <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+            <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 28.12.2018</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00010744.mp3" length="57326983" type="audio/mpeg"/>
+            <guid>http://www.radionet.dk/podcast/Balkonen00010744.mp3</guid>
+            <pubDate>Fri, 28 Dec 2018 09:00:00 +0200</pubDate>
+            <itunes:duration>02:00:00</itunes:duration>
+            <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Radio NORDJYSKE</category>
+        </item>﻿
+        <item>
+            <title>Balkonen - 21.12.2018
+</title>
+            <itunes:author>Radio NORDJYSKE</itunes:author>
+            <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+            <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 21.12.2018</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00010743.mp3" length="57326775" type="audio/mpeg"/>
+            <guid>http://www.radionet.dk/podcast/Balkonen00010743.mp3</guid>
+            <pubDate>Fri, 21 Dec 2018 09:00:00 +0200</pubDate>
+            <itunes:duration>02:00:00</itunes:duration>
+            <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Radio NORDJYSKE</category>
+        </item>﻿
+        <item>
+            <title>Balkonen - 14.12.2018
+</title>
+            <itunes:author>Radio NORDJYSKE</itunes:author>
+            <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+            <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 14.12.2018</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00010742.mp3" length="57326775" type="audio/mpeg"/>
+            <guid>http://www.radionet.dk/podcast/Balkonen00010742.mp3</guid>
+            <pubDate>Fri, 14 Dec 2018 09:00:00 +0200</pubDate>
+            <itunes:duration>02:00:00</itunes:duration>
+            <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Radio NORDJYSKE</category>
+        </item>﻿
+        <item>
+            <title>Balkonen - 07.12.2018
+</title>
+            <itunes:author>Radio NORDJYSKE</itunes:author>
+            <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+            <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 07.12.2018</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00010741.mp3" length="57326775" type="audio/mpeg"/>
+            <guid>http://www.radionet.dk/podcast/Balkonen00010741.mp3</guid>
+            <pubDate>Fri, 7 Dec 2018 09:00:00 +0200</pubDate>
+            <itunes:duration>02:00:00</itunes:duration>
+            <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Radio NORDJYSKE</category>
+        </item>﻿
+        <item>
+            <title>Balkonen - 30.11.2018
+</title>
+            <itunes:author>Radio NORDJYSKE</itunes:author>
+            <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+            <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 30.11.2018</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00010740.mp3" length="57326775" type="audio/mpeg"/>
+            <guid>http://www.radionet.dk/podcast/Balkonen00010740.mp3</guid>
+            <pubDate>Fri, 30 Nov 2018 09:00:00 +0200</pubDate>
+            <itunes:duration>02:00:00</itunes:duration>
+            <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Radio NORDJYSKE</category>
+        </item>﻿
+        <item>
+            <title>Balkonen - 23.11.2018
+</title>
+            <itunes:author>Radio NORDJYSKE</itunes:author>
+            <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+            <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 23.11.2018</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00010739.mp3" length="57326775" type="audio/mpeg"/>
+            <guid>http://www.radionet.dk/podcast/Balkonen00010739.mp3</guid>
+            <pubDate>Fri, 23 Nov 2018 09:00:00 +0200</pubDate>
+            <itunes:duration>02:00:00</itunes:duration>
+            <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Radio NORDJYSKE</category>
+        </item>﻿
+        <item>
+            <title>Balkonen - 02.11.2018
+</title>
+            <itunes:author>Radio NORDJYSKE</itunes:author>
+            <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+            <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 02.11.2018</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00010738.mp3" length="18655207" type="audio/mpeg"/>
+            <guid>http://www.radionet.dk/podcast/Balkonen00010738.mp3</guid>
+            <pubDate>Fri, 2 Nov 2018 09:00:00 +0200</pubDate>
+            <itunes:duration>02:00:00</itunes:duration>
+            <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Radio NORDJYSKE</category>
+        </item>﻿
+        <item>
+            <title>Balkonen - 19.10.2018
+</title>
+            <itunes:author>Radio NORDJYSKE</itunes:author>
+            <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+            <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 19.10.2018</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00010737.mp3" length="584375" type="audio/mpeg"/>
+            <guid>http://www.radionet.dk/podcast/Balkonen00010737.mp3</guid>
+            <pubDate>Fri, 19 Oct 2018 09:00:00 +0200</pubDate>
+            <itunes:duration>02:00:00</itunes:duration>
+            <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Radio NORDJYSKE</category>
+        </item>﻿
+        <item>
+            <title>Balkonen - 12.10.2018
+</title>
+            <itunes:author>Radio NORDJYSKE</itunes:author>
+            <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+            <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 12.10.2018</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00010736.mp3" length="25369863" type="audio/mpeg"/>
+            <guid>http://www.radionet.dk/podcast/Balkonen00010736.mp3</guid>
+            <pubDate>Fri, 12 Oct 2018 09:00:00 +0200</pubDate>
+            <itunes:duration>02:00:00</itunes:duration>
+            <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Radio NORDJYSKE</category>
+        </item>﻿
+        <item>
+            <title>Balkonen - 05.10.2018
+</title>
+            <itunes:author>Radio NORDJYSKE</itunes:author>
+            <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+            <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 05.10.2018</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00010735.mp3" length="56848167" type="audio/mpeg"/>
+            <guid>http://www.radionet.dk/podcast/Balkonen00010735.mp3</guid>
+            <pubDate>Fri, 5 Oct 2018 09:00:00 +0200</pubDate>
+            <itunes:duration>02:00:00</itunes:duration>
+            <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Radio NORDJYSKE</category>
+        </item>﻿
+        <item>
+            <title>Balkonen - 28.09.2018
+</title>
+            <itunes:author>Radio NORDJYSKE</itunes:author>
+            <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+            <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 28.09.2018</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00010734.mp3" length="57326775" type="audio/mpeg"/>
+            <guid>http://www.radionet.dk/podcast/Balkonen00010734.mp3</guid>
+            <pubDate>Fri, 28 Sep 2018 09:00:00 +0200</pubDate>
+            <itunes:duration>02:00:00</itunes:duration>
+            <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Radio NORDJYSKE</category>
+        </item>﻿
+        <item>
+            <title>Balkonen - 21.09.201
+8</title>
+            <itunes:author>Radio NORDJYSKE</itunes:author>
+            <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+            <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 21.09.2018</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00010733.mp3" length="56858151" type="audio/mpeg"/>
+            <guid>http://www.radionet.dk/podcast/Balkonen00010733.mp3</guid>
+            <pubDate>Fri, 21 Sep 2018 09:00:00 +0200</pubDate>
+            <itunes:duration>02:00:00</itunes:duration>
+            <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Radio NORDJYSKE</category>
+        </item>﻿
+        <item>
+            <title>Balkonen - 14.09.2018
+</title>
+            <itunes:author>Radio NORDJYSKE</itunes:author>
+            <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+            <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 14.09.2018</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00010732.mp3" length="57326775" type="audio/mpeg"/>
+            <guid>http://www.radionet.dk/podcast/Balkonen00010732.mp3</guid>
+            <pubDate>Fri, 14 Sep 2018 09:00:00 +0200</pubDate>
+            <itunes:duration>02:00:00</itunes:duration>
+            <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Radio NORDJYSKE</category>
+        </item>﻿
+        <item>
+            <title>Balkonen - 13.07.2018
+</title>
+            <itunes:author>Radio NORDJYSKE</itunes:author>
+            <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+            <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 13.07.2018</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00010414.mp3" length="12632151" type="audio/mpeg"/>
+            <guid>http://www.radionet.dk/podcast/Balkonen00010414.mp3</guid>
+            <pubDate>Fri, 13 Jul 2018 09:00:12 +0200</pubDate>
+            <itunes:duration>26:33</itunes:duration>
+            <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Radio NORDJYSKE</category>
+        </item>﻿
+        <item>
+            <title>Balkonen - 22.06.2018
+</title>
+            <itunes:author>Radio NORDJYSKE</itunes:author>
+            <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+            <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 22.06.2018</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00010378.mp3" length="3801303" type="audio/mpeg"/>
+            <guid>http://www.radionet.dk/podcast/Balkonen00010378.mp3</guid>
+            <pubDate>Fri, 22 Jun 2018 09:01:14 +0200</pubDate>
+            <itunes:duration>08:00</itunes:duration>
+            <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Radio NORDJYSKE</category>
+        </item>﻿
+        <item>
+            <title>Balkonen - 15.06.2018
+</title>
+            <itunes:author>Radio NORDJYSKE</itunes:author>
+            <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+            <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 15.06.2018</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00010363.mp3" length="17679895" type="audio/mpeg"/>
+            <guid>http://www.radionet.dk/podcast/Balkonen00010363.mp3</guid>
+            <pubDate>Fri, 15 Jun 2018 09:05:45 +0200</pubDate>
+            <itunes:duration>37:05</itunes:duration>
+            <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Radio NORDJYSKE</category>
+        </item>﻿
+        <item>
+            <title>Balkonen - 01.06.2018
+</title>
+            <itunes:author>Radio NORDJYSKE</itunes:author>
+            <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+            <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 01.06.2018</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00010335.mp3" length="18105463" type="audio/mpeg"/>
+            <guid>http://www.radionet.dk/podcast/Balkonen00010335.mp3</guid>
+            <pubDate>Fri, 1 Jun 2018 09:07:00 +0200</pubDate>
+            <itunes:duration>37:58</itunes:duration>
+            <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Radio NORDJYSKE</category>
+        </item>﻿
+        <item>
+            <title>Balkonen - 25.05.2018
+</title>
+            <itunes:author>Radio NORDJYSKE</itunes:author>
+            <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+            <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 25.05.2018</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00010316.mp3" length="20150935" type="audio/mpeg"/>
+            <guid>http://www.radionet.dk/podcast/Balkonen00010316.mp3</guid>
+            <pubDate>Fri, 25 May 2018 09:02:39 +0200</pubDate>
+            <itunes:duration>42:15</itunes:duration>
+            <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Radio NORDJYSKE</category>
+        </item>﻿
+        <item>
+            <title>Balkonen - 18.05.2018
+</title>
+            <itunes:author>Radio NORDJYSKE</itunes:author>
+            <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+            <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 18.05.2018</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00010301.mp3" length="18758999" type="audio/mpeg"/>
+            <guid>http://www.radionet.dk/podcast/Balkonen00010301.mp3</guid>
+            <pubDate>Fri, 18 May 2018 09:06:41 +0200</pubDate>
+            <itunes:duration>39:20</itunes:duration>
+            <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Radio NORDJYSKE</category>
+        </item>﻿
+        <item>
+            <title>Balkonen - 20.04.2018
+</title>
+            <itunes:author>Radio NORDJYSKE</itunes:author>
+            <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+            <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 20.04.2018</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00010242.mp3" length="18016439" type="audio/mpeg"/>
+            <guid>http://www.radionet.dk/podcast/Balkonen00010242.mp3</guid>
+            <pubDate>Fri, 20 Apr 2018 09:06:43 +0200</pubDate>
+            <itunes:duration>37:47</itunes:duration>
+            <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Radio NORDJYSKE</category>
+        </item>﻿
+        <item>
+            <title>Balkonen - 13.04.2018
+</title>
+            <itunes:author>Radio NORDJYSKE</itunes:author>
+            <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+            <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 13.04.2018</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00010224.mp3" length="16684407" type="audio/mpeg"/>
+            <guid>http://www.radionet.dk/podcast/Balkonen00010224.mp3</guid>
+            <pubDate>Fri, 13 Apr 2018 09:06:42 +0200</pubDate>
+            <itunes:duration>34:59</itunes:duration>
+            <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Radio NORDJYSKE</category>
+        </item>﻿
+        <item>
+            <title>Balkonen - 23.03.2018
+</title>
+            <itunes:author>Radio NORDJYSKE</itunes:author>
+            <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+            <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 23.03.2018</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00010188.mp3" length="18153927" type="audio/mpeg"/>
+            <guid>http://www.radionet.dk/podcast/Balkonen00010188.mp3</guid>
+            <pubDate>Fri, 23 Mar 2018 09:06:19 +0200</pubDate>
+            <itunes:duration>38:04</itunes:duration>
+            <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Radio NORDJYSKE</category>
+        </item>﻿
+        <item>
+            <title>Balkonen - 16.03.2018
+</title>
+            <itunes:author>Radio NORDJYSKE</itunes:author>
+            <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+            <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 16.03.2018</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00010173.mp3" length="17019079" type="audio/mpeg"/>
+            <guid>http://www.radionet.dk/podcast/Balkonen00010173.mp3</guid>
+            <pubDate>Fri, 16 Mar 2018 09:06:56 +0200</pubDate>
+            <itunes:duration>35:41</itunes:duration>
+            <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Radio NORDJYSKE</category>
+        </item>﻿
+        <item>
+            <title>Balkonen - 09.03.2018
+</title>
+            <itunes:author>Radio NORDJYSKE</itunes:author>
+            <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+            <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 09.03.2018</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00010158.mp3" length="17541159" type="audio/mpeg"/>
+            <guid>http://www.radionet.dk/podcast/Balkonen00010158.mp3</guid>
+            <pubDate>Fri, 9 Mar 2018 09:07:22 +0200</pubDate>
+            <itunes:duration>36:47</itunes:duration>
+            <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Radio NORDJYSKE</category>
+        </item>﻿
+        <item>
+            <title>Balkonen - 16.02.2018
+</title>
+            <itunes:author>Radio NORDJYSKE</itunes:author>
+            <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+            <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 16.02.2018</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00010116.mp3" length="19541287" type="audio/mpeg"/>
+            <guid>http://www.radionet.dk/podcast/Balkonen00010116.mp3</guid>
+            <pubDate>Fri, 16 Feb 2018 09:06:36 +0200</pubDate>
+            <itunes:duration>40:58</itunes:duration>
+            <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Radio NORDJYSKE</category>
+        </item>﻿
+        <item>
+            <title>Balkonen - 09.02.2018
+</title>
+            <itunes:author>Radio NORDJYSKE</itunes:author>
+            <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+            <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 09.02.2018</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00010100.mp3" length="17672199" type="audio/mpeg"/>
+            <guid>http://www.radionet.dk/podcast/Balkonen00010100.mp3</guid>
+            <pubDate>Fri, 9 Feb 2018 09:06:50 +0200</pubDate>
+            <itunes:duration>37:03</itunes:duration>
+            <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Radio NORDJYSKE</category>
+        </item>﻿
+        <item>
+            <title>Balkonen - 02.02.2018
+</title>
+            <itunes:author>Radio NORDJYSKE</itunes:author>
+            <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+            <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 02.02.2018</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00010081.mp3" length="19199127" type="audio/mpeg"/>
+            <guid>http://www.radionet.dk/podcast/Balkonen00010081.mp3</guid>
+            <pubDate>Fri, 2 Feb 2018 09:06:51 +0200</pubDate>
+            <itunes:duration>40:14</itunes:duration>
+            <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Radio NORDJYSKE</category>
+        </item>﻿
+        <item>
+            <title>Balkonen - 26.01.2018
+</title>
+            <itunes:author>Radio NORDJYSKE</itunes:author>
+            <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+            <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 26.01.2018</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00010065.mp3" length="5378775" type="audio/mpeg"/>
+            <guid>http://www.radionet.dk/podcast/Balkonen00010065.mp3</guid>
+            <pubDate>Fri, 26 Jan 2018 09:00:58 +0200</pubDate>
+            <itunes:duration>11:18</itunes:duration>
+            <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Radio NORDJYSKE</category>
+        </item>﻿
+        <item>
+            <title>Balkonen - 19.01.2018
+</title>
+            <itunes:author>Radio NORDJYSKE</itunes:author>
+            <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+            <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 19.01.2018</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00010056.mp3" length="17816343" type="audio/mpeg"/>
+            <guid>http://www.radionet.dk/podcast/Balkonen00010056.mp3</guid>
+            <pubDate>Fri, 19 Jan 2018 09:06:30 +0200</pubDate>
+            <itunes:duration>37:27</itunes:duration>
+            <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Radio NORDJYSKE</category>
+        </item>﻿
+        <item>
+            <title>Balkonen - 12.01.2018
+</title>
+            <itunes:author>Radio NORDJYSKE</itunes:author>
+            <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+            <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 12.01.2018</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00010040.mp3" length="17230407" type="audio/mpeg"/>
+            <guid>http://www.radionet.dk/podcast/Balkonen00010040.mp3</guid>
+            <pubDate>Fri, 12 Jan 2018 09:05:48 +0200</pubDate>
+            <itunes:duration>36:08</itunes:duration>
+            <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Radio NORDJYSKE</category>
+        </item>﻿
+        <item>
+            <title>Balkonen - 05.01.2018
+</title>
+            <itunes:author>Radio NORDJYSKE</itunes:author>
+            <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+            <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 05.01.2018</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00010020.mp3" length="17651815" type="audio/mpeg"/>
+            <guid>http://www.radionet.dk/podcast/Balkonen00010020.mp3</guid>
+            <pubDate>Fri, 5 Jan 2018 09:06:47 +0200</pubDate>
+            <itunes:duration>37:01</itunes:duration>
+            <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Radio NORDJYSKE</category>
+        </item>﻿
+        <item>
+            <title>Balkonen - 22.12.2017
+</title>
+            <itunes:author>Radio NORDJYSKE</itunes:author>
+            <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+            <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 22.12.2017</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00010006.mp3" length="1384135" type="audio/mpeg"/>
+            <guid>http://www.radionet.dk/podcast/Balkonen00010006.mp3</guid>
+            <pubDate>Fri, 22 Dec 2017 09:01:04 +0200</pubDate>
+            <itunes:duration>02:55</itunes:duration>
+            <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Radio NORDJYSKE</category>
+        </item>﻿
+        <item>
+            <title>Balkonen - 15.12.2017
+</title>
+            <itunes:author>Radio NORDJYSKE</itunes:author>
+            <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+            <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 15.12.2017</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00009991.mp3" length="6551895" type="audio/mpeg"/>
+            <guid>http://www.radionet.dk/podcast/Balkonen00009991.mp3</guid>
+            <pubDate>Fri, 15 Dec 2017 09:01:21 +0200</pubDate>
+            <itunes:duration>14:25</itunes:duration>
+            <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Radio NORDJYSKE</category>
+        </item>﻿
+        <item>
+            <title>Balkonen - 10.11.2017
+</title>
+            <itunes:author>Radio NORDJYSKE</itunes:author>
+            <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+            <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 10.11.2017</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00009945.mp3" length="22595143" type="audio/mpeg"/>
+            <guid>http://www.radionet.dk/podcast/Balkonen00009945.mp3</guid>
+            <pubDate>Fri, 10 Nov 2017 09:06:52 +0200</pubDate>
+            <itunes:duration>47:24</itunes:duration>
+            <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Radio NORDJYSKE</category>
+        </item>﻿
+        <item>
+            <title>Balkonen - 03.11.2017
+</title>
+            <itunes:author>Radio NORDJYSKE</itunes:author>
+            <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+            <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 03.11.2017</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00009927.mp3" length="27671383" type="audio/mpeg"/>
+            <guid>http://www.radionet.dk/podcast/Balkonen00009927.mp3</guid>
+            <pubDate>Fri, 3 Nov 2017 09:06:31 +0200</pubDate>
+            <itunes:duration>58:01</itunes:duration>
+            <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Radio NORDJYSKE</category>
+        </item>﻿
+        <item>
+            <title>Balkonen - 27.10.2017
+</title>
+            <itunes:author>Radio NORDJYSKE</itunes:author>
+            <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+            <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 27.10.2017</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00009899.mp3" length="25978887" type="audio/mpeg"/>
+            <guid>http://www.radionet.dk/podcast/Balkonen00009899.mp3</guid>
+            <pubDate>Fri, 27 Oct 2017 09:06:24 +0200</pubDate>
+            <itunes:duration>54:29</itunes:duration>
+            <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Radio NORDJYSKE</category>
+        </item>﻿
+        <item>
+            <title>Balkonen - 20.10.2017
+</title>
+            <itunes:author>Radio NORDJYSKE</itunes:author>
+            <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+            <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 20.10.2017</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00009881.mp3" length="6780279" type="audio/mpeg"/>
+            <guid>http://www.radionet.dk/podcast/Balkonen00009881.mp3</guid>
+            <pubDate>Fri, 20 Oct 2017 09:00:38 +0200</pubDate>
+            <itunes:duration>14:14</itunes:duration>
+            <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Radio NORDJYSKE</category>
+        </item>﻿
+        <item>
+            <title>Balkonen - 06.10.2017
+</title>
+            <itunes:author>Radio NORDJYSKE</itunes:author>
+            <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+            <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 06.10.2017</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00009853.mp3" length="24373543" type="audio/mpeg"/>
+            <guid>http://www.radionet.dk/podcast/Balkonen00009853.mp3</guid>
+            <pubDate>Fri, 6 Oct 2017 09:06:00 +0200</pubDate>
+            <itunes:duration>51:08</itunes:duration>
+            <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Radio NORDJYSKE</category>
+        </item>﻿
+        <item>
+            <title>Balkonen - 29.09.2017
+</title>
+            <itunes:author>Radio NORDJYSKE</itunes:author>
+            <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+            <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 29.09.2017</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00009833.mp3" length="22511111" type="audio/mpeg"/>
+            <guid>http://www.radionet.dk/podcast/Balkonen00009833.mp3</guid>
+            <pubDate>Fri, 29 Sep 2017 09:06:50 +0200</pubDate>
+            <itunes:duration>47:13</itunes:duration>
+            <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Radio NORDJYSKE</category>
+        </item>﻿
+        <item>
+            <title>Balkonen - 08.09.2017
+</title>
+            <itunes:author>Radio NORDJYSKE</itunes:author>
+            <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+            <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 08.09.2017</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00009775.mp3" length="29109287" type="audio/mpeg"/>
+            <guid>http://www.radionet.dk/podcast/Balkonen00009775.mp3</guid>
+            <pubDate>Fri, 8 Sep 2017 09:05:39 +0200</pubDate>
+            <itunes:duration>01:01:02</itunes:duration>
+            <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Radio NORDJYSKE</category>
+        </item>﻿
+        <item>
+            <title>Balkonen - 25.08.2017
+</title>
+            <itunes:author>Radio NORDJYSKE</itunes:author>
+            <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+            <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 25.08.2017</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00009739.mp3" length="27474615" type="audio/mpeg"/>
+            <guid>http://www.radionet.dk/podcast/Balkonen00009739.mp3</guid>
+            <pubDate>Fri, 25 Aug 2017 09:00:27 +0200</pubDate>
+            <itunes:duration>57:37</itunes:duration>
+            <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Radio NORDJYSKE</category>
+        </item>﻿
+        <item>
+            <title>Balkonen - 18.08.2017
+</title>
+            <itunes:author>Radio NORDJYSKE</itunes:author>
+            <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+            <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 18.08.2017</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00009738.mp3" length="9980775" type="audio/mpeg"/>
+            <guid>http://www.radionet.dk/podcast/Balkonen00009738.mp3</guid>
+            <pubDate>Fri, 18 Aug 2017 09:00:39 +0200</pubDate>
+            <itunes:duration>20:55</itunes:duration>
+            <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Radio NORDJYSKE</category>
+        </item>﻿
+        <item>
+            <title>Balkonen - 11.08.2017
+</title>
+            <itunes:author>Radio NORDJYSKE</itunes:author>
+            <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+            <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 11.08.2017</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00009737.mp3" length="5931639" type="audio/mpeg"/>
+            <guid>http://www.radionet.dk/podcast/Balkonen00009737.mp3</guid>
+            <pubDate>Fri, 11 Aug 2017 09:00:48 +0200</pubDate>
+            <itunes:duration>12:28</itunes:duration>
+            <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Radio NORDJYSKE</category>
+        </item>﻿
+        <item>
+            <title>Balkonen - 23.06.2017
+</title>
+            <itunes:author>Radio NORDJYSKE</itunes:author>
+            <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+            <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 23.06.2017</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00008941.mp3" length="26380119" type="audio/mpeg"/>
+            <guid>http://www.radionet.dk/podcast/Balkonen00008941.mp3</guid>
+            <pubDate>Fri, 23 Jun 2017 09:06:23 +0200</pubDate>
+            <itunes:duration>55:20</itunes:duration>
+            <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Radio NORDJYSKE</category>
+        </item>﻿
+        <item>
+            <title>Balkonen - 16.06.2017
+</title>
+            <itunes:author>Radio NORDJYSKE</itunes:author>
+            <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+            <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 16.06.2017</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00008922.mp3" length="25380055" type="audio/mpeg"/>
+            <guid>http://www.radionet.dk/podcast/Balkonen00008922.mp3</guid>
+            <pubDate>Fri, 16 Jun 2017 09:00:05 +0200</pubDate>
+            <itunes:duration>53:20</itunes:duration>
+            <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Radio NORDJYSKE</category>
+        </item>﻿
+        <item>
+            <title>Balkonen - 09.06.2017
+</title>
+            <itunes:author>Radio NORDJYSKE</itunes:author>
+            <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+            <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 09.06.2017</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00008901.mp3" length="17909319" type="audio/mpeg"/>
+            <guid>http://www.radionet.dk/podcast/Balkonen00008901.mp3</guid>
+            <pubDate>Fri, 9 Jun 2017 09:00:02 +0200</pubDate>
+            <itunes:duration>37:34</itunes:duration>
+            <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Radio NORDJYSKE</category>
+        </item>﻿
+        <item>
+            <title>Balkonen - 26.05.2017
+</title>
+            <itunes:author>Radio NORDJYSKE</itunes:author>
+            <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+            <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 26.05.2017</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00008865.mp3" length="1175303" type="audio/mpeg"/>
+            <guid>http://www.radionet.dk/podcast/Balkonen00008865.mp3</guid>
+            <pubDate>Fri, 26 May 2017 09:00:34 +0200</pubDate>
+            <itunes:duration>02:27</itunes:duration>
+            <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Radio NORDJYSKE</category>
+        </item>﻿
+        <item>
+            <title>Balkonen - 19.05.2017
+</title>
+            <itunes:author>Radio NORDJYSKE</itunes:author>
+            <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+            <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 19.05.2017</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00008851.mp3" length="25031031" type="audio/mpeg"/>
+            <guid>http://www.radionet.dk/podcast/Balkonen00008851.mp3</guid>
+            <pubDate>Fri, 19 May 2017 09:06:52 +0200</pubDate>
+            <itunes:duration>52:30</itunes:duration>
+            <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Radio NORDJYSKE</category>
+        </item>﻿
+        <item>
+            <title>Balkonen - 05.05.2017
+</title>
+            <itunes:author>Radio NORDJYSKE</itunes:author>
+            <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+            <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 05.05.2017</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00008815.mp3" length="28641703" type="audio/mpeg"/>
+            <guid>http://www.radionet.dk/podcast/Balkonen00008815.mp3</guid>
+            <pubDate>Fri, 5 May 2017 09:05:07 +0200</pubDate>
+            <itunes:duration>01:00:03</itunes:duration>
+            <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
+            <itunes:explicit>no</itunes:explicit>
+            <category>Radio NORDJYSKE</category>
+        </item>
+    </channel>
 </rss>
