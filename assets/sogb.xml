@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+ 
+
+<channel>
+
+<title>Skovmand &amp; Bue</title>
+<link>http://www.anr.dk</link>
+<language>da</language>
+<copyright>&#xA9; ANR 2010</copyright>
+<atom:link href="http://www.radionet.dk/podcast/sogb.xml" rel="self" type="application/rss+xml" />
+
+<image>
+	<url>http://www.radionet.dk/podcast/sogb144x144.jpg</url> 
+	<title>Skovmand &amp; Bue</title> 
+	<link>http://www.anr.dk</link> 
+	<width>138</width> 
+	<height>138</height> 
+</image>
+
+
+<itunes:subtitle>ANR - Radio med puls</itunes:subtitle>
+<itunes:author>ANR</itunes:author>
+<itunes:summary>ANR - Radio med puls</itunes:summary>
+<description>ANR - Radio med puls</description>
+
+<itunes:owner>
+	<itunes:name>ANR</itunes:name>
+	<itunes:email>kontakt@anr.dk</itunes:email>
+</itunes:owner>
+
+<itunes:image href="http://www.radionet.dk/podcast/sogb600x600.jpg" />
+<itunes:category text="Comedy" />
+<itunes:category text="Music" />
+<itunes:explicit>no</itunes:explicit> 
+
+<item>
+<title>Skovmand &amp; Bue - 27.04.2010</title>
+<itunes:author>ANR</itunes:author>
+<itunes:subtitle>ANR - Radio med puls</itunes:subtitle>
+<itunes:summary>Det bedste fra Skovmand &amp; Bue fra 27.04.2010</itunes:summary>
+
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/sb00002706.mp3" length="30767232" type="audio/mpeg" />
+<guid>http://www.radionet.dk/podcast/sb00002706.mp3</guid>
+<pubDate>Tue, 27 Apr 2010 06:03:11 +0200</pubDate>
+
+<itunes:duration>01:04:27</itunes:duration>
+<itunes:keywords>radio, Skovmand &amp; Bue, ANR</itunes:keywords>
+<itunes:explicit>no</itunes:explicit> 
+<category>Skovmand &amp; Bue</category>
+</item>
+
+<item>
+<title>Skovmand &amp; Bue - 23.04.2010</title>
+<itunes:author>ANR</itunes:author>
+<itunes:subtitle>ANR - Radio med puls</itunes:subtitle>
+<itunes:summary>Det bedste fra Skovmand &amp; Bue fra 23.04.2010</itunes:summary>
+
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/sb00002702.mp3" length="28071813" type="audio/mpeg" />
+<guid>http://www.radionet.dk/podcast/sb00002702.mp3</guid>
+<pubDate>Fri, 23 Apr 2010 06:03:00 +0200</pubDate>
+
+<itunes:duration>58:42</itunes:duration>
+<itunes:keywords>radio, Skovmand &amp; Bue, ANR</itunes:keywords>
+<itunes:explicit>no</itunes:explicit> 
+<category>Skovmand &amp; Bue</category>
+</item>
+
+<item>
+<title>Skovmand &amp; Bue - 22.04.2010</title>
+<itunes:author>ANR</itunes:author>
+<itunes:subtitle>ANR - Radio med puls</itunes:subtitle>
+<itunes:summary>Det bedste fra Skovmand &amp; Bue fra 22.04.2010</itunes:summary>
+
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/sb00002700.mp3" length="25650785" type="audio/mpeg" />
+<guid>http://www.radionet.dk/podcast/sb00002700.mp3</guid>
+<pubDate>Thu, 22 Apr 2010 06:03:00 +0200</pubDate>
+
+<itunes:duration>53:40</itunes:duration>
+<itunes:keywords>radio, Skovmand &amp; Bue, ANR</itunes:keywords>
+<itunes:explicit>no</itunes:explicit> 
+<category>Skovmand &amp; Bue</category>
+</item>
+
+<item>
+<title>Skovmand &amp; Bue - 21.04.2010</title>
+<itunes:author>ANR</itunes:author>
+<itunes:subtitle>ANR - Radio med puls</itunes:subtitle>
+<itunes:summary>Det bedste fra Skovmand &amp; Bue fra 21.04.2010</itunes:summary>
+
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/sb00002697.mp3" length="31374318" type="audio/mpeg" />
+<guid>http://www.radionet.dk/podcast/sb00002697.mp3</guid>
+<pubDate>Wed, 21 Apr 2010 06:03:02 +0200</pubDate>
+
+<itunes:duration>01:05:49</itunes:duration>
+<itunes:keywords>radio, Skovmand &amp; Bue, ANR</itunes:keywords>
+<itunes:explicit>no</itunes:explicit> 
+<category>Skovmand &amp; Bue</category>
+</item>
+
+<item>
+<title>Skovmand &amp; Bue - 20.04.2010</title>
+<itunes:author>ANR</itunes:author>
+<itunes:subtitle>ANR - Radio med puls</itunes:subtitle>
+<itunes:summary>Det bedste fra Skovmand &amp; Bue fra 20.04.2010</itunes:summary>
+
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/sb00002694.mp3" length="39165913" type="audio/mpeg" />
+<guid>http://www.radionet.dk/podcast/sb00002694.mp3</guid>
+<pubDate>Tue, 20 Apr 2010 06:02:55 +0200</pubDate>
+
+<itunes:duration>01:21:53</itunes:duration>
+<itunes:keywords>radio, Skovmand &amp; Bue, ANR</itunes:keywords>
+<itunes:explicit>no</itunes:explicit> 
+<category>Skovmand &amp; Bue</category>
+</item>
+  </channel>
+</rss>
