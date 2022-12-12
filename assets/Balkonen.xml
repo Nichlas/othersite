@@ -24,17 +24,50 @@
         <itunes:image href="http://www.radionet.dk/podcast/radionordjyske_1400.png"/>
         <itunes:category text="Comedy"/>
         <itunes:category text="Music"/>
-        <itunes:explicit>Clean</itunes:explicit>﻿
+        <itunes:explicit>no</itunes:explicit>
         <generator>Hindenburg Journalist Pro 1.81.2256</generator>
         <pubDate>Thu, 21 Mar 2019 13:32:21 +0100</pubDate>
-        <lastBuildDate>Fri, 10 May 2019 06:27:16 +0200</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jun 2019 13:09:07 +0200</lastBuildDate>
         <itunes:keywords>Nordjylland, radio, NORDJYSKE, Skovmand, Bue, humor, direktør, sjov, nordjylland</itunes:keywords>
+        <item>
+            <guid isPermaLink="false">3f13689f-568f-40eb-92de-1ec7adb40b70</guid>
+            <title>Balkonen sommer 28/7</title>
+            <description>Så er det ved at være sommer og vi kigger nærmere på køreferie og charterferie.</description>
+            <pubDate>Tue, 25 Jun 2019 13:09:07 +0200</pubDate>
+            <author>Skovmand@radionordjyske.dk (Niels Skovmand)</author>
+            <itunes:author>Niels Skovmand</itunes:author>
+            <itunes:summary>Så er det ved at være sommer og vi kigger nærmere på køreferie og charterferie.</itunes:summary>
+            <itunes:duration>30:35</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Balkonen%20sommer%2019.mp3" type="audio/mpeg" length="29426042"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">99fb3b77-b690-430f-85f9-705bcb6509fe</guid>
+            <title>Balkonen-efter valget</title>
+            <description>Reaktioner på valget fra løven Jacob Risgaard og Direktøren for det hele Mogens Nørgaard. Fuskerrøven Tom Bue er også med. Hvorfor fuskerrøv? Lyt med her:)</description>
+            <pubDate>Fri, 07 Jun 2019 14:11:03 +0200</pubDate>
+            <author>Skovmand@radionordjyske.dk (Niels Skovmand)</author>
+            <itunes:author>Niels Skovmand</itunes:author>
+            <itunes:summary>Reaktioner på valget fra løven Jacob Risgaard og Direktøren for det hele Mogens Nørgaard. Fuskerrøven Tom Bue er også med. Hvorfor fuskerrøv? Lyt med her:)</itunes:summary>
+            <itunes:duration>38:37</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Balkonen%207-6.mp3" type="audio/mpeg" length="37139897"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">c70b7981-39eb-41f3-84df-dd1ff61cf3c0</guid>
+            <title>Balkonen-Det hemmelige valg</title>
+            <description>I denne udgave af Balkonen med Skovmand &amp; Bue, bliver der talt om fester man ikke er inviteret til, Karneval og europaparlamentsvalget. </description>
+            <pubDate>Fri, 24 May 2019 13:28:36 +0200</pubDate>
+            <author>Skovmand@radionordjyske.dk (Niels Skovmand)</author>
+            <itunes:author>Niels Skovmand</itunes:author>
+            <itunes:summary>I denne udgave af Balkonen med Skovmand &amp; Bue, bliver der talt om fester man ikke er inviteret til, Karneval og europaparlamentsvalget. </itunes:summary>
+            <itunes:duration>29:36</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Balkonen%202405.mp3" type="audio/mpeg" length="28484798"/>
+        </item>
         <item>
             <guid isPermaLink="false">2661dffe-dc6f-4422-9e37-34789bc61667</guid>
             <title>Balkonen-Nu med flæsk</title>
             <description>Der er udskrevet valg, så nu skal vi til det igen. Men hvad er valgflæsk egentligt? Hvor er der hævesænkeborde når der skal stemmes og andre store spørgsmål bliver besvaret i denne udgave af Balkonen. </description>
             <pubDate>Fri, 10 May 2019 06:27:16 +0200</pubDate>
-            <author>Niels Skovmand</author>
+            <author>Skovmand@radionordjyske.dk (Niels Skovmand)</author>
             <itunes:author>Niels Skovmand</itunes:author>
             <itunes:summary>Der er udskrevet valg, så nu skal vi til det igen. Men hvad er valgflæsk egentligt? Hvor er der hævesænkeborde når der skal stemmes og andre store spørgsmål bliver besvaret i denne udgave af Balkonen. </itunes:summary>
             <itunes:duration>33:39</itunes:duration>
@@ -45,7 +78,7 @@
             <title>Balkonen kigger på mærkedage</title>
             <description>Vi bliver hele tiden ramt af mærkedage. Balkonen forsøger at skabe overblikket. Starwars dag og det arbejde nøgen i haven er bare nogle af dem. </description>
             <pubDate>Fri, 03 May 2019 09:23:58 +0200</pubDate>
-            <author>Niels Skovmand</author>
+            <author>Skovmand@radionordjyske.dk (Niels Skovmand)</author>
             <itunes:author>Niels Skovmand</itunes:author>
             <itunes:summary>Vi bliver hele tiden ramt af mærkedage. Balkonen forsøger at skabe overblikket. Starwars dag og det arbejde nøgen i haven er bare nogle af dem. </itunes:summary>
             <itunes:duration>29:02</itunes:duration>
@@ -56,7 +89,7 @@
             <title>Balkonen-Konfirmationsspecial</title>
             <description>I denne udgave af Balkonen runder Skovmand og Bue næsten alt om konfirmation. Tro, fest, taler og gaver.</description>
             <pubDate>Wed, 24 Apr 2019 11:20:44 +0200</pubDate>
-            <author>Niels Skovmand</author>
+            <author>Skovmand@radionordjyske.dk (Niels Skovmand)</author>
             <itunes:author>Niels Skovmand</itunes:author>
             <itunes:summary>I denne udgave af Balkonen runder Skovmand og Bue næsten alt om konfirmation. Tro, fest, taler og gaver.</itunes:summary>
             <itunes:duration>30:46</itunes:duration>
@@ -67,7 +100,7 @@
             <title>Påske på Balkonen</title>
             <description>Bliv klogere på Påsken, æg og høns. Glæd dig især til at høre Skovmand slå Bue. Så er der i sandhed Påske:)</description>
             <pubDate>Fri, 12 Apr 2019 06:57:47 +0200</pubDate>
-            <author>Niels Skovmand</author>
+            <author>Skovmand@radionordjyske.dk (Niels Skovmand)</author>
             <itunes:author>Niels Skovmand</itunes:author>
             <itunes:summary>Bliv klogere på Påsken, æg og høns. Glæd dig især til at høre Skovmand slå Bue. Så er der i sandhed Påske:)</itunes:summary>
             <itunes:duration>27:38</itunes:duration>
@@ -78,7 +111,7 @@
             <title>Balkonen den 5 april 2019- måske bliver du klogere?</title>
             <description>I denne udgave kan du blive klogere på hvad der gør dig tykkere. Er din grill klar? Hvornår skal støvsugerposerne tømmes? Hvorfor var det svært at bo i Fårevejle i stenalderen og meget mere:)</description>
             <pubDate>Thu, 04 Apr 2019 14:10:27 +0200</pubDate>
-            <author>Niels Skovmand</author>
+            <author>Skovmand@radionordjyske.dk (Niels Skovmand)</author>
             <itunes:author>Niels Skovmand</itunes:author>
             <itunes:summary>I denne udgave kan du blive klogere på hvad der gør dig tykkere. Er din grill klar? Hvornår skal støvsugerposerne tømmes? Hvorfor var det svært at bo i Fårevejle i stenalderen og meget mere:)</itunes:summary>
             <itunes:duration>32:01</itunes:duration>
@@ -89,7 +122,7 @@
             <title>Balkonen-afsnit 28/3/19</title>
             <description>I denne udgave blive en ganske særlig ko hyldet, valget kan tydes på vægtskålen og apple er endnu engang ikke kommet med noget nyt. </description>
             <pubDate>Thu, 28 Mar 2019 13:16:37 +0100</pubDate>
-            <author>Niels Skovmand</author>
+            <author>Skovmand@radionordjyske.dk (Niels Skovmand)</author>
             <itunes:author>Niels Skovmand</itunes:author>
             <itunes:summary>I denne udgave blive en ganske særlig ko hyldet, valget kan tydes på vægtskålen og apple er endnu engang ikke kommet med noget nyt. </itunes:summary>
             <itunes:duration>33:41</itunes:duration>
@@ -97,7 +130,7 @@
         </item>
         <item>
             <guid isPermaLink="false">b5a8a563-5469-488a-8225-1387f8915c94</guid>
-            <title>21 marts</title>
+            <title>Balkonen 21 marts</title>
             <description>I denne udgave bliver der kigget på bandebøder, spædbarnskast og sandheden om 5G netværket sammen med Mogens Nørgaard.&lt;br/&gt;
 Skriv til programmet: skovmand@radionordjyske.dk</description>
             <pubDate>Thu, 21 Mar 2019 13:32:21 +0100</pubDate>
@@ -107,14 +140,13 @@ Skriv til programmet: skovmand@radionordjyske.dk</description>
 Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
             <itunes:duration>36:13</itunes:duration>
             <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Balkonen%20podcast%202103.mp3" type="audio/mpeg" length="34838196"/>
-            <category>5G</category>
+            <category>Radio NORDJYSKE</category>
         </item>
-        <item>
-            <title>Balkonen - 15.03.2019
-</title>
+		<item>
+            <title>Balkonen - 15.03.2019</title>
             <itunes:author>Radio NORDJYSKE</itunes:author>
             <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-            <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 15.03.2019</itunes:summary>
+            <itunes:summary>Glad dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 15.03.2019</itunes:summary>
             <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Balkonen00011016.mp3" length="57326775" type="audio/mpeg"/>
             <guid>http://www.radionet.dk/podcast/Balkonen00011016.mp3</guid>
             <pubDate>Fri, 15 Mar 2019 09:00:00 +0200</pubDate>
@@ -122,16 +154,9 @@ Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
             <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <category>Radio NORDJYSKE</category>
-        </item>﻿
-        <item>
-            <title>Balkonen - 08.03.2019
-        
-        
-        
-        
-        
-        
-</title>
+		</item>
+		<item>
+            <title>Balkonen - 08.03.2019</title>
             <itunes:author>Radio NORDJYSKE</itunes:author>
             <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
             <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 08.03.2019</itunes:summary>
@@ -142,16 +167,9 @@ Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
             <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <category>Radio NORDJYSKE</category>
-        </item>﻿
+        </item>
         <item>
-            <title>Balkonen - 01.03.2019
-        
-        
-        
-        
-        
-        
-</title>
+            <title>Balkonen - 01.03.2019</title>
             <itunes:author>Radio NORDJYSKE</itunes:author>
             <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
             <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 01.03.2019</itunes:summary>
@@ -162,16 +180,9 @@ Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
             <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <category>Radio NORDJYSKE</category>
-        </item>﻿
+        </item>
         <item>
-            <title>Balkonen - 22.02.2019
-        
-        
-        
-        
-        
-        
-</title>
+            <title>Balkonen - 22.02.2019</title>
             <itunes:author>Radio NORDJYSKE</itunes:author>
             <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
             <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 22.02.2019</itunes:summary>
@@ -182,16 +193,9 @@ Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
             <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <category>Radio NORDJYSKE</category>
-        </item>﻿
+        </item>
         <item>
-            <title>Balkonen - 15.02.2019
-        
-        
-        
-        
-        
-        
-</title>
+            <title>Balkonen - 15.02.2019</title>
             <itunes:author>Radio NORDJYSKE</itunes:author>
             <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
             <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 15.02.2019</itunes:summary>
@@ -202,16 +206,9 @@ Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
             <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <category>Radio NORDJYSKE</category>
-        </item>﻿
+        </item>
         <item>
-            <title>Balkonen - 
-        
-        
-        
-        
-        
-        
-08.02.2019</title>
+            <title>Balkonen - 08.02.2019</title>
             <itunes:author>Radio NORDJYSKE</itunes:author>
             <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
             <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 08.02.2019</itunes:summary>
@@ -222,16 +219,9 @@ Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
             <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <category>Radio NORDJYSKE</category>
-        </item>﻿
+        </item>
         <item>
-            <title>Balkonen - 01.02.2019
-        
-        
-        
-        
-        
-        
-</title>
+            <title>Balkonen - 01.02.2019</title>
             <itunes:author>Radio NORDJYSKE</itunes:author>
             <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
             <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 01.02.2019</itunes:summary>
@@ -242,16 +232,9 @@ Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
             <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <category>Radio NORDJYSKE</category>
-        </item>﻿
+        </item>
         <item>
-            <title>Balkonen - 25.01.2019
-        
-        
-        
-        
-        
-        
-</title>
+            <title>Balkonen - 25.01.2019</title>
             <itunes:author>Radio NORDJYSKE</itunes:author>
             <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
             <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 25.01.2019</itunes:summary>
@@ -262,16 +245,9 @@ Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
             <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <category>Radio NORDJYSKE</category>
-        </item>﻿
+        </item>
         <item>
-            <title>Balkonen - 18.01.2019
-        
-        
-        
-        
-        
-        
-</title>
+            <title>Balkonen - 18.01.2019</title>
             <itunes:author>Radio NORDJYSKE</itunes:author>
             <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
             <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 18.01.2019</itunes:summary>
@@ -282,16 +258,9 @@ Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
             <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <category>Radio NORDJYSKE</category>
-        </item>﻿
+        </item>
         <item>
-            <title>Balkonen - 11.01.2019
-        
-        
-        
-        
-        
-        
-</title>
+            <title>Balkonen - 11.01.2019</title>
             <itunes:author>Radio NORDJYSKE</itunes:author>
             <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
             <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 11.01.2019</itunes:summary>
@@ -302,16 +271,9 @@ Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
             <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <category>Radio NORDJYSKE</category>
-        </item>﻿
+        </item>
         <item>
-            <title>Balkonen - 04.01.2019
-        
-        
-        
-        
-        
-        
-</title>
+            <title>Balkonen - 04.01.2019</title>
             <itunes:author>Radio NORDJYSKE</itunes:author>
             <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
             <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 04.01.2019</itunes:summary>
@@ -322,16 +284,9 @@ Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
             <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <category>Radio NORDJYSKE</category>
-        </item>﻿
+        </item>
         <item>
-            <title>Balkonen - 28.12.2018
-        
-        
-        
-        
-        
-        
-</title>
+            <title>Balkonen - 28.12.2018</title>
             <itunes:author>Radio NORDJYSKE</itunes:author>
             <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
             <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 28.12.2018</itunes:summary>
@@ -342,16 +297,9 @@ Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
             <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <category>Radio NORDJYSKE</category>
-        </item>﻿
+        </item>
         <item>
-            <title>Balkonen - 21.12.2018
-        
-        
-        
-        
-        
-        
-</title>
+            <title>Balkonen - 21.12.2018</title>
             <itunes:author>Radio NORDJYSKE</itunes:author>
             <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
             <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 21.12.2018</itunes:summary>
@@ -362,16 +310,9 @@ Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
             <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <category>Radio NORDJYSKE</category>
-        </item>﻿
+        </item>
         <item>
-            <title>Balkonen - 14.12.2018
-        
-        
-        
-        
-        
-        
-</title>
+            <title>Balkonen - 14.12.2018</title>
             <itunes:author>Radio NORDJYSKE</itunes:author>
             <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
             <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 14.12.2018</itunes:summary>
@@ -382,16 +323,9 @@ Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
             <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <category>Radio NORDJYSKE</category>
-        </item>﻿
+        </item>
         <item>
-            <title>Balkonen - 07.12.2018
-        
-        
-        
-        
-        
-        
-</title>
+            <title>Balkonen - 07.12.2018</title>
             <itunes:author>Radio NORDJYSKE</itunes:author>
             <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
             <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 07.12.2018</itunes:summary>
@@ -402,16 +336,9 @@ Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
             <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <category>Radio NORDJYSKE</category>
-        </item>﻿
+        </item>
         <item>
-            <title>Balkonen - 30.11.2018
-        
-        
-        
-        
-        
-        
-</title>
+            <title>Balkonen - 30.11.2018</title>
             <itunes:author>Radio NORDJYSKE</itunes:author>
             <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
             <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 30.11.2018</itunes:summary>
@@ -422,16 +349,9 @@ Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
             <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <category>Radio NORDJYSKE</category>
-        </item>﻿
+        </item>
         <item>
-            <title>Balkonen - 23.11.2018
-        
-        
-        
-        
-        
-        
-</title>
+            <title>Balkonen - 23.11.2018</title>
             <itunes:author>Radio NORDJYSKE</itunes:author>
             <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
             <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 23.11.2018</itunes:summary>
@@ -442,16 +362,9 @@ Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
             <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <category>Radio NORDJYSKE</category>
-        </item>﻿
+        </item>
         <item>
-            <title>Balkonen - 02.11.2018
-        
-        
-        
-        
-        
-        
-</title>
+            <title>Balkonen - 02.11.2018</title>
             <itunes:author>Radio NORDJYSKE</itunes:author>
             <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
             <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 02.11.2018</itunes:summary>
@@ -462,16 +375,9 @@ Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
             <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <category>Radio NORDJYSKE</category>
-        </item>﻿
+        </item>
         <item>
-            <title>Balkonen
-        
-        
-        
-        
-        
-         - 19.10.2018
-</title>
+            <title>Balkonen - 19.10.2018</title>
             <itunes:author>Radio NORDJYSKE</itunes:author>
             <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
             <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 19.10.2018</itunes:summary>
@@ -482,16 +388,9 @@ Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
             <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <category>Radio NORDJYSKE</category>
-        </item>﻿
+        </item>
         <item>
-            <title>Balkonen - 12.10.2018
-        
-        
-        
-        
-        
-        
-</title>
+            <title>Balkonen - 12.10.2018</title>
             <itunes:author>Radio NORDJYSKE</itunes:author>
             <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
             <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 12.10.2018</itunes:summary>
@@ -502,16 +401,9 @@ Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
             <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <category>Radio NORDJYSKE</category>
-        </item>﻿
+        </item>
         <item>
-            <title>Balkonen - 05.10.2018
-        
-        
-        
-        
-        
-        
-</title>
+            <title>Balkonen - 05.10.2018</title>
             <itunes:author>Radio NORDJYSKE</itunes:author>
             <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
             <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 05.10.2018</itunes:summary>
@@ -522,16 +414,9 @@ Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
             <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <category>Radio NORDJYSKE</category>
-        </item>﻿
+        </item>
         <item>
-            <title>Balkonen - 28.09.2018
-        
-        
-        
-        
-        
-        
-</title>
+            <title>Balkonen - 28.09.2018</title>
             <itunes:author>Radio NORDJYSKE</itunes:author>
             <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
             <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 28.09.2018</itunes:summary>
@@ -542,16 +427,9 @@ Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
             <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <category>Radio NORDJYSKE</category>
-        </item>﻿
+        </item>
         <item>
-            <title>Balkonen - 21.09.201
-        
-        
-        
-        
-        
-        
-8</title>
+            <title>Balkonen - 21.09.2018</title>
             <itunes:author>Radio NORDJYSKE</itunes:author>
             <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
             <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 21.09.2018</itunes:summary>
@@ -562,16 +440,9 @@ Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
             <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <category>Radio NORDJYSKE</category>
-        </item>﻿
+        </item>
         <item>
-            <title>Balkonen - 14.09.2018
-        
-        
-        
-        
-        
-        
-</title>
+            <title>Balkonen - 14.09.2018</title>
             <itunes:author>Radio NORDJYSKE</itunes:author>
             <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
             <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 14.09.2018</itunes:summary>
@@ -582,16 +453,9 @@ Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
             <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <category>Radio NORDJYSKE</category>
-        </item>﻿
+        </item>
         <item>
-            <title>Balkonen - 13.07.2018
-        
-        
-        
-        
-        
-        
-</title>
+            <title>Balkonen - 13.07.2018</title>
             <itunes:author>Radio NORDJYSKE</itunes:author>
             <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
             <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 13.07.2018</itunes:summary>
@@ -602,16 +466,9 @@ Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
             <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <category>Radio NORDJYSKE</category>
-        </item>﻿
+        </item>
         <item>
-            <title>Balkonen - 22.06.2018
-        
-        
-        
-        
-        
-        
-</title>
+            <title>Balkonen - 22.06.2018</title>
             <itunes:author>Radio NORDJYSKE</itunes:author>
             <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
             <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 22.06.2018</itunes:summary>
@@ -622,16 +479,9 @@ Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
             <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <category>Radio NORDJYSKE</category>
-        </item>﻿
+        </item>
         <item>
-            <title>Balkonen - 15.06.2018
-        
-        
-        
-        
-        
-        
-</title>
+            <title>Balkonen - 15.06.2018</title>
             <itunes:author>Radio NORDJYSKE</itunes:author>
             <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
             <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 15.06.2018</itunes:summary>
@@ -642,16 +492,9 @@ Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
             <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <category>Radio NORDJYSKE</category>
-        </item>﻿
+        </item>
         <item>
-            <title>Balkonen - 01.06.2018
-        
-        
-        
-        
-        
-        
-</title>
+            <title>Balkonen - 01.06.2018</title>
             <itunes:author>Radio NORDJYSKE</itunes:author>
             <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
             <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 01.06.2018</itunes:summary>
@@ -662,16 +505,9 @@ Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
             <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <category>Radio NORDJYSKE</category>
-        </item>﻿
+        </item>
         <item>
-            <title>Balkonen - 25.05.2018
-        
-        
-        
-        
-        
-        
-</title>
+            <title>Balkonen - 25.05.2018</title>
             <itunes:author>Radio NORDJYSKE</itunes:author>
             <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
             <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 25.05.2018</itunes:summary>
@@ -682,16 +518,9 @@ Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
             <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <category>Radio NORDJYSKE</category>
-        </item>﻿
+        </item>
         <item>
-            <title>Balkonen - 18.05.2018
-        
-        
-        
-        
-        
-        
-</title>
+            <title>Balkonen - 18.05.2018</title>
             <itunes:author>Radio NORDJYSKE</itunes:author>
             <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
             <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 18.05.2018</itunes:summary>
@@ -702,16 +531,9 @@ Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
             <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <category>Radio NORDJYSKE</category>
-        </item>﻿
+        </item>
         <item>
-            <title>Balkonen - 20.04.2018
-        
-        
-        
-        
-        
-        
-</title>
+            <title>Balkonen - 20.04.2018</title>
             <itunes:author>Radio NORDJYSKE</itunes:author>
             <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
             <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 20.04.2018</itunes:summary>
@@ -722,16 +544,9 @@ Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
             <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <category>Radio NORDJYSKE</category>
-        </item>﻿
+        </item>
         <item>
-            <title>Balkonen - 13.04.2018
-        
-        
-        
-        
-        
-        
-</title>
+            <title>Balkonen - 13.04.2018</title>
             <itunes:author>Radio NORDJYSKE</itunes:author>
             <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
             <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 13.04.2018</itunes:summary>
@@ -742,16 +557,9 @@ Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
             <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <category>Radio NORDJYSKE</category>
-        </item>﻿
+        </item>
         <item>
-            <title>Balkonen - 23.03.2018
-        
-        
-        
-        
-        
-        
-</title>
+            <title>Balkonen - 23.03.2018</title>
             <itunes:author>Radio NORDJYSKE</itunes:author>
             <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
             <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 23.03.2018</itunes:summary>
@@ -762,16 +570,9 @@ Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
             <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <category>Radio NORDJYSKE</category>
-        </item>﻿
+        </item>
         <item>
-            <title>Balkonen - 16.03.2018
-        
-        
-        
-        
-        
-        
-</title>
+            <title>Balkonen - 16.03.2018</title>
             <itunes:author>Radio NORDJYSKE</itunes:author>
             <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
             <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 16.03.2018</itunes:summary>
@@ -782,16 +583,9 @@ Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
             <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <category>Radio NORDJYSKE</category>
-        </item>﻿
+        </item>
         <item>
-            <title>Balkonen - 09.03.2018
-        
-        
-        
-        
-        
-        
-</title>
+            <title>Balkonen - 09.03.2018</title>
             <itunes:author>Radio NORDJYSKE</itunes:author>
             <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
             <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 09.03.2018</itunes:summary>
@@ -802,16 +596,9 @@ Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
             <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <category>Radio NORDJYSKE</category>
-        </item>﻿
+        </item>
         <item>
-            <title>Balkonen - 16.02.2018
-        
-        
-        
-        
-        
-        
-</title>
+            <title>Balkonen - 16.02.2018</title>
             <itunes:author>Radio NORDJYSKE</itunes:author>
             <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
             <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 16.02.2018</itunes:summary>
@@ -822,16 +609,9 @@ Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
             <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <category>Radio NORDJYSKE</category>
-        </item>﻿
+        </item>
         <item>
-            <title>Balkonen - 09.02.2018
-        
-        
-        
-        
-        
-        
-</title>
+            <title>Balkonen - 09.02.2018</title>
             <itunes:author>Radio NORDJYSKE</itunes:author>
             <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
             <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 09.02.2018</itunes:summary>
@@ -842,16 +622,9 @@ Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
             <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <category>Radio NORDJYSKE</category>
-        </item>﻿
+        </item>
         <item>
-            <title>Balkonen - 02
-        
-        
-        
-        
-        .02.2018
-        
-</title>
+            <title>Balkonen - 02.02.2018</title>
             <itunes:author>Radio NORDJYSKE</itunes:author>
             <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
             <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 02.02.2018</itunes:summary>
@@ -862,16 +635,9 @@ Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
             <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <category>Radio NORDJYSKE</category>
-        </item>﻿
+        </item>
         <item>
-            <title>Balkonen - 26.01.2018
-        
-        
-        
-        
-        
-        
-</title>
+            <title>Balkonen - 26.01.2018</title>
             <itunes:author>Radio NORDJYSKE</itunes:author>
             <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
             <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 26.01.2018</itunes:summary>
@@ -882,16 +648,9 @@ Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
             <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <category>Radio NORDJYSKE</category>
-        </item>﻿
+        </item>
         <item>
-            <title>Balkonen - 19.01.2018
-        
-        
-        
-        
-        
-        
-</title>
+            <title>Balkonen - 19.01.2018</title>
             <itunes:author>Radio NORDJYSKE</itunes:author>
             <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
             <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 19.01.2018</itunes:summary>
@@ -902,16 +661,9 @@ Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
             <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <category>Radio NORDJYSKE</category>
-        </item>﻿
+        </item>
         <item>
-            <title>Balkonen - 12.01.2018
-        
-        
-        
-        
-        
-        
-</title>
+            <title>Balkonen - 12.01.2018</title>
             <itunes:author>Radio NORDJYSKE</itunes:author>
             <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
             <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 12.01.2018</itunes:summary>
@@ -922,16 +674,9 @@ Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
             <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <category>Radio NORDJYSKE</category>
-        </item>﻿
+        </item>
         <item>
-            <title>Balkonen - 05.01.2018
-        
-        
-        
-        
-        
-        
-</title>
+            <title>Balkonen - 05.01.2018</title>
             <itunes:author>Radio NORDJYSKE</itunes:author>
             <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
             <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 05.01.2018</itunes:summary>
@@ -942,16 +687,9 @@ Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
             <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <category>Radio NORDJYSKE</category>
-        </item>﻿
+        </item>
         <item>
-            <title>Balkonen - 22.12.2017
-        
-        
-        
-        
-        
-        
-</title>
+            <title>Balkonen - 22.12.2017</title>
             <itunes:author>Radio NORDJYSKE</itunes:author>
             <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
             <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 22.12.2017</itunes:summary>
@@ -962,16 +700,9 @@ Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
             <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <category>Radio NORDJYSKE</category>
-        </item>﻿
+        </item>
         <item>
-            <title>Balkonen - 15.12.2017
-        
-        
-        
-        
-        
-        
-</title>
+            <title>Balkonen - 15.12.2017</title>
             <itunes:author>Radio NORDJYSKE</itunes:author>
             <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
             <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 15.12.2017</itunes:summary>
@@ -982,16 +713,9 @@ Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
             <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <category>Radio NORDJYSKE</category>
-        </item>﻿
+        </item>
         <item>
-            <title>Balkonen - 10.11.2017
-        
-        
-        
-        
-        
-        
-</title>
+            <title>Balkonen - 10.11.2017</title>
             <itunes:author>Radio NORDJYSKE</itunes:author>
             <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
             <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 10.11.2017</itunes:summary>
@@ -1002,16 +726,9 @@ Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
             <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <category>Radio NORDJYSKE</category>
-        </item>﻿
+        </item>
         <item>
-            <title>Balkonen 
-        
-        - 03.11.2017
-        
-        
-        
-        
-</title>
+            <title>Balkonen - 03.11.2017</title>
             <itunes:author>Radio NORDJYSKE</itunes:author>
             <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
             <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 03.11.2017</itunes:summary>
@@ -1022,16 +739,9 @@ Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
             <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <category>Radio NORDJYSKE</category>
-        </item>﻿
+        </item>
         <item>
-            <title>Balkonen - 27.10.2017
-        
-        
-        
-        
-        
-        
-</title>
+            <title>Balkonen - 27.10.2017</title>
             <itunes:author>Radio NORDJYSKE</itunes:author>
             <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
             <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 27.10.2017</itunes:summary>
@@ -1042,16 +752,9 @@ Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
             <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <category>Radio NORDJYSKE</category>
-        </item>﻿
+        </item>
         <item>
-            <title>Balkonen - 20.10.2017
-        
-        
-        
-        
-        
-        
-</title>
+            <title>Balkonen - 20.10.2017</title>
             <itunes:author>Radio NORDJYSKE</itunes:author>
             <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
             <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 20.10.2017</itunes:summary>
@@ -1062,16 +765,9 @@ Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
             <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <category>Radio NORDJYSKE</category>
-        </item>﻿
+        </item>
         <item>
-            <title>Balkonen - 06.10.2017
-        
-        
-        
-        
-        
-        
-</title>
+            <title>Balkonen - 06.10.2017</title>
             <itunes:author>Radio NORDJYSKE</itunes:author>
             <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
             <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 06.10.2017</itunes:summary>
@@ -1082,16 +778,9 @@ Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
             <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <category>Radio NORDJYSKE</category>
-        </item>﻿
+        </item>
         <item>
-            <title>Balkonen - 29.09.2017
-        
-        
-        
-        
-        
-        
-</title>
+            <title>Balkonen - 29.09.2017</title>
             <itunes:author>Radio NORDJYSKE</itunes:author>
             <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
             <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 29.09.2017</itunes:summary>
@@ -1102,16 +791,9 @@ Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
             <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <category>Radio NORDJYSKE</category>
-        </item>﻿
+        </item>
         <item>
-            <title>Balkonen - 08.09.2017
-        
-        
-        
-        
-        
-        
-</title>
+            <title>Balkonen - 08.09.2017</title>
             <itunes:author>Radio NORDJYSKE</itunes:author>
             <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
             <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 08.09.2017</itunes:summary>
@@ -1122,16 +804,9 @@ Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
             <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <category>Radio NORDJYSKE</category>
-        </item>﻿
+        </item>
         <item>
-            <title>Balkonen - 25.08.2017
-        
-        
-        
-        
-        
-        
-</title>
+            <title>Balkonen - 25.08.2017</title>
             <itunes:author>Radio NORDJYSKE</itunes:author>
             <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
             <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 25.08.2017</itunes:summary>
@@ -1142,16 +817,9 @@ Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
             <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <category>Radio NORDJYSKE</category>
-        </item>﻿
+        </item>
         <item>
-            <title>Balkonen - 18.08.2017
-        
-        
-        
-        
-        
-        
-</title>
+            <title>Balkonen - 18.08.2017</title>
             <itunes:author>Radio NORDJYSKE</itunes:author>
             <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
             <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 18.08.2017</itunes:summary>
@@ -1162,16 +830,9 @@ Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
             <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <category>Radio NORDJYSKE</category>
-        </item>﻿
+        </item>
         <item>
-            <title>Balkonen - 11.08.2017
-        
-        
-        
-        
-        
-        
-</title>
+            <title>Balkonen - 11.08.2017</title>
             <itunes:author>Radio NORDJYSKE</itunes:author>
             <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
             <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 11.08.2017</itunes:summary>
@@ -1182,16 +843,9 @@ Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
             <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <category>Radio NORDJYSKE</category>
-        </item>﻿
+        </item>
         <item>
-            <title>Balkonen - 23.06.2017
-        
-        
-        
-        
-        
-        
-</title>
+            <title>Balkonen - 23.06.2017</title>
             <itunes:author>Radio NORDJYSKE</itunes:author>
             <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
             <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 23.06.2017</itunes:summary>
@@ -1202,16 +856,9 @@ Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
             <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <category>Radio NORDJYSKE</category>
-        </item>﻿
+        </item>
         <item>
-            <title>Balkonen - 16.06.2017
-        
-        
-        
-        
-        
-        
-</title>
+            <title>Balkonen - 16.06.2017</title>
             <itunes:author>Radio NORDJYSKE</itunes:author>
             <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
             <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 16.06.2017</itunes:summary>
@@ -1222,16 +869,9 @@ Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
             <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <category>Radio NORDJYSKE</category>
-        </item>﻿
+        </item>
         <item>
-            <title>Balkonen - 09.06.2017
-        
-        
-        
-        
-        
-        
-</title>
+            <title>Balkonen - 09.06.2017</title>
             <itunes:author>Radio NORDJYSKE</itunes:author>
             <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
             <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 09.06.2017</itunes:summary>
@@ -1242,16 +882,9 @@ Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
             <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <category>Radio NORDJYSKE</category>
-        </item>﻿
+        </item>
         <item>
-            <title>Balkonen - 26.05.2017
-        
-        
-        
-        
-        
-        
-</title>
+            <title>Balkonen - 26.05.2017</title>
             <itunes:author>Radio NORDJYSKE</itunes:author>
             <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
             <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 26.05.2017</itunes:summary>
@@ -1262,16 +895,9 @@ Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
             <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <category>Radio NORDJYSKE</category>
-        </item>﻿
+        </item>
         <item>
-            <title>Balkonen - 19.05.2017
-        
-        
-        
-        
-        
-        
-</title>
+            <title>Balkonen - 19.05.2017</title>
             <itunes:author>Radio NORDJYSKE</itunes:author>
             <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
             <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 19.05.2017</itunes:summary>
@@ -1282,16 +908,9 @@ Skriv til programmet: skovmand@radionordjyske.dk</itunes:summary>
             <itunes:keywords>radio, NORDJYSKE, Skovmand, Bue</itunes:keywords>
             <itunes:explicit>no</itunes:explicit>
             <category>Radio NORDJYSKE</category>
-        </item>﻿
+        </item>
         <item>
-            <title>Balkonen - 05.05.2017
-        
-        
-        
-        
-        
-        
-</title>
+            <title>Balkonen - 05.05.2017</title>
             <itunes:author>Radio NORDJYSKE</itunes:author>
             <itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
             <itunes:summary>Glæd dig til podcasten. Her har vi klippet det værste ud fra Balkonen med Skovmand og Bue på Radio NORDJYSKE - 05.05.2017</itunes:summary>
