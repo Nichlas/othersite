@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<rss version="2.0">
+  <channel>
+    <title>Hit FM</title>
+    <description>Det bedste fra Hit FM</description>
+    <link>http://www.hitfm.nu</link>
+    <copyright>Hit FM</copyright>
+    <language>da</language>
+    <lastBuildDate>2007_11_23 18_02_02</lastBuildDate>
+    <pubDate>2007_11_23 18_02_02</pubDate>
+    <generator>Radionet</generator>
+
+	
+	<item>
+        <title>Fri Tid</title>
+        <showid>3</showid>
+        <description>Det bedste fra: 23.11.2007. I dag har vi hele 14:11 minutter til dig :-)</description>
+        <enclosure url="http://www.radionet.dk/podcast/fritid00000105.mp3" type=".mp3"></enclosure>
+        <pubDate>2007_11_23 18_02_02</pubDate>
+        <time>14:11</time>
+	<category>Fri Tid</category>
+	<network>1,2,34</network>
+        </item>
+
+	<item>
+        <title>Fri Tid</title>
+        <showid>3</showid>
+        <description>Det bedste fra: 22.11.2007. I dag har vi hele 11:44 minutter til dig :-)</description>
+        <enclosure url="http://www.radionet.dk/podcast/fritid00000102.mp3" type=".mp3"></enclosure>
+        <pubDate>2007_11_22 18_01_52</pubDate>
+        <time>11:44</time>
+	<category>Fri Tid</category>
+	<network>1,2,34</network>
+        </item>
+
+	<item>
+        <title>Fri Tid</title>
+        <showid>3</showid>
+        <description>Det bedste fra: 21.11.2007. I dag har vi hele 15:18 minutter til dig :-)</description>
+        <enclosure url="http://www.anrhit.dk/podcast/fritid00000099.mp3" type=".mp3"></enclosure>
+        <pubDate>2007_11_21 18_02_03</pubDate>
+        <time>15:18</time>
+	<category>Fri Tid</category>
+	<network>1,2,34</network>
+        </item>
+
+	<item>
+        <title>Fri Tid</title>
+        <showid>3</showid>
+        <description>Det bedste fra: 20.11.2007. I dag har vi hele 13:15 minutter til dig :-)</description>
+        <enclosure url="http://www.anrhit.dk/podcast/fritid00000096.mp3" type=".mp3"></enclosure>
+        <pubDate>2007_11_20 18_01_55</pubDate>
+        <time>13:15</time>
+	<category>Fri Tid</category>
+	<network>1,2,34</network>
+        </item>
+
+	<item>
+        <title>Fri Tid</title>
+        <showid>3</showid>
+        <description>Det bedste fra: 19.11.2007. I dag har vi hele 15:13 minutter til dig :-)</description>
+        <enclosure url="http://www.anrhit.dk/podcast/fritid00000093.mp3" type=".mp3"></enclosure>
+        <pubDate>2007_11_19 18_02_03</pubDate>
+        <time>15:13</time>
+	<category>Fri Tid</category>
+	<network>1,2,34</network>
+        </item>
+
+  </channel>
+</rss>
