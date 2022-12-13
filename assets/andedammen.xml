@@ -10,7 +10,7 @@ Vært: Anders Fuglsang</description>
         <link>http://www.radionordjyske.dk</link>
         <language>da</language>
         <copyright>NORDJYSKE Medier</copyright>
-        <lastBuildDate>Mon, 02 Mar 2020 14:55:24 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 04 Mar 2020 13:27:31 +0100</lastBuildDate>
         <itunes:subtitle>Tre goe' historier fra NORDJYSKE</itunes:subtitle>
         <itunes:summary>I Andedammen får du hver dag tre goe’ historier fra NORDJYSKE. Alt fra Obamas besøg i Aalborg over kæmpeordre til nordjysk industrigigant til lokalbrag i Superligaen. Hver dag får de tre nye historier om kultur, erhverv, sport, krimi, SoMe, byudvikling og landliv, og de bliver fortalt af de journalister der selv sidder med historien. 
 Vært: Anders Fuglsang</itunes:summary>
@@ -29,6 +29,50 @@ Vært: Anders Fuglsang</itunes:summary>
         <itunes:image href="http://www.radionet.dk/podcast/Podcastlogo.png"/>
         <itunes:category text="News &amp; Politics"/>
         <itunes:explicit>Clean</itunes:explicit>
+        <item>
+            <guid isPermaLink="false">a22afa21-19a4-4aae-a4ee-b5205cbc5860</guid>
+            <title>04.03 - Klar til selvkørende busser og fremtiden - Mors/Thy styrer mod slutspillet - Ejer australsk forretningsmand DIN Andelskasse i Østervrå?</title>
+            <description>Hvad kommer det til at betyde for fremtidens transport, at de første selvkørende busser bliver sluppet løs i morgen i Aalborg? Det handler det om i Andedammen i dag, hvor vi også taler om Mors/Thy Håndbolds flotte vinderstime for tiden der kan føre dem hele vejen til slutspillet. Og om en australsk forretningsmand, der i hemmelighed kontrollerer et nordjysk pengeinstitut i Østervrå.&lt;br/&gt;
+Skriv til programmet: anders@radionordjyske.dk</description>
+            <pubDate>Wed, 04 Mar 2020 13:27:31 +0100</pubDate>
+            <author>anders@radionordjyske.dk (Anders Fuglsang)</author>
+            <itunes:author>anders@radionordjyske.dk (Anders Fuglsang)</itunes:author>
+            <itunes:summary>Hvad kommer det til at betyde for fremtidens transport, at de første selvkørende busser bliver sluppet løs i morgen i Aalborg? Det handler det om i Andedammen i dag, hvor vi også taler om Mors/Thy Håndbolds flotte vinderstime for tiden der kan føre dem hele vejen til slutspillet. Og om en australsk forretningsmand, der i hemmelighed kontrollerer et nordjysk pengeinstitut i Østervrå.
+Skriv til programmet: anders@radionordjyske.dk</itunes:summary>
+            <itunes:duration>14:43</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Andedammen%2004032020%20session.mp3" type="audio/mpeg" length="21264971"/>
+            <category>Nordjylland</category>
+            <category>journalistik</category>
+            <category>NORDJYSKE Medier</category>
+            <category>nordjyske historier</category>
+            <category>Andedammen</category>
+            <category>Radio NORDJYSKE</category>
+            <category>andedam</category>
+            <category>snak</category>
+            <category>Anders Fuglsang</category>
+        </item>
+        <item>
+            <guid isPermaLink="false">1852cca1-91e7-44f4-bc81-5f84b7fcfec6</guid>
+            <title>03.03 - Statsministeren vil ikke tale med NORDJYSKE - Nordjyde i corona-karantæne - PlusBus giver ballade i Aalborgs midtby.</title>
+            <description>Tør Mette Frederiksen ikke at tale med Nordjyskes gravergruppe? Det er der noget, der tyder på. Det handler det om i Andedammen i dag, hvor vi også taler om en nordjyde i corona-karantæne og om bilkøer helt frem til december pga. arbejdet med PlusBus-banen i Aalborg.&lt;br/&gt;
+Skriv til programmet: anders@radionordjyske.dk</description>
+            <pubDate>Tue, 03 Mar 2020 13:59:46 +0100</pubDate>
+            <author>anders@radionordjyske.dk (Anders Fuglsang)</author>
+            <itunes:author>anders@radionordjyske.dk (Anders Fuglsang)</itunes:author>
+            <itunes:summary>Tør Mette Frederiksen ikke at tale med Nordjyskes gravergruppe? Det er der noget, der tyder på. Det handler det om i Andedammen i dag, hvor vi også taler om en nordjyde i corona-karantæne og om bilkøer helt frem til december pga. arbejdet med PlusBus-banen i Aalborg.
+Skriv til programmet: anders@radionordjyske.dk</itunes:summary>
+            <itunes:duration>12:53</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Andedammen%2003032020%20session.mp3" type="audio/mpeg" length="18619917"/>
+            <category>Nordjylland</category>
+            <category>journalistik</category>
+            <category>NORDJYSKE Medier</category>
+            <category>nordjyske historier</category>
+            <category>Andedammen</category>
+            <category>Radio NORDJYSKE</category>
+            <category>andedam</category>
+            <category>snak</category>
+            <category>Anders Fuglsang</category>
+        </item>
         <item>
             <guid isPermaLink="false">e2862ad7-917b-416b-8333-a07786357eee</guid>
             <title>02.03 - Trusler mod rektor på Nrs. Gym pga. Corona - Neglebidende tæt for både Hobro og AaB - Justitsministeren på besøg hos Nordjyllands Politi.</title>
