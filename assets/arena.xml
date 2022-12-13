@@ -9,7 +9,7 @@
         <link>http://www.nordjyske.dk</link>
         <language>da</language>
         <copyright>NORDJYSKE Medier</copyright>
-        <lastBuildDate>Mon, 17 Feb 2020 21:25:06 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 02 Mar 2020 22:25:29 +0100</lastBuildDate>
         <itunes:subtitle>Nordjysk sportspodcast</itunes:subtitle>
         <itunes:summary>I Arena går vi tæt på den nordjyske eliteidræt og dens udøvere. Nogle gange via studieinterviews og/eller debat andre gange gennem reportager og længere portrætter. </itunes:summary>
         <itunes:keywords>Eliteidræt, sport, håndbold, ishockey, Nordjylland</itunes:keywords>
@@ -29,6 +29,21 @@
             <itunes:category text="Professional"/>
         </itunes:category>
         <itunes:explicit>No</itunes:explicit>
+        <item>
+            <guid isPermaLink="false">61c2bfc0-264a-43b3-b0bf-740d41c2404d</guid>
+            <title>Arena episode 8</title>
+            <description>Hans første AaB-kamp var i en klapvogn og siden er det blevet til over 1000 hjemmekampe på Aalborg Stadion. Per Rishøj er det man godt kan kalde superfan af aalborgensisk topsport, for udover AaB, er han på plads til samtlige hjemmekampe samt flere af udekampene med AaB, Aalborg Håndbold og Aalborg Pirates. Du kan møde ham i denne udgave af Arena, hvor han fortæller om sine mange år med aalborgensisk topsport som en tro følgesvend. Jens Otto Barsøe har produceret podcasten. Der bliver i podcasten brugt lydklip fra DR's arkiver, Rishøjs Corner og AaBtv. </description>
+            <pubDate>Mon, 02 Mar 2020 22:25:29 +0100</pubDate>
+            <author>podcast@nordjyske.dk (NORDJYSKE Medier)</author>
+            <itunes:author>NORDJYSKE Medier</itunes:author>
+            <itunes:summary>Hans første AaB-kamp var i en klapvogn og siden er det blevet til over 1000 hjemmekampe på Aalborg Stadion. Per Rishøj er det man godt kan kalde superfan af aalborgensisk topsport, for udover AaB, er han på plads til samtlige hjemmekampe samt flere af udekampene med AaB, Aalborg Håndbold og Aalborg Pirates. Du kan møde ham i denne udgave af Arena, hvor han fortæller om sine mange år med aalborgensisk topsport som en tro følgesvend. Jens Otto Barsøe har produceret podcasten. Der bliver i podcasten brugt lydklip fra DR's arkiver, Rishøjs Corner og AaBtv. </itunes:summary>
+            <itunes:duration>60:22</itunes:duration>
+            <itunes:explicit>No</itunes:explicit>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/www.radionet.dk/podcast/Arena%20rishoj.mp3" type="audio/mpeg" length="58024899"/>
+            <category>Elitesport</category>
+            <category>Nordjylland</category>
+            <category>Aalborg</category>
+        </item>
         <item>
             <guid isPermaLink="false">cf5d9b56-ff95-4712-97c4-0aa30da53be4</guid>
             <title>Arena episode 7</title>

@@ -25,6 +25,20 @@
 <itunes:category text="Music" />
 <itunes:explicit>no</itunes:explicit> 
 ﻿<item>
+	<title>Go' morgen - 02.03.2020</title>
+	<itunes:author>Radio NORDJYSKE</itunes:author>
+	<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+	<itunes:summary>Det bedste fra Go' morgen på Radio NORDJYSKE - 02.03.2020</itunes:summary>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/gm00015367.mp3" length="172392387" type="audio/mpeg" />
+	<guid isPermaLink="false">2020030209052200015367</guid>
+	<pubDate>Mon, 2 Mar 2020 06:00:00 +0200</pubDate>
+	<itunes:duration>03:00:00</itunes:duration>
+	<itunes:keywords>radio, NORDJYSKE</itunes:keywords>
+	<itunes:explicit>No</itunes:explicit>
+	<category>Music, News</category>
+</item>
+
+﻿<item>
 	<title>Go' morgen - 28.02.2020</title>
 	<itunes:author>Radio NORDJYSKE</itunes:author>
 	<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
@@ -844,20 +858,6 @@
 	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/gm00013720.mp3" length="85988656" type="audio/mpeg" />
 	<guid isPermaLink="false">2019121009034700013720</guid>
 	<pubDate>Tue, 10 Dec 2019 06:00:00 +0200</pubDate>
-	<itunes:duration>03:00:00</itunes:duration>
-	<itunes:keywords>radio, NORDJYSKE</itunes:keywords>
-	<itunes:explicit>No</itunes:explicit>
-	<category>Music, News</category>
-</item>
-
-﻿<item>
-	<title>Go' morgen - 09.12.2019</title>
-	<itunes:author>Radio NORDJYSKE</itunes:author>
-	<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-	<itunes:summary>Det bedste fra Go' morgen på Radio NORDJYSKE - 09.12.2019</itunes:summary>
-	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/gm00013684.mp3" length="85989488" type="audio/mpeg" />
-	<guid isPermaLink="false">2019120909034400013684</guid>
-	<pubDate>Mon, 9 Dec 2019 06:00:00 +0200</pubDate>
 	<itunes:duration>03:00:00</itunes:duration>
 	<itunes:keywords>radio, NORDJYSKE</itunes:keywords>
 	<itunes:explicit>No</itunes:explicit>
