@@ -10,7 +10,7 @@ Vært: Anders Fuglsang</description>
         <link>http://www.radionordjyske.dk</link>
         <language>da</language>
         <copyright>NORDJYSKE Medier</copyright>
-        <lastBuildDate>Thu, 13 Feb 2020 14:48:20 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 14 Feb 2020 13:36:33 +0100</lastBuildDate>
         <itunes:subtitle>Tre goe' historier fra NORDJYSKE</itunes:subtitle>
         <itunes:summary>I Andedammen får du hver dag tre goe’ historier fra NORDJYSKE. Alt fra Obamas besøg i Aalborg over kæmpeordre til nordjysk industrigigant til lokalbrag i Superligaen. Hver dag får de tre nye historier om kultur, erhverv, sport, krimi, SoMe, byudvikling og landliv, og de bliver fortalt af de journalister der selv sidder med historien. 
 Vært: Anders Fuglsang</itunes:summary>
@@ -29,6 +29,28 @@ Vært: Anders Fuglsang</itunes:summary>
         <itunes:image href="http://www.radionet.dk/podcast/Podcastlogo.png"/>
         <itunes:category text="News &amp; Politics"/>
         <itunes:explicit>Clean</itunes:explicit>
+        <item>
+            <guid isPermaLink="false">2cf679bb-2810-4514-9a7e-b90762ff65e1</guid>
+            <title>14.02 - Hus i nordjylland for 6.000 - Dit lort, mit teatershow - Obligatorisk 'Nej Tak' til reklamer.</title>
+            <description>Køb et hus i Nordjylland for 6.000 kroner. Det handler det om i Andedammen i dag, hvor du får top 10-listen over de billigste huse i Nordjylland. Om nyt teatershow: Dit Lort Mit Show, hvor skuespillerne har købt og bagefter interviewet sælgerne fra dba.dk og GulogGratis om genbrugsguld og gammelt ragelse. Og om et nyt forslag fra regeringen, der vil betyde færre tilbudsaviser i postkasserne. Du slipper automatisk for reklamer, med mindre du selv siger Ja Tak.&lt;br/&gt;
+Skriv til programmet: anders@radionordjyske.dk</description>
+            <pubDate>Fri, 14 Feb 2020 13:36:33 +0100</pubDate>
+            <author>anders@radionordjyske.dk (Anders Fuglsang)</author>
+            <itunes:author>anders@radionordjyske.dk (Anders Fuglsang)</itunes:author>
+            <itunes:summary>Køb et hus i Nordjylland for 6.000 kroner. Det handler det om i Andedammen i dag, hvor du får top 10-listen over de billigste huse i Nordjylland. Om nyt teatershow: Dit Lort Mit Show, hvor skuespillerne har købt og bagefter interviewet sælgerne fra dba.dk og GulogGratis om genbrugsguld og gammelt ragelse. Og om et nyt forslag fra regeringen, der vil betyde færre tilbudsaviser i postkasserne. Du slipper automatisk for reklamer, med mindre du selv siger Ja Tak.
+Skriv til programmet: anders@radionordjyske.dk</itunes:summary>
+            <itunes:duration>13:24</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Andedammen%20140220%20session.mp3" type="audio/mpeg" length="19357824"/>
+            <category>Nordjylland</category>
+            <category>journalistik</category>
+            <category>NORDJYSKE Medier</category>
+            <category>nordjyske historier</category>
+            <category>Andedammen</category>
+            <category>Radio NORDJYSKE</category>
+            <category>andedam</category>
+            <category>snak</category>
+            <category>Anders Fuglsang</category>
+        </item>
         <item>
             <guid isPermaLink="false">2a143842-504c-4121-9e51-f1f13ddcef3c</guid>
             <title>13.02 - Aalborg er pilotkommune i LGBTQ+-projekt - Youtube misinformerer: Det overrasker nordjyske unge - Er AaB og Hobro klar til foråret?</title>

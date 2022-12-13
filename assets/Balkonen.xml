@@ -27,8 +27,19 @@
         <itunes:explicit>Clean</itunes:explicit>
         <generator>Hindenburg Broadcaster 1.82.2304</generator>
         <pubDate>Thu, 21 Mar 2019 13:32:21 +0100</pubDate>
-        <lastBuildDate>Fri, 31 Jan 2020 12:52:25 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 14 Feb 2020 11:15:51 +0100</lastBuildDate>
         <itunes:keywords>Nordjylland, radio, NORDJYSKE, Skovmand, Bue, humor, direktør, sjov, nordjylland</itunes:keywords>
+        <item>
+            <guid isPermaLink="false">90dd1308-c55e-4dd5-9d88-c4ac1c894f99</guid>
+            <title>Balkonen med musical, fede hunde og SAS</title>
+            <description>I denne udgave af Balkonen kigger Skovmand og Bue på Kystsikring i Nordsøen, el-bilsnyt, Covid og pornomusical. </description>
+            <pubDate>Fri, 14 Feb 2020 11:15:51 +0100</pubDate>
+            <author>Niels Holger Thrane Skovmand</author>
+            <itunes:author>Niels Holger Thrane Skovmand</itunes:author>
+            <itunes:summary>I denne udgave af Balkonen kigger Skovmand og Bue på Kystsikring i Nordsøen, el-bilsnyt, Covid og pornomusical. </itunes:summary>
+            <itunes:duration>28:06</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Balkonen%20med%20musical,%20fede%20hunde%20og%20SAS.mp3" type="audio/mpeg" length="27037406"/>
+        </item>
         <item>
             <guid isPermaLink="false">8f9e126a-a085-4bf0-9317-41f49a022175</guid>
             <title>Balkon med mur og forhud</title>
