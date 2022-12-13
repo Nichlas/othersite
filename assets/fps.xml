@@ -9,7 +9,7 @@
         <link>http://www.radionordjyske.dk</link>
         <language>da</language>
         <copyright>Radio NORDJYSKE</copyright>
-        <lastBuildDate>Sun, 02 Feb 2020 04:21:00 +0100</lastBuildDate>
+        <lastBuildDate>Sun, 16 Feb 2020 02:56:30 +0100</lastBuildDate>
         <itunes:subtitle>Radio NORDJYSKE</itunes:subtitle>
         <itunes:summary>Frivillig Public Service kommer helt tæt på aktuelle begivenheder i Nordjylland og sætter fokus på nordjyske ildsjæle, der brænder igennem for deres sag. Vært er Anders Fuglsang.</itunes:summary>
         <itunes:keywords>Nordjylland, tæt på, NORDJYSKE, reportage, samtale, liv, </itunes:keywords>
@@ -27,6 +27,25 @@
         <itunes:image href="http://www.radionet.dk/podcast/radionordjyske_1400.png"/>
         <itunes:category text="Society &amp; Culture"/>
         <itunes:explicit>Clean</itunes:explicit>
+        <item>
+            <guid isPermaLink="false">14d3d8f1-2361-4069-b00d-7f976ba3e0fc</guid>
+            <title>'I'm planning to stay for the rest of my life'.</title>
+            <description>I-Life er studerende, der hjælper udenlandske studerende i Aalborg. Om de er her i tre måneder, tre år eller har planer om at blive her resten af livet. Og de har altid brug for nye frivillige. Hør fra præsidenten Vibeke, fra tyske Marko med danske rødder, fra Ida, fra belgiske Matthieu, spanske Miguel og Jone og fra Dora, 19 år og fra Ungarn – der har drømt om at komme hertil og med planer om at blive hængende. &lt;br/&gt;
+Skriv til programmet: anders@radionordjyske.dk</description>
+            <pubDate>Sun, 16 Feb 2020 02:56:30 +0100</pubDate>
+            <author>anders@radionordjyske.dk (Anders Fuglsang)</author>
+            <itunes:author>anders@radionordjyske.dk (Anders Fuglsang)</itunes:author>
+            <itunes:summary>I-Life er studerende, der hjælper udenlandske studerende i Aalborg. Om de er her i tre måneder, tre år eller har planer om at blive her resten af livet. Og de har altid brug for nye frivillige. Hør fra præsidenten Vibeke, fra tyske Marko med danske rødder, fra Ida, fra belgiske Matthieu, spanske Miguel og Jone og fra Dora, 19 år og fra Ungarn – der har drømt om at komme hertil og med planer om at blive hængende. 
+Skriv til programmet: anders@radionordjyske.dk</itunes:summary>
+            <itunes:duration>22:37</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/I-life%20session.mp3" type="audio/mpeg" length="32625729"/>
+            <category>Nordjylland</category>
+            <category>tæt på</category>
+            <category>reportage</category>
+            <category>Radio NORDJYSKE</category>
+            <category>public service</category>
+            <category>Anders Fuglsang</category>
+        </item>
         <item>
             <guid isPermaLink="false">40ccf4cb-9181-4cac-b9c9-26d5e49bb22c</guid>
             <title>Ib Grønbech: 'Mine tanker var min værste fjende'.</title>
