@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+        <title>Weekend med Johnni Gade</title>
+        <link>http://www.anr.dk</link>
+        <language>da</language>
+        <copyright>NORDJYSKE Medier</copyright>
+        <atom:link href="http://www.radionet.dk/podcast/wmjg.xml" rel="self" type="application/rss+xml"/>
+        <image>
+            <url>http://www.radionet.dk/podcast/wmjg.png</url>
+            <title>Weekend med Johnni Gade</title>
+            <link>http://www.anr.dk</link>
+            <width>138</width>
+            <height>300</height>
+        </image>
+        <itunes:subtitle>NORDJYSKE Medier</itunes:subtitle>
+        <itunes:author>NORDJYSKE Medier</itunes:author>
+        <itunes:summary>Weekend med Johnni Gade hvor ugens højdepunkter vendes i en satirisk ramme. </itunes:summary>
+        <description>Weekend med Johnni Gade hvor ugens højdepunkter vendes i en satirisk ramme. </description>
+        <itunes:owner>
+            <itunes:name>NORDJYSKE Medier</itunes:name>
+            <itunes:email>kontakt@anr.dk</itunes:email>
+        </itunes:owner>
+        <itunes:image href="http://www.radionet.dk/podcast/wmjg.png"/>
+        <itunes:category text="Comedy"/>
+        <itunes:category text="Music"/>
+        <itunes:explicit>Clean</itunes:explicit>
+        <generator>Hindenburg Broadcaster 1.82.2306</generator>
+        <pubDate>Tue, 28 May 2019 14:31:54 +0200</pubDate>
+        <lastBuildDate>Fri, 28 Feb 2020 08:46:38 +0100</lastBuildDate>
+        <itunes:keywords>Nordjylland, radio, ANR, Johnni Gade, humor, weekend, sjov</itunes:keywords>
+        <item>
+            <guid isPermaLink="false">a4040846-fc4e-42e8-af8b-bff11210d0e5</guid>
+            <title>Boris Laursen på besøg, Corona virussen i Danmark, Dansk Folkepartis nye håndtryk og meget mere.</title>
+            <pubDate>Fri, 28 Feb 2020 08:46:38 +0100</pubDate>
+            <author>Johnni Gade</author>
+            <itunes:author>Johnni Gade</itunes:author>
+            <itunes:duration>27:02</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/38.mp3" type="audio/mpeg" length="38987136"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">79be12cd-1469-451c-988b-bc7cd77c9c2c</guid>
+            <title>Har Johnni Corona virus? Har Lars Løkke? Er Britta Nielsen allerede ude af spjældet?</title>
+            <pubDate>Fri, 21 Feb 2020 08:15:11 +0100</pubDate>
+            <author>Johnni Gade</author>
+            <itunes:author>Johnni Gade</itunes:author>
+            <itunes:duration>26:57</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/37.mp3" type="audio/mpeg" length="38879424"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">c2893e09-f44e-48a2-9c32-700a3807d590</guid>
+            <title>Jesus Kristus forhud, Tik Tok gør dig dummere, Superbowl og meget mere!</title>
+            <pubDate>Fri, 07 Feb 2020 08:02:53 +0100</pubDate>
+            <author>Johnni Gade</author>
+            <itunes:author>Johnni Gade</itunes:author>
+            <itunes:duration>28:01</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/pod36%20ny.mp3" type="audio/mpeg" length="40405248"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">7a3ef0c9-646f-4f8b-a5b4-1f9b68e9736b</guid>
+            <title>Fodbold skal banlyses, ænder må ikke fodres, Helle Thorning misforstår spørgsmål og meget mere!</title>
+            <pubDate>Fri, 31 Jan 2020 08:42:47 +0100</pubDate>
+            <author>Johnni Gade</author>
+            <itunes:author>Johnni Gade</itunes:author>
+            <itunes:duration>30:07</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/pod%2035.mp3" type="audio/mpeg" length="43430392"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">d5512d61-b231-490b-96c9-24f2f1eed64b</guid>
+            <title>Superbowl drama, Wozniacki trækker sig,Christiane har skæve fingre og meget mere</title>
+            <pubDate>Fri, 24 Jan 2020 09:56:13 +0100</pubDate>
+            <author>Johnni Gade</author>
+            <itunes:author>Johnni Gade</itunes:author>
+            <itunes:duration>26:11</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/pod%2034.mp3" type="audio/mpeg" length="37779793"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">4b3ea6e1-94c7-411f-9af2-165a22a2ff38</guid>
+            <title>Fie Laursens plastikmareridt, vagina duftlys, snorkeri dræber og meget mere</title>
+            <pubDate>Fri, 17 Jan 2020 07:05:39 +0100</pubDate>
+            <author>Johnni Gade</author>
+            <itunes:author>Johnni Gade</itunes:author>
+            <itunes:duration>26:43</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/pod%2033.mp3" type="audio/mpeg" length="38541523"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">badf3de8-ae53-458b-9d89-251a9431d039</guid>
+            <title>Guitar Guirlander laver comeback, Australien brænder, engelsk udgave af Hvem vil være millionær og meget mere</title>
+            <pubDate>Fri, 10 Jan 2020 08:27:22 +0100</pubDate>
+            <author>Johnni Gade</author>
+            <itunes:author>Johnni Gade</itunes:author>
+            <itunes:duration>25:04</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/pod%2032.mp3" type="audio/mpeg" length="36161037"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">c98fe352-e355-4117-984a-cec9d4835589</guid>
+            <title>Paven slår på folk, bistik i nødderne på Paradise Hotel, VM i møgsvin og meget, meget mere.</title>
+            <pubDate>Fri, 03 Jan 2020 10:21:26 +0100</pubDate>
+            <author>Johnni Gade</author>
+            <itunes:author>Johnni Gade</itunes:author>
+            <itunes:duration>29:15</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/pod%2031.mp3" type="audio/mpeg" length="42194695"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">7a3ed2a7-9b24-4924-b1f4-5bf46c087bac</guid>
+            <title>18 cm i numsen, bankrøvende julemand, lov mod gaming og meget mere!</title>
+            <pubDate>Thu, 26 Dec 2019 12:34:41 +0100</pubDate>
+            <author>Johnni Gade</author>
+            <itunes:author>Johnni Gade</itunes:author>
+            <itunes:duration>24:51</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/pod30.mp3" type="audio/mpeg" length="35856000"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">bc5d661e-c32c-4590-8f2c-1d07734728c1</guid>
+            <title>SPECIAL: Live fra Boulevarden</title>
+            <pubDate>Fri, 20 Dec 2019 09:09:02 +0100</pubDate>
+            <author>Johnni Gade</author>
+            <itunes:author>Johnni Gade</itunes:author>
+            <itunes:duration>27:21</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/boulevarden.mp3" type="audio/mpeg" length="39458304"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">3ee75209-02d9-452d-b446-8cd20ebc85ed</guid>
+            <title>Prutter der kurerer malaria, en 10 m bændelorm, Trump som superskurk og meget mere</title>
+            <pubDate>Fri, 13 Dec 2019 08:40:32 +0100</pubDate>
+            <author>Johnni Gade</author>
+            <itunes:author>Johnni Gade</itunes:author>
+            <itunes:duration>25:29</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/pod%2028.mp3" type="audio/mpeg" length="36754121"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">7b0c7dd3-0709-4302-8ca0-07a20b30b453</guid>
+            <title>Medina spiller Hvem Vil Være Millionær, decemberbørn er bedre, mand mister fingre og meget mere!</title>
+            <pubDate>Fri, 06 Dec 2019 08:40:00 +0100</pubDate>
+            <author>Johnni Gade</author>
+            <itunes:author>Johnni Gade</itunes:author>
+            <itunes:duration>27:20</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/pod%2027.mp3" type="audio/mpeg" length="39433030"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">a9f4b122-b775-4053-b464-385dff43a84c</guid>
+            <title>Fantom nippletwistere, Seebach dummer sig, snak kan kurere kræft og meget mere!</title>
+            <pubDate>Fri, 29 Nov 2019 09:15:51 +0100</pubDate>
+            <author>Johnni Gade</author>
+            <itunes:author>Johnni Gade</itunes:author>
+            <itunes:duration>26:00</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/pod%2026.mp3" type="audio/mpeg" length="37506240"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">41c924fb-ccaf-4e7f-8af6-d5034562449f</guid>
+            <title>Sy Lee spiller hvem vil være millionær, EM sangen skal synges og meget mere!</title>
+            <pubDate>Fri, 22 Nov 2019 11:36:36 +0100</pubDate>
+            <author>Johnni Gade</author>
+            <itunes:author>Johnni Gade</itunes:author>
+            <itunes:duration>26:40</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/pod%2025.mp3" type="audio/mpeg" length="38477575"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">ef33018c-6fe8-4a32-816d-2ee905dcbc3f</guid>
+            <title>Rasmus Brohaves klister,Umut går efter at blive millionær mm,</title>
+            <pubDate>Fri, 15 Nov 2019 08:21:50 +0100</pubDate>
+            <author>Johnni Gade</author>
+            <itunes:author>Johnni Gade</itunes:author>
+            <itunes:duration>29:06</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/pod%2024.mp3" type="audio/mpeg" length="41963982"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">1cca5a71-d74e-49f4-9527-559a2874deca</guid>
+            <title>En 10 år gammel cheeseburger, danskernes højde og biblioteksbøger der bliver afleveret for sent!</title>
+            <pubDate>Fri, 08 Nov 2019 08:37:10 +0100</pubDate>
+            <author>Johnni Gade</author>
+            <itunes:author>Johnni Gade</itunes:author>
+            <itunes:duration>26:00</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/pod%2023.mp3" type="audio/mpeg" length="37509696"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">a5cd6b14-04fe-444e-bedb-46f900658724</guid>
+            <title>Kønsneutral emojis, winter is coming og frygten for net doktor!</title>
+            <pubDate>Fri, 01 Nov 2019 08:06:22 +0100</pubDate>
+            <author>Johnni Gade</author>
+            <itunes:author>Johnni Gade</itunes:author>
+            <itunes:duration>25:26</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/pod%2022.mp3" type="audio/mpeg" length="36698112"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">adaf82ac-b91b-4b4c-8f80-5ef761713ca6</guid>
+            <title>Trump Bygger Flere Mure, Sexrobotter Skal Give Samtykke, Penisbanner og meget mere.</title>
+            <pubDate>Fri, 25 Oct 2019 09:03:23 +0200</pubDate>
+            <author>Johnni Gade</author>
+            <itunes:author>Johnni Gade</itunes:author>
+            <itunes:duration>27:37</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/pod%2021.mp3" type="audio/mpeg" length="39838659"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">6e549d47-510d-48f2-9bbd-f07e469c3aff</guid>
+            <title>Geggo på besøg, Amalies hængepatter, NASA's modeshow og meget mere!</title>
+            <pubDate>Fri, 18 Oct 2019 08:14:46 +0200</pubDate>
+            <author>Johnni Gade</author>
+            <itunes:author>Johnni Gade</itunes:author>
+            <itunes:duration>24:01</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/pod%2020.mp3" type="audio/mpeg" length="34655040"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">7a6d740d-de8d-49ff-aa71-344a963aea71</guid>
+            <title>Menneskets bedste ven, skedesekret, mandepatter og meget mere</title>
+            <pubDate>Fri, 11 Oct 2019 08:37:22 +0200</pubDate>
+            <author>Johnni Gade</author>
+            <itunes:author>Johnni Gade</itunes:author>
+            <itunes:duration>24:50</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/pod%2019.mp3" type="audio/mpeg" length="35824370"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">c1ed5507-fe86-4a51-9f87-f2854b0610e3</guid>
+            <title>Bubber i Hvem Vil Være Millionær, skal naturen arve dine penge, verdens værste bankrøver med mere!</title>
+            <pubDate>Fri, 04 Oct 2019 08:22:51 +0200</pubDate>
+            <author>Johnni Gade</author>
+            <itunes:author>Johnni Gade</itunes:author>
+            <itunes:duration>25:27</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/pod%2018.mp3" type="audio/mpeg" length="36721152"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">a14bd59c-b07a-43a1-9add-2df360ec9fa3</guid>
+            <title>Kønsneutrale barbiedukker, challengekort i håndbold, Emmyshowet og meget mere</title>
+            <pubDate>Fri, 27 Sep 2019 07:10:17 +0200</pubDate>
+            <author>Johnni Gade</author>
+            <itunes:author>Johnni Gade</itunes:author>
+            <itunes:duration>24:50</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/pod%2017.mp3" type="audio/mpeg" length="35824896"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">da071a44-000b-4d37-8f28-d1d6ae50a6d2</guid>
+            <title>Pruttekonkurrence, Sydkoreansk kriminyt, Overvægtige hunde og meget mere!</title>
+            <pubDate>Fri, 20 Sep 2019 12:01:37 +0200</pubDate>
+            <author>Johnni Gade</author>
+            <itunes:author>Johnni Gade</itunes:author>
+            <itunes:duration>23:13</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/pod%2016.mp3" type="audio/mpeg" length="33510528"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">21a9b53a-6d9f-441b-aec0-034dd1ec2d23</guid>
+            <title>Bendtner i Hvem Vil Være Millionær, børnehaveyoga, en ny planet og meget mere!</title>
+            <pubDate>Fri, 13 Sep 2019 08:11:22 +0200</pubDate>
+            <author>Johnni Gade</author>
+            <itunes:author>Johnni Gade</itunes:author>
+            <itunes:duration>25:52</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/pod%2015.mp3" type="audio/mpeg" length="37308672"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">796e4fe8-4d58-4ec9-bd23-fbbea0415e6b</guid>
+            <title>Trump tegner på vejrkort, Bendtner kommer til Danmark og meget mere</title>
+            <pubDate>Fri, 06 Sep 2019 08:32:45 +0200</pubDate>
+            <author>Johnni Gade</author>
+            <itunes:author>Johnni Gade</itunes:author>
+            <itunes:duration>24:47</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/pod%2014.mp3" type="audio/mpeg" length="35763264"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">0d04fbf7-f8fb-4a48-9643-3815f1f3952f</guid>
+            <pubDate>Fri, 30 Aug 2019 08:48:53 +0200</pubDate>
+            <author>Johnni Gade</author>
+            <itunes:author>Johnni Gade</itunes:author>
+            <itunes:duration>26:46</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/pod%2013.mp3" type="audio/mpeg" length="38600064"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">90c4b7f4-a193-4786-8cb3-06340f42f58d</guid>
+            <title>Janni Ree spiller Hvem Vil Være Millionær, Trump vil købe Grønland og meget mere!</title>
+            <pubDate>Fri, 23 Aug 2019 11:31:34 +0200</pubDate>
+            <author>Johnni Gade</author>
+            <itunes:author>Johnni Gade</itunes:author>
+            <itunes:duration>22:36</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/pod%2012.mp3" type="audio/mpeg" length="32613120"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">892d8b92-3687-4b3f-b331-dd4486a55012</guid>
+            <title>3. verdenskrig, Weekendrap, en elfærge og meget mere!</title>
+            <pubDate>Sun, 18 Aug 2019 12:12:02 +0200</pubDate>
+            <author>Johnni Gade</author>
+            <itunes:author>Johnni Gade</itunes:author>
+            <itunes:duration>26:24</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/pod%2011.mp3" type="audio/mpeg" length="38086366"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">0dcd24bd-0247-4bae-9d9a-ed413dec2788</guid>
+            <title>Hvordan udtaler man Wozniackis navn? Er Brexit ved at være for meget? Hvem har skidt i vandet i Aarhus? Få svaret lige her!</title>
+            <pubDate>Fri, 02 Aug 2019 12:45:42 +0200</pubDate>
+            <author>gade@anr.dk (Johnni Gade)</author>
+            <itunes:author>Johnni Gade</itunes:author>
+            <itunes:duration>19:47</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/pod%209.mp3" type="audio/mpeg" length="28561912"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">f75ec072-008b-4ae0-895b-63f61765b9e2</guid>
+            <title>Babyer med næseringe, Næsten ny varmerekord og meget mere!</title>
+            <pubDate>Fri, 26 Jul 2019 13:32:15 +0200</pubDate>
+            <author>johnni@anr.dk (Johnni Gade)</author>
+            <itunes:author>Johnni Gade</itunes:author>
+            <itunes:duration>20:07</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/pod%208.mp3" type="audio/mpeg" length="29042774"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">5cfb58e0-5c1a-46a9-bf36-7de482b5a17d</guid>
+            <title>Medina spiller Hvem Vil Være Millionær, Tour De Plov, Paradise Hotel og mere!</title>
+            <pubDate>Fri, 19 Jul 2019 08:53:13 +0200</pubDate>
+            <author>johnni@anr.dk (Johnni Gade)</author>
+            <itunes:author>Johnni Gade</itunes:author>
+            <itunes:duration>19:10</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/pod%207.mp3" type="audio/mpeg" length="27672286"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">ec1eb2c3-4965-42b4-b970-73fce96ac84d</guid>
+            <title>Christopher spiller Hvem Vil Være Millionær, mobilen er en sexdræber, Tour De France og meget mere </title>
+            <pubDate>Fri, 12 Jul 2019 08:53:50 +0200</pubDate>
+            <author>johnni@anr.dk (Johnni Gade)</author>
+            <itunes:author>Johnni Gade</itunes:author>
+            <itunes:duration>20:38</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/pod%206.mp3" type="audio/mpeg" length="29786950"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">bc5ce4fe-6237-4f6a-898d-1071d6ab9f3e</guid>
+            <title>Joey Moe svarer på spørgsmål, festivalråd, sømandsang og meget mere.</title>
+            <pubDate>Fri, 05 Jul 2019 08:14:47 +0200</pubDate>
+            <author>johnni@anr.dk (Johnni Gade)</author>
+            <itunes:author>Johnni Gade</itunes:author>
+            <itunes:duration>20:20</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/pod%205.mp3" type="audio/mpeg" length="29334927"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">36c89a7a-6a0d-4005-8ff7-2bc8a27d8056</guid>
+            <title>Donald Trumps gramserier, et svensk kongepar på resteplads og mange flere besynderlige ting</title>
+            <pubDate>Fri, 28 Jun 2019 08:50:36 +0200</pubDate>
+            <author>johnni@anr.dk (Johnni Gade)</author>
+            <itunes:author>Johnni Gade</itunes:author>
+            <itunes:duration>19:35</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/pod%204.mp3" type="audio/mpeg" length="28263489"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">6f9dca62-1edd-4b13-88b3-404e52020904</guid>
+            <title>Ugens gode weekendstemning er her!</title>
+            <pubDate>Fri, 21 Jun 2019 15:26:26 +0200</pubDate>
+            <author>johnni@anr.dk (Johnni Gade)</author>
+            <itunes:author>Johnni Gade</itunes:author>
+            <itunes:duration>21:27</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/pod3.mp3" type="audio/mpeg" length="30944279"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">ac13fafb-fa52-40fa-ba97-747ee3c79e62</guid>
+            <title>De unge mødre, Trumps venskabstræ, Aalborg er mestre og meget mere.</title>
+            <pubDate>Fri, 14 Jun 2019 10:16:32 +0200</pubDate>
+            <author>johnni@anr.dk (Johnni Gade)</author>
+            <itunes:author>Johnni Gade</itunes:author>
+            <itunes:duration>22:06</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/johnni%20podcast2.mp3" type="audio/mpeg" length="31879045"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">a7888a0b-f52a-4794-b5ca-ca17fd80a8bc</guid>
+            <title>Weekendstemningen er landet! - 1</title>
+            <description>Valgsang, en forvirret spåkone, rundkørsler der gør dig liderlig, weekendrap og meget mere.</description>
+            <pubDate>Fri, 07 Jun 2019 09:15:35 +0200</pubDate>
+            <author>johnni@anr.dk (Johnni Gade)</author>
+            <itunes:author>Johnni Gade</itunes:author>
+            <itunes:keywords>Johnni Gade, ANR, spåkone, rap, fredagsrap, weekendrap</itunes:keywords>
+            <itunes:duration>21:20</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/podcast.mp3" type="audio/mpeg" length="30775633"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">2391f701-7262-4bb4-b691-8326820e18ab</guid>
+            <title>Kommer snart</title>
+            <pubDate>Tue, 28 May 2019 14:31:54 +0200</pubDate>
+            <itunes:duration>00:04</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Kommer%20snart.mp3" type="audio/mpeg" length="133373"/>
+        </item>
+    </channel>
+</rss>

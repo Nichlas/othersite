@@ -27,8 +27,19 @@
         <itunes:explicit>Clean</itunes:explicit>
         <generator>Hindenburg Broadcaster 1.82.2304</generator>
         <pubDate>Thu, 21 Mar 2019 13:32:21 +0100</pubDate>
-        <lastBuildDate>Fri, 14 Feb 2020 11:15:51 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 28 Feb 2020 11:15:02 +0100</lastBuildDate>
         <itunes:keywords>Nordjylland, radio, NORDJYSKE, Skovmand, Bue, humor, direktør, sjov, nordjylland</itunes:keywords>
+        <item>
+            <guid isPermaLink="false">66d2ef20-1aed-4eb8-921e-927da06b45f0</guid>
+            <title>Balkonen med Skovmand og Bue og nøgenhed</title>
+            <description>I denne udgave af Balkonen bliver det til et akavet møde i et badeland. En ven der beder om at låne det allerhelligste og vindueskigger tendenser:) </description>
+            <pubDate>Fri, 28 Feb 2020 11:15:02 +0100</pubDate>
+            <author>Niels Holger Thrane Skovmand</author>
+            <itunes:author>Niels Holger Thrane Skovmand</itunes:author>
+            <itunes:summary>I denne udgave af Balkonen bliver det til et akavet møde i et badeland. En ven der beder om at låne det allerhelligste og vindueskigger tendenser:) </itunes:summary>
+            <itunes:duration>28:09</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Balkonen%20med%20Skovmand%20og%20Bue%20og%20n%F8genhed.mp3" type="audio/mpeg" length="27090432"/>
+        </item>
         <item>
             <guid isPermaLink="false">90dd1308-c55e-4dd5-9d88-c4ac1c894f99</guid>
             <title>Balkonen med musical, fede hunde og SAS</title>
