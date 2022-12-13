@@ -10,7 +10,7 @@ Vært: Anders Fuglsang</description>
         <link>http://www.radionordjyske.dk</link>
         <language>da</language>
         <copyright>NORDJYSKE Medier</copyright>
-        <lastBuildDate>Fri, 14 Feb 2020 13:36:33 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 18 Feb 2020 15:02:21 +0100</lastBuildDate>
         <itunes:subtitle>Tre goe' historier fra NORDJYSKE</itunes:subtitle>
         <itunes:summary>I Andedammen får du hver dag tre goe’ historier fra NORDJYSKE. Alt fra Obamas besøg i Aalborg over kæmpeordre til nordjysk industrigigant til lokalbrag i Superligaen. Hver dag får de tre nye historier om kultur, erhverv, sport, krimi, SoMe, byudvikling og landliv, og de bliver fortalt af de journalister der selv sidder med historien. 
 Vært: Anders Fuglsang</itunes:summary>
@@ -29,6 +29,28 @@ Vært: Anders Fuglsang</itunes:summary>
         <itunes:image href="http://www.radionet.dk/podcast/Podcastlogo.png"/>
         <itunes:category text="News &amp; Politics"/>
         <itunes:explicit>Clean</itunes:explicit>
+        <item>
+            <guid isPermaLink="false">1f790668-5efb-4a6e-81a3-45970464cce0</guid>
+            <title>18.02 - Ruths Hotel ryger ud af Michelinguiden - Mand fundet død ved Hobro: Ni anholdt - Byggematadorer dropper overmættet Aalborg.</title>
+            <description>Det var en ekstra skuffelse, at Ruths Hotel mistede sin anbefaling i Michelinguiden. Det handler det om i Andedammen i dag, hvor vi også fortæller, at ejendomsudviklere trækker sig fra byggemarkedet i Aalborg. Markedet er overmættet, lyder det. Og så handler det om et dødsfald ved Hobro, hvor ni personer blev anholdt.&lt;br/&gt;
+Skriv til programmet: anders@radionordjyske.dk</description>
+            <pubDate>Tue, 18 Feb 2020 15:02:21 +0100</pubDate>
+            <author>anders@radionordjyske.dk (Anders Fuglsang)</author>
+            <itunes:author>anders@radionordjyske.dk (Anders Fuglsang)</itunes:author>
+            <itunes:summary>Det var en ekstra skuffelse, at Ruths Hotel mistede sin anbefaling i Michelinguiden. Det handler det om i Andedammen i dag, hvor vi også fortæller, at ejendomsudviklere trækker sig fra byggemarkedet i Aalborg. Markedet er overmættet, lyder det. Og så handler det om et dødsfald ved Hobro, hvor ni personer blev anholdt.
+Skriv til programmet: anders@radionordjyske.dk</itunes:summary>
+            <itunes:duration>12:41</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Andedammen%20180220%20session.mp3" type="audio/mpeg" length="18330898"/>
+            <category>Nordjylland</category>
+            <category>journalistik</category>
+            <category>NORDJYSKE Medier</category>
+            <category>nordjyske historier</category>
+            <category>Andedammen</category>
+            <category>Radio NORDJYSKE</category>
+            <category>andedam</category>
+            <category>snak</category>
+            <category>Anders Fuglsang</category>
+        </item>
         <item>
             <guid isPermaLink="false">2cf679bb-2810-4514-9a7e-b90762ff65e1</guid>
             <title>14.02 - Hus i nordjylland for 6.000 - Dit lort, mit teatershow - Obligatorisk 'Nej Tak' til reklamer.</title>
