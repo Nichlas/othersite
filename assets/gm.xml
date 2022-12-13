@@ -25,6 +25,48 @@
 <itunes:category text="Music" />
 <itunes:explicit>no</itunes:explicit> 
 ﻿<item>
+	<title>Go' morgen - 21.02.2020</title>
+	<itunes:author>Radio NORDJYSKE</itunes:author>
+	<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+	<itunes:summary>Det bedste fra Go' morgen på Radio NORDJYSKE - 21.02.2020</itunes:summary>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/gm00015339.mp3" length="172392387" type="audio/mpeg" />
+	<guid isPermaLink="false">2020022109051600015339</guid>
+	<pubDate>Fri, 21 Feb 2020 06:00:00 +0200</pubDate>
+	<itunes:duration>03:00:00</itunes:duration>
+	<itunes:keywords>radio, NORDJYSKE</itunes:keywords>
+	<itunes:explicit>No</itunes:explicit>
+	<category>Music, News</category>
+</item>
+
+﻿<item>
+	<title>Go' morgen - 20.02.2020</title>
+	<itunes:author>Radio NORDJYSKE</itunes:author>
+	<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+	<itunes:summary>Det bedste fra Go' morgen på Radio NORDJYSKE - 20.02.2020</itunes:summary>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/gm00015334.mp3" length="172392387" type="audio/mpeg" />
+	<guid isPermaLink="false">2020022009051200015334</guid>
+	<pubDate>Thu, 20 Feb 2020 06:00:00 +0200</pubDate>
+	<itunes:duration>03:00:00</itunes:duration>
+	<itunes:keywords>radio, NORDJYSKE</itunes:keywords>
+	<itunes:explicit>No</itunes:explicit>
+	<category>Music, News</category>
+</item>
+
+﻿<item>
+	<title>Go' morgen - 19.02.2020</title>
+	<itunes:author>Radio NORDJYSKE</itunes:author>
+	<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+	<itunes:summary>Det bedste fra Go' morgen på Radio NORDJYSKE - 19.02.2020</itunes:summary>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/gm00015329.mp3" length="172392387" type="audio/mpeg" />
+	<guid isPermaLink="false">2020021909052100015329</guid>
+	<pubDate>Wed, 19 Feb 2020 06:00:00 +0200</pubDate>
+	<itunes:duration>03:00:00</itunes:duration>
+	<itunes:keywords>radio, NORDJYSKE</itunes:keywords>
+	<itunes:explicit>No</itunes:explicit>
+	<category>Music, News</category>
+</item>
+
+﻿<item>
 	<title>Go' morgen - 18.02.2020</title>
 	<itunes:author>Radio NORDJYSKE</itunes:author>
 	<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
@@ -816,48 +858,6 @@
 	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/gm00013565.mp3" length="85989696" type="audio/mpeg" />
 	<guid isPermaLink="false">2019120209034700013565</guid>
 	<pubDate>Mon, 2 Dec 2019 06:00:00 +0200</pubDate>
-	<itunes:duration>03:00:00</itunes:duration>
-	<itunes:keywords>radio, NORDJYSKE</itunes:keywords>
-	<itunes:explicit>No</itunes:explicit>
-	<category>Music, News</category>
-</item>
-
-﻿<item>
-	<title>Go' morgen - 29.11.2019</title>
-	<itunes:author>Radio NORDJYSKE</itunes:author>
-	<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-	<itunes:summary>Det bedste fra Go' morgen på Radio NORDJYSKE - 29.11.2019</itunes:summary>
-	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/gm00013561.mp3" length="85989488" type="audio/mpeg" />
-	<guid isPermaLink="false">2019112909034100013561</guid>
-	<pubDate>Fri, 29 Nov 2019 06:00:00 +0200</pubDate>
-	<itunes:duration>03:00:00</itunes:duration>
-	<itunes:keywords>radio, NORDJYSKE</itunes:keywords>
-	<itunes:explicit>No</itunes:explicit>
-	<category>Music, News</category>
-</item>
-
-﻿<item>
-	<title>Go' morgen - 28.11.2019</title>
-	<itunes:author>Radio NORDJYSKE</itunes:author>
-	<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-	<itunes:summary>Det bedste fra Go' morgen på Radio NORDJYSKE - 28.11.2019</itunes:summary>
-	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/gm00013556.mp3" length="85989488" type="audio/mpeg" />
-	<guid isPermaLink="false">2019112809034100013556</guid>
-	<pubDate>Thu, 28 Nov 2019 06:00:00 +0200</pubDate>
-	<itunes:duration>03:00:00</itunes:duration>
-	<itunes:keywords>radio, NORDJYSKE</itunes:keywords>
-	<itunes:explicit>No</itunes:explicit>
-	<category>Music, News</category>
-</item>
-
-﻿<item>
-	<title>Go' morgen - 27.11.2019</title>
-	<itunes:author>Radio NORDJYSKE</itunes:author>
-	<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-	<itunes:summary>Det bedste fra Go' morgen på Radio NORDJYSKE - 27.11.2019</itunes:summary>
-	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/gm00013551.mp3" length="85989696" type="audio/mpeg" />
-	<guid isPermaLink="false">2019112709034100013551</guid>
-	<pubDate>Wed, 27 Nov 2019 06:00:00 +0200</pubDate>
 	<itunes:duration>03:00:00</itunes:duration>
 	<itunes:keywords>radio, NORDJYSKE</itunes:keywords>
 	<itunes:explicit>No</itunes:explicit>

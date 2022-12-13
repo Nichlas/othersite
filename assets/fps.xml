@@ -9,7 +9,7 @@
         <link>http://www.radionordjyske.dk</link>
         <language>da</language>
         <copyright>Radio NORDJYSKE</copyright>
-        <lastBuildDate>Sun, 16 Feb 2020 02:56:30 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 22 Feb 2020 01:57:16 +0100</lastBuildDate>
         <itunes:subtitle>Radio NORDJYSKE</itunes:subtitle>
         <itunes:summary>Frivillig Public Service kommer helt tæt på aktuelle begivenheder i Nordjylland og sætter fokus på nordjyske ildsjæle, der brænder igennem for deres sag. Vært er Anders Fuglsang.</itunes:summary>
         <itunes:keywords>Nordjylland, tæt på, NORDJYSKE, reportage, samtale, liv, </itunes:keywords>
@@ -27,6 +27,25 @@
         <itunes:image href="http://www.radionet.dk/podcast/radionordjyske_1400.png"/>
         <itunes:category text="Society &amp; Culture"/>
         <itunes:explicit>Clean</itunes:explicit>
+        <item>
+            <guid isPermaLink="false">c2a0fc14-1fea-4b46-a389-d6c02fa8feb9</guid>
+            <title>Vesthimmerlands Museum – 100 år</title>
+            <description>12.000 års historie - fortalt på to timer. En umulig opgave, og en usaglig en også. Men det var heller ikke sådan det var til Vesthimmerlands Museums 100 års jubilæumsforedrag i ugen. Det var til gengæld en nærværende, sjov og spændende oplevelse.  &lt;br/&gt;
+Skriv til programmet: anders@radionordjyske.dk</description>
+            <pubDate>Sat, 22 Feb 2020 01:57:16 +0100</pubDate>
+            <author>anders@radionordjyske.dk (Anders Fuglsang)</author>
+            <itunes:author>anders@radionordjyske.dk (Anders Fuglsang)</itunes:author>
+            <itunes:summary>12.000 års historie - fortalt på to timer. En umulig opgave, og en usaglig en også. Men det var heller ikke sådan det var til Vesthimmerlands Museums 100 års jubilæumsforedrag i ugen. Det var til gengæld en nærværende, sjov og spændende oplevelse.  
+Skriv til programmet: anders@radionordjyske.dk</itunes:summary>
+            <itunes:duration>23:58</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/VH%20Museum%20session.mp3" type="audio/mpeg" length="34571120"/>
+            <category>Nordjylland</category>
+            <category>tæt på</category>
+            <category>reportage</category>
+            <category>Radio NORDJYSKE</category>
+            <category>public service</category>
+            <category>Anders Fuglsang</category>
+        </item>
         <item>
             <guid isPermaLink="false">14d3d8f1-2361-4069-b00d-7f976ba3e0fc</guid>
             <title>'I'm planning to stay for the rest of my life'.</title>

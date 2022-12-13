@@ -10,7 +10,7 @@ Vært: Anders Fuglsang</description>
         <link>http://www.radionordjyske.dk</link>
         <language>da</language>
         <copyright>NORDJYSKE Medier</copyright>
-        <lastBuildDate>Wed, 19 Feb 2020 13:33:55 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 21 Feb 2020 12:34:51 +0100</lastBuildDate>
         <itunes:subtitle>Tre goe' historier fra NORDJYSKE</itunes:subtitle>
         <itunes:summary>I Andedammen får du hver dag tre goe’ historier fra NORDJYSKE. Alt fra Obamas besøg i Aalborg over kæmpeordre til nordjysk industrigigant til lokalbrag i Superligaen. Hver dag får de tre nye historier om kultur, erhverv, sport, krimi, SoMe, byudvikling og landliv, og de bliver fortalt af de journalister der selv sidder med historien. 
 Vært: Anders Fuglsang</itunes:summary>
@@ -29,6 +29,50 @@ Vært: Anders Fuglsang</itunes:summary>
         <itunes:image href="http://www.radionet.dk/podcast/Podcastlogo.png"/>
         <itunes:category text="News &amp; Politics"/>
         <itunes:explicit>Clean</itunes:explicit>
+        <item>
+            <guid isPermaLink="false">91cebf6b-6107-4c7c-bf5a-98e7ea0bdc50</guid>
+            <title>21.02 - Ancher-husets 1. sal i Skagen åbnet efter 85 år - Direktør i Frederikshavn White Hawk er ulønnet på 10. år - Unge fra UCN udvikler nyt digitalt pantsystem.</title>
+            <description>Første salen af Ancher-familiens hus i Skagen har stået urørt i 85 år. Nu kan du se de glemte skatte. Det handler det om i Andedammen i dag, hvor det også gælder nordjysk ishockey og en direktør i Frederikshavn, der ikke har fået løn i 10 år. Og om SmartPant – et nyt digitalt pantsystem.&lt;br/&gt;
+Skriv til programmet: anders@radionordjyske.dk</description>
+            <pubDate>Fri, 21 Feb 2020 12:34:51 +0100</pubDate>
+            <author>anders@radionordjyske.dk (Anders Fuglsang)</author>
+            <itunes:author>anders@radionordjyske.dk (Anders Fuglsang)</itunes:author>
+            <itunes:summary>Første salen af Ancher-familiens hus i Skagen har stået urørt i 85 år. Nu kan du se de glemte skatte. Det handler det om i Andedammen i dag, hvor det også gælder nordjysk ishockey og en direktør i Frederikshavn, der ikke har fået løn i 10 år. Og om SmartPant – et nyt digitalt pantsystem.
+Skriv til programmet: anders@radionordjyske.dk</itunes:summary>
+            <itunes:duration>12:45</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Andedammen%20210220%20session.mp3" type="audio/mpeg" length="18423685"/>
+            <category>Nordjylland</category>
+            <category>journalistik</category>
+            <category>NORDJYSKE Medier</category>
+            <category>nordjyske historier</category>
+            <category>Andedammen</category>
+            <category>Radio NORDJYSKE</category>
+            <category>andedam</category>
+            <category>snak</category>
+            <category>Anders Fuglsang</category>
+        </item>
+        <item>
+            <guid isPermaLink="false">ad2611a9-5281-47e5-9cef-7e994031e7fa</guid>
+            <title>20.02 - Gøl Båden klar til fest 29. maj - Forstanderinden på Julemærkehjemmet i Hobro er bekymret - Sober dansk film om far, der vil være kvinde. </title>
+            <description>Forstanderinden på Julemærkehjemmet i Hobro er bekymret. Hun ser alt for mange børn, der mistrives. Det handler det om i Andedammen i dag, og også om en ny dansk film om far, der vil være kvinde – set gennem øjnene på den 11-årige datter. Og så gælder det Gøl Båden, der er klar til fest d. 29 maj.&lt;br/&gt;
+Skriv til programmet: anders@radionordjyske.dk</description>
+            <pubDate>Thu, 20 Feb 2020 23:38:42 +0100</pubDate>
+            <author>anders@radionordjyske.dk (Anders Fuglsang)</author>
+            <itunes:author>anders@radionordjyske.dk (Anders Fuglsang)</itunes:author>
+            <itunes:summary>Forstanderinden på Julemærkehjemmet i Hobro er bekymret. Hun ser alt for mange børn, der mistrives. Det handler det om i Andedammen i dag, og også om en ny dansk film om far, der vil være kvinde – set gennem øjnene på den 11-årige datter. Og så gælder det Gøl Båden, der er klar til fest d. 29 maj.
+Skriv til programmet: anders@radionordjyske.dk</itunes:summary>
+            <itunes:duration>14:51</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/20.02%20-%20G%F8l%20B%E5den%20klar%20til%20fest%2029.%20maj%20-%20Forstanderinden%20p%E5%20Julem%E6rkehjemmet%20i%20Hobro%20er%20bekymret%20-%20Sober%20dansk%20film%20om%20far,%20der%20vil%20v%E6re%20kvinde.mp3" type="audio/mpeg" length="21446157"/>
+            <category>Nordjylland</category>
+            <category>journalistik</category>
+            <category>NORDJYSKE Medier</category>
+            <category>nordjyske historier</category>
+            <category>Andedammen</category>
+            <category>Radio NORDJYSKE</category>
+            <category>andedam</category>
+            <category>snak</category>
+            <category>Anders Fuglsang</category>
+        </item>
         <item>
             <guid isPermaLink="false">b0bbcad5-abda-4c63-a709-12fe23165ae0</guid>
             <title>19.02 - Frustrerede forældre får nej til ekstra 0. klasse i Aars - Flere tyske turister i Nordjylland - 7-årig Lucas har fået en 'buddy' fra UCN.</title>
