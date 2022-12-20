@@ -27,8 +27,17 @@
         <itunes:explicit>Clean</itunes:explicit>
         <generator>Hindenburg Broadcaster 1.82.2306</generator>
         <pubDate>Tue, 28 May 2019 14:31:54 +0200</pubDate>
-        <lastBuildDate>Fri, 28 Feb 2020 08:46:38 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 06 Mar 2020 07:29:32 +0100</lastBuildDate>
         <itunes:keywords>Nordjylland, radio, ANR, Johnni Gade, humor, weekend, sjov</itunes:keywords>
+        <item>
+            <guid isPermaLink="false">687917d1-98a2-4857-8c8a-68012c3e7b70</guid>
+            <title>Fie Laursen sugardater, Wozniacki i studiet, Corona over alt og meget mere!</title>
+            <pubDate>Fri, 06 Mar 2020 07:29:32 +0100</pubDate>
+            <author>Johnni Gade</author>
+            <itunes:author>Johnni Gade</itunes:author>
+            <itunes:duration>25:02</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/39.mp3" type="audio/mpeg" length="36103985"/>
+        </item>
         <item>
             <guid isPermaLink="false">a4040846-fc4e-42e8-af8b-bff11210d0e5</guid>
             <title>Boris Laursen på besøg, Corona virussen i Danmark, Dansk Folkepartis nye håndtryk og meget mere.</title>

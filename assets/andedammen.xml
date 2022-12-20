@@ -10,7 +10,7 @@ Vært: Anders Fuglsang</description>
         <link>http://www.radionordjyske.dk</link>
         <language>da</language>
         <copyright>NORDJYSKE Medier</copyright>
-        <lastBuildDate>Wed, 04 Mar 2020 13:27:31 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 06 Mar 2020 11:40:44 +0100</lastBuildDate>
         <itunes:subtitle>Tre goe' historier fra NORDJYSKE</itunes:subtitle>
         <itunes:summary>I Andedammen får du hver dag tre goe’ historier fra NORDJYSKE. Alt fra Obamas besøg i Aalborg over kæmpeordre til nordjysk industrigigant til lokalbrag i Superligaen. Hver dag får de tre nye historier om kultur, erhverv, sport, krimi, SoMe, byudvikling og landliv, og de bliver fortalt af de journalister der selv sidder med historien. 
 Vært: Anders Fuglsang</itunes:summary>
@@ -29,6 +29,28 @@ Vært: Anders Fuglsang</itunes:summary>
         <itunes:image href="http://www.radionet.dk/podcast/Podcastlogo.png"/>
         <itunes:category text="News &amp; Politics"/>
         <itunes:explicit>Clean</itunes:explicit>
+        <item>
+            <guid isPermaLink="false">64e332e2-cd07-44de-8663-b37ecb3cae1b</guid>
+            <title>06.03 - Nordjyske kvindelige ledere om 8. marts - Mistede sin identitet som 16-årig - Årets DBU-talent trives i Hjørring.</title>
+            <description>I dag handler Andedammen om en særlig indsats. Nemlig vores egen på søndag, hvor NORDJYSKE på nettet og i avisen har et særligt afsæt: At have så stor en andel af kvindelige kilder som muligt. Målet er ikke at lave en feministisk temadag med historier om kvindekamp eller yoga for gravide. Men at få mange kvindelige kilder i historierne. Og alle tre historier i Andedammen er i dag af og om kvinder. &lt;br/&gt;
+Skriv til programmet: anders@radionordjyske.dk</description>
+            <pubDate>Fri, 06 Mar 2020 11:40:44 +0100</pubDate>
+            <author>anders@radionordjyske.dk (Anders Fuglsang)</author>
+            <itunes:author>anders@radionordjyske.dk (Anders Fuglsang)</itunes:author>
+            <itunes:summary>I dag handler Andedammen om en særlig indsats. Nemlig vores egen på søndag, hvor NORDJYSKE på nettet og i avisen har et særligt afsæt: At have så stor en andel af kvindelige kilder som muligt. Målet er ikke at lave en feministisk temadag med historier om kvindekamp eller yoga for gravide. Men at få mange kvindelige kilder i historierne. Og alle tre historier i Andedammen er i dag af og om kvinder. 
+Skriv til programmet: anders@radionordjyske.dk</itunes:summary>
+            <itunes:duration>14:49</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Andedammen%2006032020%20session.mp3" type="audio/mpeg" length="21397882"/>
+            <category>Nordjylland</category>
+            <category>journalistik</category>
+            <category>NORDJYSKE Medier</category>
+            <category>nordjyske historier</category>
+            <category>Andedammen</category>
+            <category>Radio NORDJYSKE</category>
+            <category>andedam</category>
+            <category>snak</category>
+            <category>Anders Fuglsang</category>
+        </item>
         <item>
             <guid isPermaLink="false">a22afa21-19a4-4aae-a4ee-b5205cbc5860</guid>
             <title>04.03 - Klar til selvkørende busser og fremtiden - Mors/Thy styrer mod slutspillet - Ejer australsk forretningsmand DIN Andelskasse i Østervrå?</title>
