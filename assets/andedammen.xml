@@ -10,7 +10,7 @@ Vært: Anders Fuglsang</description>
         <link>http://www.radionordjyske.dk</link>
         <language>da</language>
         <copyright>NORDJYSKE Medier</copyright>
-        <lastBuildDate>Mon, 09 Mar 2020 17:00:08 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 11 Mar 2020 13:48:32 +0100</lastBuildDate>
         <itunes:subtitle>Tre goe' historier fra NORDJYSKE</itunes:subtitle>
         <itunes:summary>I Andedammen får du hver dag tre goe’ historier fra NORDJYSKE. Alt fra Obamas besøg i Aalborg over kæmpeordre til nordjysk industrigigant til lokalbrag i Superligaen. Hver dag får de tre nye historier om kultur, erhverv, sport, krimi, SoMe, byudvikling og landliv, og de bliver fortalt af de journalister der selv sidder med historien. 
 Vært: Anders Fuglsang</itunes:summary>
@@ -30,8 +30,52 @@ Vært: Anders Fuglsang</itunes:summary>
         <itunes:category text="News &amp; Politics"/>
         <itunes:explicit>Clean</itunes:explicit>
         <item>
+            <guid isPermaLink="false">d2da8591-8272-4e9d-96dd-f5edf4d9d8e5</guid>
+            <title>11.03 - Disse udlejere får flest klager - Dorthe vandt over Jammerbugt Kommune - Corona har ramt nabokrig i Hasseris.</title>
+            <description>I dag handler Andedammen om hvilke private udlejere i Aalborg, der modtager flest klager - og hvad, der klages mest over. Og historien om et omdiskuteret villabyggeri i Aalborg-bydelen Hasseris, der er blevet blev nedstemt på et udvalgsmøde – reelt pga. corona. Og om Dorthe, der har kæmpet en kamp mod Jammerbugt Kommune i en sag om pasning til sin handicappede søn. Nu har hun vundet sagen. &lt;br/&gt;
+Skriv til programmet: anders@radionordjyske.dk</description>
+            <pubDate>Wed, 11 Mar 2020 13:48:32 +0100</pubDate>
+            <author>anders@radionordjyske.dk (Anders Fuglsang)</author>
+            <itunes:author>anders@radionordjyske.dk (Anders Fuglsang)</itunes:author>
+            <itunes:summary>I dag handler Andedammen om hvilke private udlejere i Aalborg, der modtager flest klager - og hvad, der klages mest over. Og historien om et omdiskuteret villabyggeri i Aalborg-bydelen Hasseris, der er blevet blev nedstemt på et udvalgsmøde – reelt pga. corona. Og om Dorthe, der har kæmpet en kamp mod Jammerbugt Kommune i en sag om pasning til sin handicappede søn. Nu har hun vundet sagen. 
+Skriv til programmet: anders@radionordjyske.dk</itunes:summary>
+            <itunes:duration>13:20</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Andedammen%2011032020%20session.mp3" type="audio/mpeg" length="19272560"/>
+            <category>Nordjylland</category>
+            <category>journalistik</category>
+            <category>NORDJYSKE Medier</category>
+            <category>nordjyske historier</category>
+            <category>Andedammen</category>
+            <category>Radio NORDJYSKE</category>
+            <category>andedam</category>
+            <category>snak</category>
+            <category>Anders Fuglsang</category>
+        </item>
+        <item>
+            <guid isPermaLink="false">f467034d-f935-410c-8619-dd0b717d381e</guid>
+            <title>10.03 - Flere muslingefarme i Limfjorden - Fortsat fredagsfester på Uni, UCN og Tech College - Nyt sitrende jazzmiljø i Aalborg.</title>
+            <description>I dag handler det om flere muslingefarme på vej i Limfjorden og Mariager Fjord. Om hvordan de forholder sig til Covid-19 på Aalborg Universitet, UCN og Tech College Aalborg. Og om jazzen, der langt fra er død – den er faktisk på vej tilbage med et nyt ungt miljø, der vil gøre Aalborg kendt som jazzby. &lt;br/&gt;
+Skriv til programmet: anders@radionordjyske.dk</description>
+            <pubDate>Tue, 10 Mar 2020 13:58:50 +0100</pubDate>
+            <author>anders@radionordjyske.dk (Anders Fuglsang)</author>
+            <itunes:author>anders@radionordjyske.dk (Anders Fuglsang)</itunes:author>
+            <itunes:summary>I dag handler det om flere muslingefarme på vej i Limfjorden og Mariager Fjord. Om hvordan de forholder sig til Covid-19 på Aalborg Universitet, UCN og Tech College Aalborg. Og om jazzen, der langt fra er død – den er faktisk på vej tilbage med et nyt ungt miljø, der vil gøre Aalborg kendt som jazzby. 
+Skriv til programmet: anders@radionordjyske.dk</itunes:summary>
+            <itunes:duration>13:33</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Andedammen%2010032020%20session.mp3" type="audio/mpeg" length="19574744"/>
+            <category>Nordjylland</category>
+            <category>journalistik</category>
+            <category>NORDJYSKE Medier</category>
+            <category>nordjyske historier</category>
+            <category>Andedammen</category>
+            <category>Radio NORDJYSKE</category>
+            <category>andedam</category>
+            <category>snak</category>
+            <category>Anders Fuglsang</category>
+        </item>
+        <item>
             <guid isPermaLink="false">e88525ee-477b-4724-ad5c-53269ee26211</guid>
-            <title>Andedammen møder Pandemiafdelingen</title>
+            <title>AD møder Pandemiafdelingen</title>
             <description>I dag åbnede Aalborg Universitetshospital en pandemiafdeling. Mens der er kaos i Norditalien, hvor familier er blevet splittet og folk flygter ud af et karantæne-område, der omfatter 16 mio. mennesker – er der mere skandinavisk ro hos Aalborg Universitetshospital. Og det på trods af, at antallet af personer i Danmark med coronavirusset Covid-19 er steget til 59 – og at, det er kommet til Nordjylland. Telenor har sendt 29 medarbejdere i hjemmekarantæne, efter det første nordjyske tilfælde, hvor en medarbejder på Telenors hovedkontor i Aalborg er testet positiv for covid-19.</description>
             <pubDate>Mon, 09 Mar 2020 17:00:08 +0100</pubDate>
             <author>anders@radionordjyske.dk (Anders Fuglsang)</author>
