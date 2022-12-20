@@ -10,7 +10,7 @@ Vært: Anders Fuglsang</description>
         <link>http://www.radionordjyske.dk</link>
         <language>da</language>
         <copyright>NORDJYSKE Medier</copyright>
-        <lastBuildDate>Fri, 24 Apr 2020 13:55:42 +0200</lastBuildDate>
+        <lastBuildDate>Mon, 27 Apr 2020 12:47:54 +0200</lastBuildDate>
         <itunes:subtitle>Tre goe' historier fra NORDJYSKE</itunes:subtitle>
         <itunes:summary>I Andedammen får du hver dag tre goe’ historier fra NORDJYSKE. Alt fra Obamas besøg i Aalborg over kæmpeordre til nordjysk industrigigant til lokalbrag i Superligaen. Hver dag får de tre nye historier om kultur, erhverv, sport, krimi, SoMe, byudvikling og landliv, og de bliver fortalt af de journalister der selv sidder med historien. 
 Vært: Anders Fuglsang</itunes:summary>
@@ -29,6 +29,28 @@ Vært: Anders Fuglsang</itunes:summary>
         <itunes:image href="http://www.radionet.dk/podcast/Podcastlogo.png"/>
         <itunes:category text="News &amp; Politics"/>
         <itunes:explicit>Clean</itunes:explicit>
+        <item>
+            <guid isPermaLink="false">e0cb2fb4-d586-4979-ba84-1353f6b2ca5e</guid>
+            <title>27.04 - Karin fra Sæby påpegede fusk i forsvaret - blev fyret og blacklistet.</title>
+            <description>Karin Iversen havde en lang og pletfri karriere i forsvaret, men da hun påpeger bilagsfusk hos SOKOM i Aalborg, mister hun sit arbejde og bliver blacklistet, mens hendes chef uplettet går på pension. Nu vil hun have en undskyldning og have renset sit navn.&lt;br/&gt;
+Skriv til programmet: anders@radionordjyske.dk</description>
+            <pubDate>Mon, 27 Apr 2020 12:47:54 +0200</pubDate>
+            <author>anders@radionordjyske.dk (Anders Fuglsang)</author>
+            <itunes:author>anders@radionordjyske.dk (Anders Fuglsang)</itunes:author>
+            <itunes:summary>Karin Iversen havde en lang og pletfri karriere i forsvaret, men da hun påpeger bilagsfusk hos SOKOM i Aalborg, mister hun sit arbejde og bliver blacklistet, mens hendes chef uplettet går på pension. Nu vil hun have en undskyldning og have renset sit navn.
+Skriv til programmet: anders@radionordjyske.dk</itunes:summary>
+            <itunes:duration>10:44</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Andedammen%2027042020%20session.mp3" type="audio/mpeg" length="15512181"/>
+            <category>Nordjylland</category>
+            <category>journalistik</category>
+            <category>NORDJYSKE Medier</category>
+            <category>nordjyske historier</category>
+            <category>Andedammen</category>
+            <category>Radio NORDJYSKE</category>
+            <category>andedam</category>
+            <category>snak</category>
+            <category>Anders Fuglsang</category>
+        </item>
         <item>
             <guid isPermaLink="false">e9bbadb1-d733-49b0-af41-c1046d431eed</guid>
             <title>24.04 - Hård prioritering af retssager fra på mandag - Rolling Stones udgiver corona-nummer - Ny podcast-serie om nordjyske kokke.</title>

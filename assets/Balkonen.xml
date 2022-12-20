@@ -27,8 +27,19 @@
         <itunes:explicit>Clean</itunes:explicit>
         <generator>Hindenburg Broadcaster 1.82.2304</generator>
         <pubDate>Thu, 21 Mar 2019 13:32:21 +0100</pubDate>
-        <lastBuildDate>Thu, 16 Apr 2020 13:46:07 +0200</lastBuildDate>
+        <lastBuildDate>Thu, 23 Apr 2020 13:07:58 +0200</lastBuildDate>
         <itunes:keywords>Nordjylland, radio, NORDJYSKE, Skovmand, Bue, humor, direktør, sjov, nordjylland</itunes:keywords>
+        <item>
+            <guid isPermaLink="false">2020b818-283c-4c6b-ab5b-23c8bbf1b19c</guid>
+            <title>Sex, IKEA og voksenmobnig</title>
+            <description>Denne udgave af Balkonen byder på hårnyt, Coronatyper, sex og voksenmobning. Skovmand &amp; Bue er endnu engang hoppet på en balkon der denne gang er solbeskinnet.</description>
+            <pubDate>Thu, 23 Apr 2020 13:07:58 +0200</pubDate>
+            <author>Niels Holger Thrane Skovmand</author>
+            <itunes:author>Niels Holger Thrane Skovmand</itunes:author>
+            <itunes:summary>Denne udgave af Balkonen byder på hårnyt, Coronatyper, sex og voksenmobning. Skovmand &amp; Bue er endnu engang hoppet på en balkon der denne gang er solbeskinnet.</itunes:summary>
+            <itunes:duration>43:19</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Sex,%20IKEA%20og%20voksenmobnig.mp3" type="audio/mpeg" length="41647872"/>
+        </item>
         <item>
             <guid isPermaLink="false">c3716967-3dd6-4768-815b-ab998d0a03a0</guid>
             <title>Hjemmesommer, pisk og gedeyoga</title>

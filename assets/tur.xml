@@ -25,6 +25,20 @@
 <itunes:category text="Music" />
 <itunes:explicit>no</itunes:explicit> 
 ﻿<item>
+	<title>Tur/Retur - 27.04.2020</title>
+	<itunes:author>Radio NORDJYSKE</itunes:author>
+	<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+	<itunes:summary>Vi dykker ned i musikarkivet og spiller glemte hits. - sendt i radioen 27.04.2020</itunes:summary>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Tur_Retur00016444.mp3" length="57464685" type="audio/mpeg" />
+	<guid isPermaLink="false">2020042713023200016444</guid>
+	<pubDate>Mon, 27 Apr 2020 12:00:00 +0200</pubDate>
+	<itunes:duration>01:00:00</itunes:duration>
+	<itunes:keywords>radio, NORDJYSKE, Glemte hits, Musikarkivet, Hitlist</itunes:keywords>
+	<itunes:explicit>no</itunes:explicit>
+	<category>Music</category>
+</item>
+
+﻿<item>
 	<title>Tur/Retur - 24.04.2020</title>
 	<itunes:author>Radio NORDJYSKE</itunes:author>
 	<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
@@ -844,20 +858,6 @@
 	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Tur_Retur00015352.mp3" length="57465102" type="audio/mpeg" />
 	<guid isPermaLink="false">2020022606024600015352</guid>
 	<pubDate>Wed, 26 Feb 2020 05:00:00 +0200</pubDate>
-	<itunes:duration>01:00:00</itunes:duration>
-	<itunes:keywords>radio, NORDJYSKE, Glemte hits, Musikarkivet, Hitlist</itunes:keywords>
-	<itunes:explicit>no</itunes:explicit>
-	<category>Music</category>
-</item>
-
-﻿<item>
-	<title>Tur/Retur - 25.02.2020</title>
-	<itunes:author>Radio NORDJYSKE</itunes:author>
-	<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-	<itunes:summary>Vi dykker ned i musikarkivet og spiller glemte hits. - sendt i radioen 25.02.2020</itunes:summary>
-	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Tur_Retur00015630.mp3" length="57464685" type="audio/mpeg" />
-	<guid isPermaLink="false">2020030316595000015630</guid>
-	<pubDate>Tue, 25 Feb 2020 13:00:00 +0200</pubDate>
 	<itunes:duration>01:00:00</itunes:duration>
 	<itunes:keywords>radio, NORDJYSKE, Glemte hits, Musikarkivet, Hitlist</itunes:keywords>
 	<itunes:explicit>no</itunes:explicit>
