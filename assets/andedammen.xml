@@ -10,7 +10,7 @@ Vært: Anders Fuglsang</description>
         <link>http://www.radionordjyske.dk</link>
         <language>da</language>
         <copyright>NORDJYSKE Medier</copyright>
-        <lastBuildDate>Fri, 13 Mar 2020 12:45:31 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 18 Mar 2020 14:40:14 +0100</lastBuildDate>
         <itunes:subtitle>Tre goe' historier fra NORDJYSKE</itunes:subtitle>
         <itunes:summary>I Andedammen får du hver dag tre goe’ historier fra NORDJYSKE. Alt fra Obamas besøg i Aalborg over kæmpeordre til nordjysk industrigigant til lokalbrag i Superligaen. Hver dag får de tre nye historier om kultur, erhverv, sport, krimi, SoMe, byudvikling og landliv, og de bliver fortalt af de journalister der selv sidder med historien. 
 Vært: Anders Fuglsang</itunes:summary>
@@ -29,6 +29,76 @@ Vært: Anders Fuglsang</itunes:summary>
         <itunes:image href="http://www.radionet.dk/podcast/Podcastlogo.png"/>
         <itunes:category text="News &amp; Politics"/>
         <itunes:explicit>Clean</itunes:explicit>
+        <item>
+            <guid isPermaLink="false">7d0405fc-f1a7-437f-a4c7-cf75d89c4420</guid>
+            <title>18.03 - Efterskoleelever må ikke kramme far og mor - Travlt ved Bilkas bagdør - 3F om overenskomst: Drønærgerligt.</title>
+            <description>I dag om 37 elever og tre lærere fra Horne Efterskole, der er landet i Danmark efter et afbrudt ophold i Tanzania. Flybilletterne hjem har kostet 10.500 stykket.&lt;br/&gt;
+Om Bilkas bagdør, hvor de har rygende travlt med at levere take-away varer. Og om den nye haste behandlede overenskomst for 60.000 ansatte i byggeriet. Ikke godt i kampen mod social dumping, lyder det fra 3F.&lt;br/&gt;
+Skriv til programmet: anders@radionordjyske.dk</description>
+            <pubDate>Wed, 18 Mar 2020 14:40:14 +0100</pubDate>
+            <author>anders@radionordjyske.dk (Anders Fuglsang)</author>
+            <itunes:author>anders@radionordjyske.dk (Anders Fuglsang)</itunes:author>
+            <itunes:summary>I dag om 37 elever og tre lærere fra Horne Efterskole, der er landet i Danmark efter et afbrudt ophold i Tanzania. Flybilletterne hjem har kostet 10.500 stykket.
+Om Bilkas bagdør, hvor de har rygende travlt med at levere take-away varer. Og om den nye haste behandlede overenskomst for 60.000 ansatte i byggeriet. Ikke godt i kampen mod social dumping, lyder det fra 3F.
+Skriv til programmet: anders@radionordjyske.dk</itunes:summary>
+            <itunes:duration>12:22</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Andedammen%2018032020%20session.mp3" type="audio/mpeg" length="17877621"/>
+            <category>Nordjylland</category>
+            <category>journalistik</category>
+            <category>NORDJYSKE Medier</category>
+            <category>nordjyske historier</category>
+            <category>Andedammen</category>
+            <category>Radio NORDJYSKE</category>
+            <category>andedam</category>
+            <category>snak</category>
+            <category>Anders Fuglsang</category>
+        </item>
+        <item>
+            <guid isPermaLink="false">8f0ff82f-1a4a-4052-a08a-351c4d7593ba</guid>
+            <title>17.03 - Butikkerne i Hjørring vil overleve på dørlevering - Støvringvirksomhed får reservedele i Norditalien - AaB-spiller på græs i Rusland.</title>
+            <description>Andedammen er i dag i en arbejde-hjemme-udgave, og handler om et nyt tiltag i Hjørring, hvor forretninger gør noget for ikke at lukke. Om et firma ved Støvring, der får varer fra Norditalien og er delvist ramt på produktionen i den forbindelse.&lt;br/&gt;
+Og senere om en AaB-spiller, der som den eneste spiler fodbold i de her dage.&lt;br/&gt;
+Skriv til programmet: anders@radionordjyske.dk</description>
+            <pubDate>Tue, 17 Mar 2020 13:43:01 +0100</pubDate>
+            <author>anders@radionordjyske.dk (Anders Fuglsang)</author>
+            <itunes:author>anders@radionordjyske.dk (Anders Fuglsang)</itunes:author>
+            <itunes:summary>Andedammen er i dag i en arbejde-hjemme-udgave, og handler om et nyt tiltag i Hjørring, hvor forretninger gør noget for ikke at lukke. Om et firma ved Støvring, der får varer fra Norditalien og er delvist ramt på produktionen i den forbindelse.
+Og senere om en AaB-spiller, der som den eneste spiler fodbold i de her dage.
+Skriv til programmet: anders@radionordjyske.dk</itunes:summary>
+            <itunes:duration>12:20</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Andedammen%2017032020%20session.mp3" type="audio/mpeg" length="17821197"/>
+            <category>Nordjylland</category>
+            <category>journalistik</category>
+            <category>NORDJYSKE Medier</category>
+            <category>nordjyske historier</category>
+            <category>Andedammen</category>
+            <category>Radio NORDJYSKE</category>
+            <category>andedam</category>
+            <category>snak</category>
+            <category>Anders Fuglsang</category>
+        </item>
+        <item>
+            <guid isPermaLink="false">378c8f6c-7844-4871-94ac-bb2f3963e2ec</guid>
+            <title>16.03 - Millionregninger fra OW Bunkers konkursbo - Dommermangel i Vendsyssel - Nyt kunstnerkollektiv i de gamle spritfabrikker.</title>
+            <description>I dag handler Andedammen om OW Bunkers konkursbo, der kaster store millionregninger fra sig her fem et halvt år efter konkursen i 2014. Om manglen på fodbolddommere, hvor specielt Vendsyssel er hårdt ramt. Og om et nyt kunstnerkollektiv, North Urban Art Studio, der snart åbner i de gamle spritfabrikker i Aalborg.&lt;br/&gt;
+Skriv til programmet: anders@radionordjyske.dk</description>
+            <pubDate>Mon, 16 Mar 2020 13:18:19 +0100</pubDate>
+            <author>anders@radionordjyske.dk (Anders Fuglsang)</author>
+            <itunes:author>anders@radionordjyske.dk (Anders Fuglsang)</itunes:author>
+            <itunes:summary>I dag handler Andedammen om OW Bunkers konkursbo, der kaster store millionregninger fra sig her fem et halvt år efter konkursen i 2014. Om manglen på fodbolddommere, hvor specielt Vendsyssel er hårdt ramt. Og om et nyt kunstnerkollektiv, North Urban Art Studio, der snart åbner i de gamle spritfabrikker i Aalborg.
+Skriv til programmet: anders@radionordjyske.dk</itunes:summary>
+            <itunes:duration>11:17</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Andedammen%2016032020%20session.mp3" type="audio/mpeg" length="16326575"/>
+            <category>Nordjylland</category>
+            <category>journalistik</category>
+            <category>NORDJYSKE Medier</category>
+            <category>nordjyske historier</category>
+            <category>Andedammen</category>
+            <category>Radio NORDJYSKE</category>
+            <category>andedam</category>
+            <category>snak</category>
+            <category>Anders Fuglsang</category>
+        </item>
         <item>
             <guid isPermaLink="false">a4de980e-9301-4e8f-8e1c-e4206ea7eee9</guid>
             <title>13.03 - Mortens Kro: Værste dag i mit arbejdsliv - Vælter internettet, når vi alle arbejder hjemme? - Hjælpenetværk hos Røde Kors.</title>

@@ -2,14 +2,14 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <atom:link href="http://www.nordjyske.dk/nordjyskemedier.xml" rel="self" type="application/rss+xml"/>
-        <generator>Hindenburg Broadcaster 1.81.2272</generator>
+        <generator>Hindenburg Broadcaster 1.82.2300</generator>
         <pubDate>Thu, 10 Oct 2019 14:01:10 +0200</pubDate>
         <title>NORDJYSKE Medier</title>
         <description>Forskellige podcasts fra NORDJYSKE Medier</description>
         <link>http://www.nordjyske.dk</link>
         <language>da</language>
         <copyright>NORDJYSKE Medier</copyright>
-        <lastBuildDate>Thu, 10 Oct 2019 14:06:59 +0200</lastBuildDate>
+        <lastBuildDate>Tue, 17 Mar 2020 16:49:58 +0100</lastBuildDate>
         <itunes:subtitle>NORDJYSKE Medier</itunes:subtitle>
         <itunes:summary>Forskellige podcasts fra NORDJYSKE Medier</itunes:summary>
         <itunes:keywords>Nordjylland, kultur, kriminalitet, samfund</itunes:keywords>
@@ -27,6 +27,20 @@
         <itunes:image href="http://www.radionet.dk/podcast/podcast-logo-diverse.png"/>
         <itunes:explicit>No</itunes:explicit>
         <itunes:category text="News &amp; Politics"/>
+        <item>
+            <guid isPermaLink="false">87b9d8bc-9080-4f66-b53d-7b16ef5b0a98</guid>
+            <title>Biblioteket på Sohngaardsholm Slot</title>
+            <description>Det er marts 2020 og coronavirussen har fuldstændig ændret vores dagligdag og aflyst mange offentlige arrangementer. Blandt andet skulle Nordjyllands største litteraturfestival Ordkraft afholdes for 10. gang i april, men den fest er udskudt til 2021. Men det skal ikke afholde os fra at tale bøger og litteratur med nordjyderne. I dag skal du møde bogsamleren og litteraturelskeren Ann Dahl Asmussen fra Aalborg. </description>
+            <pubDate>Tue, 17 Mar 2020 16:49:58 +0100</pubDate>
+            <author>podcast@nordjyske.dk (NORDJYSKE Medier)</author>
+            <itunes:author>NORDJYSKE Medier</itunes:author>
+            <itunes:summary>Det er marts 2020 og coronavirussen har fuldstændig ændret vores dagligdag og aflyst mange offentlige arrangementer. Blandt andet skulle Nordjyllands største litteraturfestival Ordkraft afholdes for 10. gang i april, men den fest er udskudt til 2021. Men det skal ikke afholde os fra at tale bøger og litteratur med nordjyderne. I dag skal du møde bogsamleren og litteraturelskeren Ann Dahl Asmussen fra Aalborg. </itunes:summary>
+            <itunes:duration>33:13</itunes:duration>
+            <itunes:explicit>No</itunes:explicit>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Biblioteket%20p%E5%20Sohngaardsholm%20Slot.mp3" type="audio/mpeg" length="31947172"/>
+            <category>Litteratur</category>
+            <category>bøger</category>
+        </item>
         <item>
             <guid isPermaLink="false">57aba7d0-03c6-45ae-8ba0-cdc2cef0bc89</guid>
             <title>Kommer snart</title>
