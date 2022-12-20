@@ -27,8 +27,35 @@
         <itunes:explicit>Clean</itunes:explicit>
         <generator>Hindenburg Broadcaster 1.82.2306</generator>
         <pubDate>Tue, 28 May 2019 14:31:54 +0200</pubDate>
-        <lastBuildDate>Fri, 13 Mar 2020 11:54:46 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 03 Apr 2020 16:27:00 +0200</lastBuildDate>
         <itunes:keywords>Nordjylland, radio, ANR, Johnni Gade, humor, weekend, sjov</itunes:keywords>
+        <item>
+            <guid isPermaLink="false">92ec8f6e-4a09-4fbb-b5cb-957435a5056f</guid>
+            <title>Trump fejler til matematik, Paludans nye parti, corona smider folk i bur og meget mere!</title>
+            <pubDate>Fri, 03 Apr 2020 16:27:00 +0200</pubDate>
+            <author>Johnni Gade</author>
+            <itunes:author>Johnni Gade</itunes:author>
+            <itunes:duration>26:27</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/pod%2043.mp3" type="audio/mpeg" length="38143296"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">37d1a430-a1b3-4fff-a71b-b05e0d7ed98e</guid>
+            <title>Australien hamstrer høns, dirty sygeplejersker, coronafester og meget mere! </title>
+            <pubDate>Fri, 27 Mar 2020 09:07:18 +0100</pubDate>
+            <author>Johnni Gade</author>
+            <itunes:author>Johnni Gade</itunes:author>
+            <itunes:duration>22:27</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/pod%2042.mp3" type="audio/mpeg" length="32406336"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">33504843-45e5-4f7a-b29a-2338805d838f</guid>
+            <title>Sex på åben gade, Tinder i Corona kamp, USA går i selvsing og MEGET MERE!</title>
+            <pubDate>Fri, 20 Mar 2020 11:41:32 +0100</pubDate>
+            <author>Johnni Gade</author>
+            <itunes:author>Johnni Gade</itunes:author>
+            <itunes:duration>23:58</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/pod%2041.mp3" type="audio/mpeg" length="34568640"/>
+        </item>
         <item>
             <guid isPermaLink="false">3b918120-3e95-4e34-a519-53bd30770071</guid>
             <title>Corona Special. (Hjemmeoptagelse)</title>

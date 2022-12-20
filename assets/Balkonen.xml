@@ -27,8 +27,41 @@
         <itunes:explicit>Clean</itunes:explicit>
         <generator>Hindenburg Broadcaster 1.82.2304</generator>
         <pubDate>Thu, 21 Mar 2019 13:32:21 +0100</pubDate>
-        <lastBuildDate>Wed, 11 Mar 2020 13:56:04 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 02 Apr 2020 12:28:51 +0200</lastBuildDate>
         <itunes:keywords>Nordjylland, radio, NORDJYSKE, Skovmand, Bue, humor, direktør, sjov, nordjylland</itunes:keywords>
+        <item>
+            <guid isPermaLink="false">d582d964-a329-4cef-92ef-5ba61f9aeb15</guid>
+            <title>Skævt hår, mos og vodka.</title>
+            <description>Påsken står for døren og Skovmand og Bue varmer op med. Hjemmeklip, mos og vodka. </description>
+            <pubDate>Thu, 02 Apr 2020 12:28:51 +0200</pubDate>
+            <author>Niels Holger Thrane Skovmand</author>
+            <itunes:author>Niels Holger Thrane Skovmand</itunes:author>
+            <itunes:summary>Påsken står for døren og Skovmand og Bue varmer op med. Hjemmeklip, mos og vodka. </itunes:summary>
+            <itunes:duration>43:11</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Sk%E6vt%20h%E5r,%20mos%20og%20vodka.mp3" type="audio/mpeg" length="41520768"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">483e2064-2c29-41ea-ada0-1ebf49f3a41d</guid>
+            <title>Hjemmeskole, dildoer og våbenhamstring</title>
+            <description>Endnu en uge er gået hvor budskabet om at blive hjemme har lydt. Trods det udkommer Skovmand og Bue med en frisk udgave af Balkonen.</description>
+            <pubDate>Thu, 26 Mar 2020 13:41:06 +0100</pubDate>
+            <author>Niels Holger Thrane Skovmand</author>
+            <itunes:author>Niels Holger Thrane Skovmand</itunes:author>
+            <itunes:summary>Endnu en uge er gået hvor budskabet om at blive hjemme har lydt. Trods det udkommer Skovmand og Bue med en frisk udgave af Balkonen.</itunes:summary>
+            <itunes:duration>41:00</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Hjemmeskole,%20dildoer%20og%20v%E5benhamstring.mp3" type="audio/mpeg" length="39424512"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">79c52a14-a087-406d-be66-7b4cca31c30e</guid>
+            <title>Knæhaser og brystvorter</title>
+            <description>Denne udgave af Balkonen byder på host i knæhaser, blødende brystvorter og virtuel konfirmation.</description>
+            <pubDate>Thu, 19 Mar 2020 17:21:33 +0100</pubDate>
+            <author>Niels Holger Thrane Skovmand</author>
+            <itunes:author>Niels Holger Thrane Skovmand</itunes:author>
+            <itunes:summary>Denne udgave af Balkonen byder på host i knæhaser, blødende brystvorter og virtuel konfirmation.</itunes:summary>
+            <itunes:duration>45:43</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Bal%20pod%20200320.mp3" type="audio/mpeg" length="43959936"/>
+        </item>
         <item>
             <guid isPermaLink="false">97f6b700-d04b-47fa-bfdd-4ed0d7963c3e</guid>
             <title>Balkonen nu med Puk og pølser</title>

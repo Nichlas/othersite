@@ -10,7 +10,7 @@ Vært: Anders Fuglsang</description>
         <link>http://www.radionordjyske.dk</link>
         <language>da</language>
         <copyright>NORDJYSKE Medier</copyright>
-        <lastBuildDate>Wed, 01 Apr 2020 14:58:35 +0200</lastBuildDate>
+        <lastBuildDate>Fri, 03 Apr 2020 13:35:27 +0200</lastBuildDate>
         <itunes:subtitle>Tre goe' historier fra NORDJYSKE</itunes:subtitle>
         <itunes:summary>I Andedammen får du hver dag tre goe’ historier fra NORDJYSKE. Alt fra Obamas besøg i Aalborg over kæmpeordre til nordjysk industrigigant til lokalbrag i Superligaen. Hver dag får de tre nye historier om kultur, erhverv, sport, krimi, SoMe, byudvikling og landliv, og de bliver fortalt af de journalister der selv sidder med historien. 
 Vært: Anders Fuglsang</itunes:summary>
@@ -29,6 +29,28 @@ Vært: Anders Fuglsang</itunes:summary>
         <itunes:image href="http://www.radionet.dk/podcast/Podcastlogo.png"/>
         <itunes:category text="News &amp; Politics"/>
         <itunes:explicit>Clean</itunes:explicit>
+        <item>
+            <guid isPermaLink="false">b020c44e-2778-4f0b-b26a-c06c58ac2e54</guid>
+            <title>03.04 - Volden styrtdykker i Nordjylland - 70 visirer bliver 3D-printet i timen - Johnnys pub i Farsø fik bøde: Det er politiet, der har dummet sig.</title>
+            <description>I dag handler Andedammen om, at volden styrtdykker i Nordjylland – og hvad politiet så laver. Om et netværk af 3D-printere i Nordjylland, der producerer værnemidler. Og om Johnny, der har fået en bøde for at holde sin pub i Farsø åben. Men han føler sig dårligt behandlet af politiet. Vi har ikke holdt åbent, påstår han.&lt;br/&gt;
+Skriv til programmet: anders@radionordjyske.dk</description>
+            <pubDate>Fri, 03 Apr 2020 13:35:27 +0200</pubDate>
+            <author>anders@radionordjyske.dk (Anders Fuglsang)</author>
+            <itunes:author>anders@radionordjyske.dk (Anders Fuglsang)</itunes:author>
+            <itunes:summary>I dag handler Andedammen om, at volden styrtdykker i Nordjylland – og hvad politiet så laver. Om et netværk af 3D-printere i Nordjylland, der producerer værnemidler. Og om Johnny, der har fået en bøde for at holde sin pub i Farsø åben. Men han føler sig dårligt behandlet af politiet. Vi har ikke holdt åbent, påstår han.
+Skriv til programmet: anders@radionordjyske.dk</itunes:summary>
+            <itunes:duration>12:12</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Andedammen%2003042020%20session.mp3" type="audio/mpeg" length="17643773"/>
+            <category>Nordjylland</category>
+            <category>journalistik</category>
+            <category>NORDJYSKE Medier</category>
+            <category>nordjyske historier</category>
+            <category>Andedammen</category>
+            <category>Radio NORDJYSKE</category>
+            <category>andedam</category>
+            <category>snak</category>
+            <category>Anders Fuglsang</category>
+        </item>
         <item>
             <guid isPermaLink="false">3a3ca055-fd15-4c9d-acea-2cfa946af1b8</guid>
             <title>01.04 - Ulovligt udvalgsmøde i Vesthimmerland - Millionoverskud hos Svinkløv Badehotel - AaBs nye sportschef starter i dag - fra Oslo.</title>
