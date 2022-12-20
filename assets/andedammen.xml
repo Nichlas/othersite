@@ -10,7 +10,7 @@ Vært: Anders Fuglsang</description>
         <link>http://www.radionordjyske.dk</link>
         <language>da</language>
         <copyright>NORDJYSKE Medier</copyright>
-        <lastBuildDate>Mon, 27 Apr 2020 12:47:54 +0200</lastBuildDate>
+        <lastBuildDate>Tue, 28 Apr 2020 13:20:49 +0200</lastBuildDate>
         <itunes:subtitle>Tre goe' historier fra NORDJYSKE</itunes:subtitle>
         <itunes:summary>I Andedammen får du hver dag tre goe’ historier fra NORDJYSKE. Alt fra Obamas besøg i Aalborg over kæmpeordre til nordjysk industrigigant til lokalbrag i Superligaen. Hver dag får de tre nye historier om kultur, erhverv, sport, krimi, SoMe, byudvikling og landliv, og de bliver fortalt af de journalister der selv sidder med historien. 
 Vært: Anders Fuglsang</itunes:summary>
@@ -29,6 +29,28 @@ Vært: Anders Fuglsang</itunes:summary>
         <itunes:image href="http://www.radionet.dk/podcast/Podcastlogo.png"/>
         <itunes:category text="News &amp; Politics"/>
         <itunes:explicit>Clean</itunes:explicit>
+        <item>
+            <guid isPermaLink="false">09ffe7b2-7878-41c7-8f14-f2f008a94bbd</guid>
+            <title>28.04 - Top 10: Det bruger vi nordjyder tiden på - Nyt selskab klar til at flyve AAL-KBH - Nyt initiativ sikrer mad til udsatte familer.</title>
+            <description>Andedammen er i dag med en top 10 over, hvad nordjyderne får tiden til at gå med under krisen. Bøger er på en overraskende fjerdeplads. Om udsatte familier, der længere ikke har kunne få overskudsmad fra nødhjælpsorganisationer. Imens har Danish Muslim Aid hjulpet 60 familier i Nordjylland. Og om Aalborg Lufthavn, der har lavet en aftale med et andet selskab - hvis Norwegian lukker Aalborg-København-ruten.&lt;br/&gt;
+Skriv til programmet: anders@radionordjyske.dk</description>
+            <pubDate>Tue, 28 Apr 2020 13:20:49 +0200</pubDate>
+            <author>anders@radionordjyske.dk (Anders Fuglsang)</author>
+            <itunes:author>anders@radionordjyske.dk (Anders Fuglsang)</itunes:author>
+            <itunes:summary>Andedammen er i dag med en top 10 over, hvad nordjyderne får tiden til at gå med under krisen. Bøger er på en overraskende fjerdeplads. Om udsatte familier, der længere ikke har kunne få overskudsmad fra nødhjælpsorganisationer. Imens har Danish Muslim Aid hjulpet 60 familier i Nordjylland. Og om Aalborg Lufthavn, der har lavet en aftale med et andet selskab - hvis Norwegian lukker Aalborg-København-ruten.
+Skriv til programmet: anders@radionordjyske.dk</itunes:summary>
+            <itunes:duration>11:25</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Andedammen%2028042020%20session.mp3" type="audio/mpeg" length="16496475"/>
+            <category>Nordjylland</category>
+            <category>journalistik</category>
+            <category>NORDJYSKE Medier</category>
+            <category>nordjyske historier</category>
+            <category>Andedammen</category>
+            <category>Radio NORDJYSKE</category>
+            <category>andedam</category>
+            <category>snak</category>
+            <category>Anders Fuglsang</category>
+        </item>
         <item>
             <guid isPermaLink="false">e0cb2fb4-d586-4979-ba84-1353f6b2ca5e</guid>
             <title>27.04 - Karin fra Sæby påpegede fusk i forsvaret - blev fyret og blacklistet.</title>
