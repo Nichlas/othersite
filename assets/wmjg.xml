@@ -27,8 +27,17 @@
         <itunes:explicit>Clean</itunes:explicit>
         <generator>Hindenburg Broadcaster 1.82.2306</generator>
         <pubDate>Tue, 28 May 2019 14:31:54 +0200</pubDate>
-        <lastBuildDate>Fri, 17 Apr 2020 09:22:09 +0200</lastBuildDate>
+        <lastBuildDate>Fri, 24 Apr 2020 08:53:51 +0200</lastBuildDate>
         <itunes:keywords>Nordjylland, radio, ANR, Johnni Gade, humor, weekend, sjov</itunes:keywords>
+        <item>
+            <guid isPermaLink="false">84abb59f-d3e3-4e8c-9348-972aedadb3f6</guid>
+            <title>Børn skider i spande og jordemødre tigger om at sy mellemkød sammen!</title>
+            <pubDate>Fri, 24 Apr 2020 08:53:51 +0200</pubDate>
+            <author>Johnni Gade</author>
+            <itunes:author>Johnni Gade</itunes:author>
+            <itunes:duration>26:46</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/podcast.mp3" type="audio/mpeg" length="38602368"/>
+        </item>
         <item>
             <guid isPermaLink="false">571abfa2-2970-44f2-92d6-764ce3d5d264</guid>
             <title>Mordere på fri fod, dine fødder afslører corona, Margrethes fødselsdag og meget mere!</title>

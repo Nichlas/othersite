@@ -10,7 +10,7 @@ Vært: Anders Fuglsang</description>
         <link>http://www.radionordjyske.dk</link>
         <language>da</language>
         <copyright>NORDJYSKE Medier</copyright>
-        <lastBuildDate>Thu, 23 Apr 2020 14:31:03 +0200</lastBuildDate>
+        <lastBuildDate>Fri, 24 Apr 2020 13:55:42 +0200</lastBuildDate>
         <itunes:subtitle>Tre goe' historier fra NORDJYSKE</itunes:subtitle>
         <itunes:summary>I Andedammen får du hver dag tre goe’ historier fra NORDJYSKE. Alt fra Obamas besøg i Aalborg over kæmpeordre til nordjysk industrigigant til lokalbrag i Superligaen. Hver dag får de tre nye historier om kultur, erhverv, sport, krimi, SoMe, byudvikling og landliv, og de bliver fortalt af de journalister der selv sidder med historien. 
 Vært: Anders Fuglsang</itunes:summary>
@@ -29,6 +29,28 @@ Vært: Anders Fuglsang</itunes:summary>
         <itunes:image href="http://www.radionet.dk/podcast/Podcastlogo.png"/>
         <itunes:category text="News &amp; Politics"/>
         <itunes:explicit>Clean</itunes:explicit>
+        <item>
+            <guid isPermaLink="false">e9bbadb1-d733-49b0-af41-c1046d431eed</guid>
+            <title>24.04 - Hård prioritering af retssager fra på mandag - Rolling Stones udgiver corona-nummer - Ny podcast-serie om nordjyske kokke.</title>
+            <description>Andedammen handler i dag om den benhårde prioritering af hundredvis af retssager, der har stået i kø – og som nu tages hul på, når retterne i Hjørring og Aalborg genåbner på mandag. Om Living In A Ghosttown - et nyt corona-nummer med Rolling Stones. Og om podcast-serien Pod og Pande med dygtige nordjyske kokke, hvor der både er tips og røverhistorier.&lt;br/&gt;
+Skriv til programmet: anders@radionordjyske.dk</description>
+            <pubDate>Fri, 24 Apr 2020 13:55:42 +0200</pubDate>
+            <author>anders@radionordjyske.dk (Anders Fuglsang)</author>
+            <itunes:author>anders@radionordjyske.dk (Anders Fuglsang)</itunes:author>
+            <itunes:summary>Andedammen handler i dag om den benhårde prioritering af hundredvis af retssager, der har stået i kø – og som nu tages hul på, når retterne i Hjørring og Aalborg genåbner på mandag. Om Living In A Ghosttown - et nyt corona-nummer med Rolling Stones. Og om podcast-serien Pod og Pande med dygtige nordjyske kokke, hvor der både er tips og røverhistorier.
+Skriv til programmet: anders@radionordjyske.dk</itunes:summary>
+            <itunes:duration>11:35</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Andedammen%2024042020%20session.mp3" type="audio/mpeg" length="16758535"/>
+            <category>Nordjylland</category>
+            <category>journalistik</category>
+            <category>NORDJYSKE Medier</category>
+            <category>nordjyske historier</category>
+            <category>Andedammen</category>
+            <category>Radio NORDJYSKE</category>
+            <category>andedam</category>
+            <category>snak</category>
+            <category>Anders Fuglsang</category>
+        </item>
         <item>
             <guid isPermaLink="false">1d6928bb-68c8-433d-bdc4-f35d2dc6249c</guid>
             <title>23.04 - Færgedrift til Livø reddet - Rektor vil redde studenterfesten i Hobro - Bekymret børneforsker: det må ikke blive børnens ansvar.</title>
