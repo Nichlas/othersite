@@ -10,7 +10,7 @@ Vært: Anders Fuglsang</description>
         <link>http://www.radionordjyske.dk</link>
         <language>da</language>
         <copyright>NORDJYSKE Medier</copyright>
-        <lastBuildDate>Wed, 18 Mar 2020 14:40:14 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2020 12:44:17 +0200</lastBuildDate>
         <itunes:subtitle>Tre goe' historier fra NORDJYSKE</itunes:subtitle>
         <itunes:summary>I Andedammen får du hver dag tre goe’ historier fra NORDJYSKE. Alt fra Obamas besøg i Aalborg over kæmpeordre til nordjysk industrigigant til lokalbrag i Superligaen. Hver dag får de tre nye historier om kultur, erhverv, sport, krimi, SoMe, byudvikling og landliv, og de bliver fortalt af de journalister der selv sidder med historien. 
 Vært: Anders Fuglsang</itunes:summary>
@@ -29,6 +29,209 @@ Vært: Anders Fuglsang</itunes:summary>
         <itunes:image href="http://www.radionet.dk/podcast/Podcastlogo.png"/>
         <itunes:category text="News &amp; Politics"/>
         <itunes:explicit>Clean</itunes:explicit>
+        <item>
+            <guid isPermaLink="false">d2de1ce2-edda-4246-9a80-5ca21319207c</guid>
+            <title>30.03 - Hånd-desinfektion: Virker det? - eller er det falsk tryghed? </title>
+            <description>I dag handler Andedammen om hånd-desinfektion. Noget mange tror virker som håndsprit. I øjeblikket kan man hos SPAR, Rema 1000, Salling Group, Matas og flere købe en 5 liters dunk med hånd-desinfektion for 699 kroner. Men virker det egentlig? Det har kunden Morten Degner Dahl undret sig over, og NORDJYSKE har undersøgt sagen.&lt;br/&gt;
+Skriv til programmet: anders@radionordjyske.dk</description>
+            <pubDate>Mon, 30 Mar 2020 12:44:17 +0200</pubDate>
+            <author>anders@radionordjyske.dk (Anders Fuglsang)</author>
+            <itunes:author>anders@radionordjyske.dk (Anders Fuglsang)</itunes:author>
+            <itunes:summary>I dag handler Andedammen om hånd-desinfektion. Noget mange tror virker som håndsprit. I øjeblikket kan man hos SPAR, Rema 1000, Salling Group, Matas og flere købe en 5 liters dunk med hånd-desinfektion for 699 kroner. Men virker det egentlig? Det har kunden Morten Degner Dahl undret sig over, og NORDJYSKE har undersøgt sagen.
+Skriv til programmet: anders@radionordjyske.dk</itunes:summary>
+            <itunes:duration>09:07</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Andedammen%2030032020%20session.mp3" type="audio/mpeg" length="13195015"/>
+            <category>Nordjylland</category>
+            <category>journalistik</category>
+            <category>NORDJYSKE Medier</category>
+            <category>nordjyske historier</category>
+            <category>Andedammen</category>
+            <category>Radio NORDJYSKE</category>
+            <category>andedam</category>
+            <category>snak</category>
+            <category>Anders Fuglsang</category>
+        </item>
+        <item>
+            <guid isPermaLink="false">940284c3-d7c2-4326-a748-0e6d7a3bb9e3</guid>
+            <title>27.03 - 20 unge var som vilde kamphunde i Klarup - Følg lungelægen Kaspers dagbog - Mikkel er pædagog, men klar til at være sosu'er.</title>
+            <description>I dag handler Andedammen om en flok unge, der opfører sig som vilde kamphunde på Menys tagterrasse i Klarup. Om Mikkel, der er hjemsendt pædagog, men klar på at træde til som sosu’er, hvis behovet er der. Og om Kasper, der er afdelingslæge på lungemedicinsk afdeling, og som har ja til at dele sine tanker i en dagbog på nordjyske.dk.&lt;br/&gt;
+Skriv til programmet: anders@radionordjyske.dk</description>
+            <pubDate>Fri, 27 Mar 2020 14:14:41 +0100</pubDate>
+            <author>anders@radionordjyske.dk (Anders Fuglsang)</author>
+            <itunes:author>anders@radionordjyske.dk (Anders Fuglsang)</itunes:author>
+            <itunes:summary>I dag handler Andedammen om en flok unge, der opfører sig som vilde kamphunde på Menys tagterrasse i Klarup. Om Mikkel, der er hjemsendt pædagog, men klar på at træde til som sosu’er, hvis behovet er der. Og om Kasper, der er afdelingslæge på lungemedicinsk afdeling, og som har ja til at dele sine tanker i en dagbog på nordjyske.dk.
+Skriv til programmet: anders@radionordjyske.dk</itunes:summary>
+            <itunes:duration>11:22</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Andedammen%2027032020%20session.mp3" type="audio/mpeg" length="16435035"/>
+            <category>Nordjylland</category>
+            <category>journalistik</category>
+            <category>NORDJYSKE Medier</category>
+            <category>nordjyske historier</category>
+            <category>Andedammen</category>
+            <category>Radio NORDJYSKE</category>
+            <category>andedam</category>
+            <category>snak</category>
+            <category>Anders Fuglsang</category>
+        </item>
+        <item>
+            <guid isPermaLink="false">2447e4f9-7619-4c18-8484-868d2397ce15</guid>
+            <title>*Andedammen* møder Reden Aalborg - del 1</title>
+            <description>Reden Aalborg hjælper mennesker, der har sugardatet eller solgt seksuelle ydelser, med bl.a. anonym og juridisk rådgivning, en samtalegruppe og anonyme test i egen sundhedsklinik. Kom bag fordøren og hør fra to brugere og nogle af dem, der hjælper.&lt;br/&gt;
+Skriv til programmet: anders@radionordjyske.dk</description>
+            <pubDate>Fri, 27 Mar 2020 13:11:44 +0100</pubDate>
+            <author>anders@radionordjyske.dk (Anders Fuglsang)</author>
+            <itunes:author>anders@radionordjyske.dk (Anders Fuglsang)</itunes:author>
+            <itunes:summary>Reden Aalborg hjælper mennesker, der har sugardatet eller solgt seksuelle ydelser, med bl.a. anonym og juridisk rådgivning, en samtalegruppe og anonyme test i egen sundhedsklinik. Kom bag fordøren og hør fra to brugere og nogle af dem, der hjælper.
+Skriv til programmet: anders@radionordjyske.dk</itunes:summary>
+            <itunes:duration>35:11</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Reden%20podcast%201%20raa.mp3" type="audio/mpeg" length="50736109"/>
+            <category>Nordjylland</category>
+            <category>journalistik</category>
+            <category>NORDJYSKE Medier</category>
+            <category>nordjyske historier</category>
+            <category>Andedammen</category>
+            <category>Radio NORDJYSKE</category>
+            <category>andedam</category>
+            <category>snak</category>
+            <category>Anders Fuglsang</category>
+            <category>reportage</category>
+        </item>
+        <item>
+            <guid isPermaLink="false">7b9c2ca5-dd87-4b02-9d54-a0e0593f14c8</guid>
+            <title>26.03 - Krisen rammer Læsøfærgen - To åbne genbrugspladser i Thy - Nyt lægehus i Hirtshals.</title>
+            <description>I dag handler Andedammen om Læsøfærgen, der også er ramt af corona-krisen og risikerer et millionunderskud, der i sidste ende kan sætte kommunen under administration. Om to genbrugspladser i Thy, der holder åbent for private med en speciel app. Og om planerne for et nyt lægehus i Hirtshals, der nu er vedtaget.&lt;br/&gt;
+Skriv til programmet: anders@radionordjyske.dk</description>
+            <pubDate>Thu, 26 Mar 2020 13:16:23 +0100</pubDate>
+            <author>anders@radionordjyske.dk (Anders Fuglsang)</author>
+            <itunes:author>anders@radionordjyske.dk (Anders Fuglsang)</itunes:author>
+            <itunes:summary>I dag handler Andedammen om Læsøfærgen, der også er ramt af corona-krisen og risikerer et millionunderskud, der i sidste ende kan sætte kommunen under administration. Om to genbrugspladser i Thy, der holder åbent for private med en speciel app. Og om planerne for et nyt lægehus i Hirtshals, der nu er vedtaget.
+Skriv til programmet: anders@radionordjyske.dk</itunes:summary>
+            <itunes:duration>12:41</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Andedammen%2026032020%20session.mp3" type="audio/mpeg" length="18337167"/>
+            <category>Nordjylland</category>
+            <category>journalistik</category>
+            <category>NORDJYSKE Medier</category>
+            <category>nordjyske historier</category>
+            <category>Andedammen</category>
+            <category>Radio NORDJYSKE</category>
+            <category>andedam</category>
+            <category>snak</category>
+            <category>Anders Fuglsang</category>
+        </item>
+        <item>
+            <guid isPermaLink="false">78280909-3f38-4071-8e05-2e05b7e4b444</guid>
+            <title>25.03 - Torben er prepper - et sted i Vendsyssel - Derfor lukkede Frederikshavn-Oslo - Benjamin Lobo: Fordel for mig at OL udskydes.</title>
+            <description>I dag handler Andedammen om en nordjysk prepper – Torben, der har kælderen fuld af fødevarer, og som får mange henvendelser fra familie og venner om, hvordan man gør. Om Benjamin Lobo fra Aalborg Atletik, der ser det som en fordel, at OL er udskudt til 2021. Og om den permanente nedlukning af færgeruten Frederikshavn – Oslo. Det var ventet – men bliver den savnet….?&lt;br/&gt;
+Skriv til programmet: anders@radionordjyske.dk</description>
+            <pubDate>Wed, 25 Mar 2020 13:18:15 +0100</pubDate>
+            <author>anders@radionordjyske.dk (Anders Fuglsang)</author>
+            <itunes:author>anders@radionordjyske.dk (Anders Fuglsang)</itunes:author>
+            <itunes:summary>I dag handler Andedammen om en nordjysk prepper – Torben, der har kælderen fuld af fødevarer, og som får mange henvendelser fra familie og venner om, hvordan man gør. Om Benjamin Lobo fra Aalborg Atletik, der ser det som en fordel, at OL er udskudt til 2021. Og om den permanente nedlukning af færgeruten Frederikshavn – Oslo. Det var ventet – men bliver den savnet….?
+Skriv til programmet: anders@radionordjyske.dk</itunes:summary>
+            <itunes:duration>12:46</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Andedammen%2025032020%20session.mp3" type="audio/mpeg" length="18448135"/>
+            <category>Nordjylland</category>
+            <category>journalistik</category>
+            <category>NORDJYSKE Medier</category>
+            <category>nordjyske historier</category>
+            <category>Andedammen</category>
+            <category>Radio NORDJYSKE</category>
+            <category>andedam</category>
+            <category>snak</category>
+            <category>Anders Fuglsang</category>
+        </item>
+        <item>
+            <guid isPermaLink="false">502dcb11-482c-4e42-8371-da07e23c8e5c</guid>
+            <title>24.03 - Grotesk klagesag i Skagen - Aalbórg Kommune vil hjælpe med anlægsprojketer - Goe brætspil via Skype. </title>
+            <description>I dag handler Andedammen om en flok sommerhusejere i det oversvømmede Højen ved Skagen, der føler sig taget som gidsler i en grotesk klagesag. Om Aalborg Kommune, der vil hjælpe de lokale virksomheder ved at fremrykke anlægsprojekter. Og om fem goe’ brætspil du kan spille med vennerne over Skype.&lt;br/&gt;
+Skriv til programmet: anders@radionordjyske.dk</description>
+            <pubDate>Tue, 24 Mar 2020 12:49:33 +0100</pubDate>
+            <author>anders@radionordjyske.dk (Anders Fuglsang)</author>
+            <itunes:author>anders@radionordjyske.dk (Anders Fuglsang)</itunes:author>
+            <itunes:summary>I dag handler Andedammen om en flok sommerhusejere i det oversvømmede Højen ved Skagen, der føler sig taget som gidsler i en grotesk klagesag. Om Aalborg Kommune, der vil hjælpe de lokale virksomheder ved at fremrykke anlægsprojekter. Og om fem goe’ brætspil du kan spille med vennerne over Skype.
+Skriv til programmet: anders@radionordjyske.dk</itunes:summary>
+            <itunes:duration>11:59</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Andedammen%2024032020%20session.mp3" type="audio/mpeg" length="17314003"/>
+            <category>Nordjylland</category>
+            <category>journalistik</category>
+            <category>NORDJYSKE Medier</category>
+            <category>nordjyske historier</category>
+            <category>Andedammen</category>
+            <category>Radio NORDJYSKE</category>
+            <category>andedam</category>
+            <category>snak</category>
+            <category>Anders Fuglsang</category>
+        </item>
+        <item>
+            <guid isPermaLink="false">f103c30f-09f6-43ee-87d8-df46c1a9f2f6</guid>
+            <title>23.03 - Klar med 25.000 flasker håndsprit i Brønderslev - Ali hjælper med info om Corona på arabisk - Sygeplejersken Christine laver pandemi-dagbog.</title>
+            <description>I dag handler Andedammen om en håndspritsproducent fra Brønderslev, der har fået udløst sin fjeder. Om Ali, der hjælper andre med Facebook-gruppen ’Araber i Aalborg’. Her deler han informationer fra myndigheder på arabisk. &lt;br/&gt;
+Og om sygeplejersken Christine, der har meldt sig til corona-beredskabet og har sagt ja til at lave en dagbog på nordjyske.dk&lt;br/&gt;
+Skriv til programmet: anders@radionordjyske.dk</description>
+            <pubDate>Mon, 23 Mar 2020 12:42:00 +0100</pubDate>
+            <author>anders@radionordjyske.dk (Anders Fuglsang)</author>
+            <itunes:author>anders@radionordjyske.dk (Anders Fuglsang)</itunes:author>
+            <itunes:summary>I dag handler Andedammen om en håndspritsproducent fra Brønderslev, der har fået udløst sin fjeder. Om Ali, der hjælper andre med Facebook-gruppen ’Araber i Aalborg’. Her deler han informationer fra myndigheder på arabisk. 
+Og om sygeplejersken Christine, der har meldt sig til corona-beredskabet og har sagt ja til at lave en dagbog på nordjyske.dk
+Skriv til programmet: anders@radionordjyske.dk</itunes:summary>
+            <itunes:duration>10:40</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Andedammen%2023032020%20session.mp3" type="audio/mpeg" length="15435068"/>
+            <category>Nordjylland</category>
+            <category>journalistik</category>
+            <category>NORDJYSKE Medier</category>
+            <category>nordjyske historier</category>
+            <category>Andedammen</category>
+            <category>Radio NORDJYSKE</category>
+            <category>andedam</category>
+            <category>snak</category>
+            <category>Anders Fuglsang</category>
+        </item>
+        <item>
+            <guid isPermaLink="false">3bbe4575-c165-4bf9-aac4-a242d86d0de5</guid>
+            <title>20.03 -  Industrivaskeri i Veddum må måske fyre mor - Hobro IK protesterer: Vil ikke tvangsnedrykkes - Corona-humor: Er det sjovt?</title>
+            <description>I dag om Hobro IK, der protesterer over, at én mand i Divisionsforeningen kan afgøre situationen for 3F Superligaen. Om et lille og presset industrivaskeri i Himmerland, hvor ejerne nu overvejer, at fyre deres egen mor. Og om corona-humor. Den findes, men er det okay – og hvis det er, hvad er så sjovt, og hvad er ikke.&lt;br/&gt;
+Skriv til programmet: anders@radionordjyske.dk</description>
+            <pubDate>Fri, 20 Mar 2020 13:00:29 +0100</pubDate>
+            <author>anders@radionordjyske.dk (Anders Fuglsang)</author>
+            <itunes:author>anders@radionordjyske.dk (Anders Fuglsang)</itunes:author>
+            <itunes:summary>I dag om Hobro IK, der protesterer over, at én mand i Divisionsforeningen kan afgøre situationen for 3F Superligaen. Om et lille og presset industrivaskeri i Himmerland, hvor ejerne nu overvejer, at fyre deres egen mor. Og om corona-humor. Den findes, men er det okay – og hvis det er, hvad er så sjovt, og hvad er ikke.
+Skriv til programmet: anders@radionordjyske.dk</itunes:summary>
+            <itunes:duration>12:23</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Andedammen%2020032020%20session.mp3" type="audio/mpeg" length="17899564"/>
+            <category>Nordjylland</category>
+            <category>journalistik</category>
+            <category>NORDJYSKE Medier</category>
+            <category>nordjyske historier</category>
+            <category>Andedammen</category>
+            <category>Radio NORDJYSKE</category>
+            <category>andedam</category>
+            <category>snak</category>
+            <category>Anders Fuglsang</category>
+        </item>
+        <item>
+            <guid isPermaLink="false">7aca6924-b7a4-4b27-bbb2-a885cbf42f57</guid>
+            <title>19.03 - 600 håndværkere går sammen ved supersygehus - Frygt for forurening af drikkevandet i Aars - City-direktør opfordrer udlejere til at hjælpe.</title>
+            <description>I dag handler Andedammen om 600 frustrerede håndværkere, der går tæt sammen på byggepladsen ved det nye supersygehus i det østlige Aalborg. Forsamlingsforbuddet gælder nemlig ikke dem. Om frygt for drikkevandet i Aars, hvor der er autoophug og deponering af jord lige ved siden af det sted i Aars Skov, hvor vandværket henter vand.&lt;br/&gt;
+Og om direktøren for Aalborg City, der opfordrer udlejere til at hjælpe trængte forretninger.&lt;br/&gt;
+Skriv til programmet: anders@radionordjyske.dk</description>
+            <pubDate>Thu, 19 Mar 2020 13:53:32 +0100</pubDate>
+            <author>anders@radionordjyske.dk (Anders Fuglsang)</author>
+            <itunes:author>anders@radionordjyske.dk (Anders Fuglsang)</itunes:author>
+            <itunes:summary>I dag handler Andedammen om 600 frustrerede håndværkere, der går tæt sammen på byggepladsen ved det nye supersygehus i det østlige Aalborg. Forsamlingsforbuddet gælder nemlig ikke dem. Om frygt for drikkevandet i Aars, hvor der er autoophug og deponering af jord lige ved siden af det sted i Aars Skov, hvor vandværket henter vand.
+Og om direktøren for Aalborg City, der opfordrer udlejere til at hjælpe trængte forretninger.
+Skriv til programmet: anders@radionordjyske.dk</itunes:summary>
+            <itunes:duration>11:39</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Andedammen%2019032020%20session.mp3" type="audio/mpeg" length="16851322"/>
+            <category>Nordjylland</category>
+            <category>journalistik</category>
+            <category>NORDJYSKE Medier</category>
+            <category>nordjyske historier</category>
+            <category>Andedammen</category>
+            <category>Radio NORDJYSKE</category>
+            <category>andedam</category>
+            <category>snak</category>
+            <category>Anders Fuglsang</category>
+        </item>
         <item>
             <guid isPermaLink="false">7d0405fc-f1a7-437f-a4c7-cf75d89c4420</guid>
             <title>18.03 - Efterskoleelever må ikke kramme far og mor - Travlt ved Bilkas bagdør - 3F om overenskomst: Drønærgerligt.</title>
