@@ -10,7 +10,7 @@ Vært: Anders Fuglsang</description>
         <link>http://www.radionordjyske.dk</link>
         <language>da</language>
         <copyright>NORDJYSKE Medier</copyright>
-        <lastBuildDate>Fri, 06 Mar 2020 11:40:44 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 09 Mar 2020 17:00:08 +0100</lastBuildDate>
         <itunes:subtitle>Tre goe' historier fra NORDJYSKE</itunes:subtitle>
         <itunes:summary>I Andedammen får du hver dag tre goe’ historier fra NORDJYSKE. Alt fra Obamas besøg i Aalborg over kæmpeordre til nordjysk industrigigant til lokalbrag i Superligaen. Hver dag får de tre nye historier om kultur, erhverv, sport, krimi, SoMe, byudvikling og landliv, og de bliver fortalt af de journalister der selv sidder med historien. 
 Vært: Anders Fuglsang</itunes:summary>
@@ -29,6 +29,48 @@ Vært: Anders Fuglsang</itunes:summary>
         <itunes:image href="http://www.radionet.dk/podcast/Podcastlogo.png"/>
         <itunes:category text="News &amp; Politics"/>
         <itunes:explicit>Clean</itunes:explicit>
+        <item>
+            <guid isPermaLink="false">e88525ee-477b-4724-ad5c-53269ee26211</guid>
+            <title>Andedammen møder Pandemiafdelingen</title>
+            <description>I dag åbnede Aalborg Universitetshospital en pandemiafdeling. Mens der er kaos i Norditalien, hvor familier er blevet splittet og folk flygter ud af et karantæne-område, der omfatter 16 mio. mennesker – er der mere skandinavisk ro hos Aalborg Universitetshospital. Og det på trods af, at antallet af personer i Danmark med coronavirusset Covid-19 er steget til 59 – og at, det er kommet til Nordjylland. Telenor har sendt 29 medarbejdere i hjemmekarantæne, efter det første nordjyske tilfælde, hvor en medarbejder på Telenors hovedkontor i Aalborg er testet positiv for covid-19.</description>
+            <pubDate>Mon, 09 Mar 2020 17:00:08 +0100</pubDate>
+            <author>anders@radionordjyske.dk (Anders Fuglsang)</author>
+            <itunes:author>anders@radionordjyske.dk (Anders Fuglsang)</itunes:author>
+            <itunes:summary>I dag åbnede Aalborg Universitetshospital en pandemiafdeling. Mens der er kaos i Norditalien, hvor familier er blevet splittet og folk flygter ud af et karantæne-område, der omfatter 16 mio. mennesker – er der mere skandinavisk ro hos Aalborg Universitetshospital. Og det på trods af, at antallet af personer i Danmark med coronavirusset Covid-19 er steget til 59 – og at, det er kommet til Nordjylland. Telenor har sendt 29 medarbejdere i hjemmekarantæne, efter det første nordjyske tilfælde, hvor en medarbejder på Telenors hovedkontor i Aalborg er testet positiv for covid-19.</itunes:summary>
+            <itunes:duration>15:57</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Pandemiafdeling%20session.mp3" type="audio/mpeg" length="23037327"/>
+            <category>Nordjylland</category>
+            <category>journalistik</category>
+            <category>NORDJYSKE Medier</category>
+            <category>nordjyske historier</category>
+            <category>Andedammen</category>
+            <category>Radio NORDJYSKE</category>
+            <category>andedam</category>
+            <category>snak</category>
+            <category>Anders Fuglsang</category>
+        </item>
+        <item>
+            <guid isPermaLink="false">ba84e145-be8c-4133-a27f-4d07d90aa96a</guid>
+            <title>09.03 - FDF i Aars vil blokere vej til sommerhus - Nyhed om Danefæfund til 100-årig - Dejlige ord vi bare vil læse forkert.</title>
+            <description>I dag handler det om en 100-årig, der har fået opgraderet det Danefæ-fund, han gjorde som ung. Om en syrlig strid fra Trend ved Ranum, hvor FDF´ere vil forbyde ejerne af et sommerhus at benytte den eneste vej til sommerhuset – fordi den går forbi FDF-hytten. Og det selv om sommerhusejerens morfar var med til at opføre FDF-hytten i sin tid. Og om dejlige ord, vi simpelthen bare vil læse forkert.&lt;br/&gt;
+Skriv til programmet: anders@radionordjyske.dk</description>
+            <pubDate>Mon, 09 Mar 2020 12:20:55 +0100</pubDate>
+            <author>anders@radionordjyske.dk (Anders Fuglsang)</author>
+            <itunes:author>anders@radionordjyske.dk (Anders Fuglsang)</itunes:author>
+            <itunes:summary>I dag handler det om en 100-årig, der har fået opgraderet det Danefæ-fund, han gjorde som ung. Om en syrlig strid fra Trend ved Ranum, hvor FDF´ere vil forbyde ejerne af et sommerhus at benytte den eneste vej til sommerhuset – fordi den går forbi FDF-hytten. Og det selv om sommerhusejerens morfar var med til at opføre FDF-hytten i sin tid. Og om dejlige ord, vi simpelthen bare vil læse forkert.
+Skriv til programmet: anders@radionordjyske.dk</itunes:summary>
+            <itunes:duration>12:24</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Andedammen%2009032020%20session.mp3" type="audio/mpeg" length="17914610"/>
+            <category>Nordjylland</category>
+            <category>journalistik</category>
+            <category>NORDJYSKE Medier</category>
+            <category>nordjyske historier</category>
+            <category>Andedammen</category>
+            <category>Radio NORDJYSKE</category>
+            <category>andedam</category>
+            <category>snak</category>
+            <category>Anders Fuglsang</category>
+        </item>
         <item>
             <guid isPermaLink="false">64e332e2-cd07-44de-8663-b37ecb3cae1b</guid>
             <title>06.03 - Nordjyske kvindelige ledere om 8. marts - Mistede sin identitet som 16-årig - Årets DBU-talent trives i Hjørring.</title>

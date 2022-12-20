@@ -9,7 +9,7 @@
         <link>http://www.nordjyske.dk</link>
         <language>da</language>
         <copyright>NORDJYSKE medier</copyright>
-        <lastBuildDate>Tue, 11 Feb 2020 21:19:10 +0100</lastBuildDate>
+        <lastBuildDate>Mon, 09 Mar 2020 21:05:32 +0100</lastBuildDate>
         <itunes:subtitle>Fokus på nordjysk fodbold</itunes:subtitle>
         <itunes:summary>Hvad sker der i den nordjyske fodboldverden. Det tager et panel på tre eksperter en debat om hver 14.dag. Udgangspunktet er AaB, Hobro IK og Vendsyssel FF, men vi runder også 2.division og mere generelle emner med nordjysk interesse.</itunes:summary>
         <itunes:keywords>Fodbold</itunes:keywords>
@@ -29,6 +29,37 @@
             <itunes:category text="Professional"/>
         </itunes:category>
         <itunes:explicit>No</itunes:explicit>
+        <item>
+            <guid isPermaLink="false">4081f0d6-4a62-4794-bfa6-007020b98a00</guid>
+            <title>Ripodsten episode 69</title>
+            <description>Ripodsten tager i denne udgave lige en pause fra snak om top 6 og nedrykning og sætter i stedet fokus på nordjysk talentudvikling. Hvad kræver rollen som talentchef? hvilke krav er det klubberne skal leve op til for at få og beholde deres DBU-licens? Hvor er de største udfordringer for nordjysk talentudvikling og skal AaB begynde at rekruttere uden for Nordjylland er blot nogle af de emner, der er på dagsordenen. Med i studiet er AaB's talentchef Anders Damgaard og Hobro IK's talentchef Lars Justesen. Jens Otto Barsøe er vært.  </description>
+            <pubDate>Mon, 09 Mar 2020 21:05:32 +0100</pubDate>
+            <author>podcast@nordjyske.dk (Jens Otto Barsøe)</author>
+            <itunes:author>Jens Otto Barsøe</itunes:author>
+            <itunes:summary>Ripodsten tager i denne udgave lige en pause fra snak om top 6 og nedrykning og sætter i stedet fokus på nordjysk talentudvikling. Hvad kræver rollen som talentchef? hvilke krav er det klubberne skal leve op til for at få og beholde deres DBU-licens? Hvor er de største udfordringer for nordjysk talentudvikling og skal AaB begynde at rekruttere uden for Nordjylland er blot nogle af de emner, der er på dagsordenen. Med i studiet er AaB's talentchef Anders Damgaard og Hobro IK's talentchef Lars Justesen. Jens Otto Barsøe er vært.  </itunes:summary>
+            <itunes:duration>61:26</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Ripodsten%2069.mp3" type="audio/mpeg" length="59037197"/>
+            <category>Fodbold</category>
+            <category>Nordjylland</category>
+            <category>AaB</category>
+            <category>Hobro IK</category>
+        </item>
+        <item>
+            <guid isPermaLink="false">63197fc0-5885-43df-b6c2-3cd0ab99ad2c</guid>
+            <title>Ripodsten episode 68</title>
+            <description>AaB har ændret spillestil med succes og hentet to sejre i forårets to første kampe i Superligaen. Hobro IK har til gengæld tabt deres to første kampe, selv om de måske havde fortjent bedre. Vi ser nærmere på de to nordjyske superligaklubbers start på forårssæsonen i denne udgave af Ripodsten, hvor vi også går tæt på Vendsyssel FF inden de skal igang med Nordicbet-ligaen. Gæster i studiet er Vendsyssels FF's sportschef Ole Nielsen, journalist Dennis Søndergaard og journalist hos NORDJYSKE Medier Søren Olsson. Jens Otto Barsøe er vært.</description>
+            <pubDate>Mon, 24 Feb 2020 21:09:37 +0100</pubDate>
+            <author>podcast@nordjyske.dk (Jens Otto Barsøe)</author>
+            <itunes:author>Jens Otto Barsøe</itunes:author>
+            <itunes:summary>AaB har ændret spillestil med succes og hentet to sejre i forårets to første kampe i Superligaen. Hobro IK har til gengæld tabt deres to første kampe, selv om de måske havde fortjent bedre. Vi ser nærmere på de to nordjyske superligaklubbers start på forårssæsonen i denne udgave af Ripodsten, hvor vi også går tæt på Vendsyssel FF inden de skal igang med Nordicbet-ligaen. Gæster i studiet er Vendsyssels FF's sportschef Ole Nielsen, journalist Dennis Søndergaard og journalist hos NORDJYSKE Medier Søren Olsson. Jens Otto Barsøe er vært.</itunes:summary>
+            <itunes:duration>65:28</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Ripodsten%20episode%2068.mp3" type="audio/mpeg" length="62918784"/>
+            <category>Fodbold</category>
+            <category>Nordjylland</category>
+            <category>AaB</category>
+            <category>Hobro IK</category>
+            <category>Vendsyssel</category>
+        </item>
         <item>
             <guid isPermaLink="false">2722ea0f-3409-4a08-92a3-552a962f9cc1</guid>
             <title>Ripodsten episode 67</title>
