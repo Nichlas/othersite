@@ -27,8 +27,17 @@
         <itunes:explicit>Clean</itunes:explicit>
         <generator>Hindenburg Broadcaster 1.82.2306</generator>
         <pubDate>Tue, 28 May 2019 14:31:54 +0200</pubDate>
-        <lastBuildDate>Fri, 10 Apr 2020 12:34:43 +0200</lastBuildDate>
+        <lastBuildDate>Fri, 17 Apr 2020 09:22:09 +0200</lastBuildDate>
         <itunes:keywords>Nordjylland, radio, ANR, Johnni Gade, humor, weekend, sjov</itunes:keywords>
+        <item>
+            <guid isPermaLink="false">571abfa2-2970-44f2-92d6-764ce3d5d264</guid>
+            <title>Mordere på fri fod, dine fødder afslører corona, Margrethes fødselsdag og meget mere!</title>
+            <pubDate>Fri, 17 Apr 2020 09:22:09 +0200</pubDate>
+            <author>Johnni Gade</author>
+            <itunes:author>Johnni Gade</itunes:author>
+            <itunes:duration>27:21</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/pod%2045.mp3" type="audio/mpeg" length="39441600"/>
+        </item>
         <item>
             <guid isPermaLink="false">87e344c8-068b-459d-8954-5366b73de062</guid>
             <title>Tourettes i corona tiden, 77 årig med hidsig tommestok og meget mere!</title>

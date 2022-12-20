@@ -27,8 +27,19 @@
         <itunes:explicit>Clean</itunes:explicit>
         <generator>Hindenburg Broadcaster 1.82.2304</generator>
         <pubDate>Thu, 21 Mar 2019 13:32:21 +0100</pubDate>
-        <lastBuildDate>Thu, 02 Apr 2020 12:28:51 +0200</lastBuildDate>
+        <lastBuildDate>Thu, 16 Apr 2020 13:46:07 +0200</lastBuildDate>
         <itunes:keywords>Nordjylland, radio, NORDJYSKE, Skovmand, Bue, humor, direktør, sjov, nordjylland</itunes:keywords>
+        <item>
+            <guid isPermaLink="false">c3716967-3dd6-4768-815b-ab998d0a03a0</guid>
+            <title>Hjemmesommer, pisk og gedeyoga</title>
+            <description>I denne udgave af Balokonen bliver der kigget nærmere på virtuelle frokoster, Idåsen og pressemøder.</description>
+            <pubDate>Thu, 16 Apr 2020 13:46:07 +0200</pubDate>
+            <author>Niels Holger Thrane Skovmand</author>
+            <itunes:author>Niels Holger Thrane Skovmand</itunes:author>
+            <itunes:summary>I denne udgave af Balokonen bliver der kigget nærmere på virtuelle frokoster, Idåsen og pressemøder.</itunes:summary>
+            <itunes:duration>45:47</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Hjemmesommer,%20pisk%20og%20gedeyoga.mp3" type="audio/mpeg" length="44013696"/>
+        </item>
         <item>
             <guid isPermaLink="false">d582d964-a329-4cef-92ef-5ba61f9aeb15</guid>
             <title>Skævt hår, mos og vodka.</title>

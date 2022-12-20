@@ -10,7 +10,7 @@ Vært: Anders Fuglsang</description>
         <link>http://www.radionordjyske.dk</link>
         <language>da</language>
         <copyright>NORDJYSKE Medier</copyright>
-        <lastBuildDate>Wed, 08 Apr 2020 17:07:24 +0200</lastBuildDate>
+        <lastBuildDate>Thu, 23 Apr 2020 14:31:03 +0200</lastBuildDate>
         <itunes:subtitle>Tre goe' historier fra NORDJYSKE</itunes:subtitle>
         <itunes:summary>I Andedammen får du hver dag tre goe’ historier fra NORDJYSKE. Alt fra Obamas besøg i Aalborg over kæmpeordre til nordjysk industrigigant til lokalbrag i Superligaen. Hver dag får de tre nye historier om kultur, erhverv, sport, krimi, SoMe, byudvikling og landliv, og de bliver fortalt af de journalister der selv sidder med historien. 
 Vært: Anders Fuglsang</itunes:summary>
@@ -29,6 +29,94 @@ Vært: Anders Fuglsang</itunes:summary>
         <itunes:image href="http://www.radionet.dk/podcast/Podcastlogo.png"/>
         <itunes:category text="News &amp; Politics"/>
         <itunes:explicit>Clean</itunes:explicit>
+        <item>
+            <guid isPermaLink="false">1d6928bb-68c8-433d-bdc4-f35d2dc6249c</guid>
+            <title>23.04 - Færgedrift til Livø reddet - Rektor vil redde studenterfesten i Hobro - Bekymret børneforsker: det må ikke blive børnens ansvar.</title>
+            <description>Andedammen handler i dag om færgedriften til Livø, der er reddet fra 1. maj. Om afgangselever i Hobro: de bliver snydt for studenterkørsel, lancier og diplom med håndtryk – men fejres, det skal de i slutningen af juni.  Og om corona i børnehøjde, hvor en børneforsker frygter vi vil se et boom af angstklinikker i fremtiden.&lt;br/&gt;
+Skriv til programmet: anders@radionordjyske.dk</description>
+            <pubDate>Thu, 23 Apr 2020 14:31:03 +0200</pubDate>
+            <author>anders@radionordjyske.dk (Anders Fuglsang)</author>
+            <itunes:author>anders@radionordjyske.dk (Anders Fuglsang)</itunes:author>
+            <itunes:summary>Andedammen handler i dag om færgedriften til Livø, der er reddet fra 1. maj. Om afgangselever i Hobro: de bliver snydt for studenterkørsel, lancier og diplom med håndtryk – men fejres, det skal de i slutningen af juni.  Og om corona i børnehøjde, hvor en børneforsker frygter vi vil se et boom af angstklinikker i fremtiden.
+Skriv til programmet: anders@radionordjyske.dk</itunes:summary>
+            <itunes:duration>11:04</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Andedammen%2023042020%20session.mp3" type="audio/mpeg" length="15996805"/>
+            <category>Nordjylland</category>
+            <category>journalistik</category>
+            <category>NORDJYSKE Medier</category>
+            <category>nordjyske historier</category>
+            <category>Andedammen</category>
+            <category>Radio NORDJYSKE</category>
+            <category>andedam</category>
+            <category>snak</category>
+            <category>Anders Fuglsang</category>
+        </item>
+        <item>
+            <guid isPermaLink="false">1a9d30e9-ad90-4c84-9204-68160c0f9461</guid>
+            <title>22.04 - Aalborg Renovation er politianmeldt - Forældre i kamp mod småskole-sparefinte - Coronaforskning på Aalborg Universitet.</title>
+            <description>Andedammen handler i dag om Aalborg Renovation, der er blevet politianmeldt for bedrageri. Om vrede forældre fra små skoler i Aalborg Kommune, der mener kommunens nye spareøvelse ’Fælles Ledelse’ går ud over børnene. Og om forskere fra Aalborg Universitet, der leder efter nordjyder, der vil fortælle om, hvordan coronakrisen har forandret deres liv.&lt;br/&gt;
+Skriv til programmet: anders@radionordjyske.dk</description>
+            <pubDate>Wed, 22 Apr 2020 15:07:48 +0200</pubDate>
+            <author>anders@radionordjyske.dk (Anders Fuglsang)</author>
+            <itunes:author>anders@radionordjyske.dk (Anders Fuglsang)</itunes:author>
+            <itunes:summary>Andedammen handler i dag om Aalborg Renovation, der er blevet politianmeldt for bedrageri. Om vrede forældre fra små skoler i Aalborg Kommune, der mener kommunens nye spareøvelse ’Fælles Ledelse’ går ud over børnene. Og om forskere fra Aalborg Universitet, der leder efter nordjyder, der vil fortælle om, hvordan coronakrisen har forandret deres liv.
+Skriv til programmet: anders@radionordjyske.dk</itunes:summary>
+            <itunes:duration>12:58</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Andedammen%2022042020%20session.mp3" type="audio/mpeg" length="18737781"/>
+            <category>Nordjylland</category>
+            <category>journalistik</category>
+            <category>NORDJYSKE Medier</category>
+            <category>nordjyske historier</category>
+            <category>Andedammen</category>
+            <category>Radio NORDJYSKE</category>
+            <category>andedam</category>
+            <category>snak</category>
+            <category>Anders Fuglsang</category>
+        </item>
+        <item>
+            <guid isPermaLink="false">54d6ea34-4454-434f-aef0-4b195c7bad90</guid>
+            <title>21.04 - Flere end 500 i Fårup Sommerland? - Et tigerspring for fysioterapeuter - Jimmy Nielsen kommer ud, når han går tur med hunden.</title>
+            <description>Andedammen handler i dag om sæsonåbningen af Fårup Sommerland. Her åbner direktøren for, at parken kan lukke flere end de tilladte 500 ind. Om m corona-situationens positive bivirkning for fysioterapeuter. Og om den tidligere AaB-keeper, Jimmy Nielsen, der bor i nedlukkede USA og som kommer ud, når hunden skal luftes.&lt;br/&gt;
+Skriv til programmet: anders@radionordjyske.dk</description>
+            <pubDate>Tue, 21 Apr 2020 14:26:37 +0200</pubDate>
+            <author>anders@radionordjyske.dk (Anders Fuglsang)</author>
+            <itunes:author>anders@radionordjyske.dk (Anders Fuglsang)</itunes:author>
+            <itunes:summary>Andedammen handler i dag om sæsonåbningen af Fårup Sommerland. Her åbner direktøren for, at parken kan lukke flere end de tilladte 500 ind. Om m corona-situationens positive bivirkning for fysioterapeuter. Og om den tidligere AaB-keeper, Jimmy Nielsen, der bor i nedlukkede USA og som kommer ud, når hunden skal luftes.
+Skriv til programmet: anders@radionordjyske.dk</itunes:summary>
+            <itunes:duration>11:31</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Andedammen%2021042020%20session.mp3" type="audio/mpeg" length="16645686"/>
+            <category>Nordjylland</category>
+            <category>journalistik</category>
+            <category>NORDJYSKE Medier</category>
+            <category>nordjyske historier</category>
+            <category>Andedammen</category>
+            <category>Radio NORDJYSKE</category>
+            <category>andedam</category>
+            <category>snak</category>
+            <category>Anders Fuglsang</category>
+        </item>
+        <item>
+            <guid isPermaLink="false">26956098-f82b-4d65-9364-8324ec0bf3a3</guid>
+            <title>20.04 - Hold afstand til hidsig svane i Hjørring - Corona-konspirationsteori: Bill Gates gjorde det - 'Køb vaccine-fabrik tilbage fra saudiarabere'.</title>
+            <description>Andedammen er i dag med en hidsig svane i Folkeparken i Hjørring. Om den bedste konspirationsteori i omløb for tiden: at corona-virusset er fremstillet af eliten. Og om vaccine-fabrikken i København, som vi engang ejede, men solgte til en saudiarabisk investeringsfond. ’Tudetosset’ kalder nordjysk politiker det og vil købe den tilbage.  &lt;br/&gt;
+Skriv til programmet: anders@radionordjyske.dk</description>
+            <pubDate>Mon, 20 Apr 2020 14:11:30 +0200</pubDate>
+            <author>anders@radionordjyske.dk (Anders Fuglsang)</author>
+            <itunes:author>anders@radionordjyske.dk (Anders Fuglsang)</itunes:author>
+            <itunes:summary>Andedammen er i dag med en hidsig svane i Folkeparken i Hjørring. Om den bedste konspirationsteori i omløb for tiden: at corona-virusset er fremstillet af eliten. Og om vaccine-fabrikken i København, som vi engang ejede, men solgte til en saudiarabisk investeringsfond. ’Tudetosset’ kalder nordjysk politiker det og vil købe den tilbage.  
+Skriv til programmet: anders@radionordjyske.dk</itunes:summary>
+            <itunes:duration>12:21</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Andedammen%20200420202%20session.mp3" type="audio/mpeg" length="17857559"/>
+            <category>Nordjylland</category>
+            <category>journalistik</category>
+            <category>NORDJYSKE Medier</category>
+            <category>nordjyske historier</category>
+            <category>Andedammen</category>
+            <category>Radio NORDJYSKE</category>
+            <category>andedam</category>
+            <category>snak</category>
+            <category>Anders Fuglsang</category>
+        </item>
         <item>
             <guid isPermaLink="false">f60bd0aa-70de-47b9-ac51-89729d4ed96d</guid>
             <title>møder Reden Aalborg - del 2</title>
