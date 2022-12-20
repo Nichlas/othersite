@@ -9,7 +9,7 @@
         <link>http://www.nordjyske.dk</link>
         <language>da</language>
         <copyright>NORDJYSKE medier</copyright>
-        <lastBuildDate>Mon, 09 Mar 2020 21:05:32 +0100</lastBuildDate>
+        <lastBuildDate>Tue, 31 Mar 2020 20:54:00 +0200</lastBuildDate>
         <itunes:subtitle>Fokus på nordjysk fodbold</itunes:subtitle>
         <itunes:summary>Hvad sker der i den nordjyske fodboldverden. Det tager et panel på tre eksperter en debat om hver 14.dag. Udgangspunktet er AaB, Hobro IK og Vendsyssel FF, men vi runder også 2.division og mere generelle emner med nordjysk interesse.</itunes:summary>
         <itunes:keywords>Fodbold</itunes:keywords>
@@ -29,6 +29,21 @@
             <itunes:category text="Professional"/>
         </itunes:category>
         <itunes:explicit>No</itunes:explicit>
+        <item>
+            <guid isPermaLink="false">fa649bab-fe61-4bb3-9b58-a979929a363f</guid>
+            <title>Ripodsten episode 70</title>
+            <description>Det var i marts, at grundspillet skulle afgøres i Superligaen, men som alle ved kom der lige en virus i vejen. I denne Corona-udgave af Ripodsten ser AaB's direktør Thomas Bælum, Hobro IK's formand Lars Kühnel og AaB-spilleren Magnus Christensen både tilbage på en marts måned, som blev helt anderledes end, hvad de og alle andre havde forestillet sig, og der bliver også set frem mod de kampe på banen, som forhåbentlig snart skal spilles. Jens Otto Barsøe er vært. </description>
+            <pubDate>Tue, 31 Mar 2020 20:54:00 +0200</pubDate>
+            <author>podcast@nordjyske.dk (Jens Otto Barsøe)</author>
+            <itunes:author>Jens Otto Barsøe</itunes:author>
+            <itunes:summary>Det var i marts, at grundspillet skulle afgøres i Superligaen, men som alle ved kom der lige en virus i vejen. I denne Corona-udgave af Ripodsten ser AaB's direktør Thomas Bælum, Hobro IK's formand Lars Kühnel og AaB-spilleren Magnus Christensen både tilbage på en marts måned, som blev helt anderledes end, hvad de og alle andre havde forestillet sig, og der bliver også set frem mod de kampe på banen, som forhåbentlig snart skal spilles. Jens Otto Barsøe er vært. </itunes:summary>
+            <itunes:duration>35:26</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Ripodsten%2070.mp3" type="audio/mpeg" length="34087123"/>
+            <category>Fodbold</category>
+            <category>Superliga</category>
+            <category>AaB</category>
+            <category>Hobro</category>
+        </item>
         <item>
             <guid isPermaLink="false">4081f0d6-4a62-4794-bfa6-007020b98a00</guid>
             <title>Ripodsten episode 69</title>
