@@ -10,7 +10,7 @@ Vært: Anders Fuglsang</description>
         <link>http://www.radionordjyske.dk</link>
         <language>da</language>
         <copyright>NORDJYSKE Medier</copyright>
-        <lastBuildDate>Mon, 30 Mar 2020 12:44:17 +0200</lastBuildDate>
+        <lastBuildDate>Wed, 01 Apr 2020 14:58:35 +0200</lastBuildDate>
         <itunes:subtitle>Tre goe' historier fra NORDJYSKE</itunes:subtitle>
         <itunes:summary>I Andedammen får du hver dag tre goe’ historier fra NORDJYSKE. Alt fra Obamas besøg i Aalborg over kæmpeordre til nordjysk industrigigant til lokalbrag i Superligaen. Hver dag får de tre nye historier om kultur, erhverv, sport, krimi, SoMe, byudvikling og landliv, og de bliver fortalt af de journalister der selv sidder med historien. 
 Vært: Anders Fuglsang</itunes:summary>
@@ -29,6 +29,50 @@ Vært: Anders Fuglsang</itunes:summary>
         <itunes:image href="http://www.radionet.dk/podcast/Podcastlogo.png"/>
         <itunes:category text="News &amp; Politics"/>
         <itunes:explicit>Clean</itunes:explicit>
+        <item>
+            <guid isPermaLink="false">3a3ca055-fd15-4c9d-acea-2cfa946af1b8</guid>
+            <title>01.04 - Ulovligt udvalgsmøde i Vesthimmerland - Millionoverskud hos Svinkløv Badehotel - AaBs nye sportschef starter i dag - fra Oslo.</title>
+            <description>I dag handler Andedammen om et ulovligt udvalgsmøde i Vesthimmerland Kommune. Om AaBs nye sportschef, der har første arbejdsdag i dag, og det bliver en arbejd-hjemmefra-dag – i Oslo. Og om millionoverskud i Svinkløv Badehotels comebackår.&lt;br/&gt;
+Skriv til programmet: anders@radionordjyske.dk</description>
+            <pubDate>Wed, 01 Apr 2020 14:58:35 +0200</pubDate>
+            <author>anders@radionordjyske.dk (Anders Fuglsang)</author>
+            <itunes:author>anders@radionordjyske.dk (Anders Fuglsang)</itunes:author>
+            <itunes:summary>I dag handler Andedammen om et ulovligt udvalgsmøde i Vesthimmerland Kommune. Om AaBs nye sportschef, der har første arbejdsdag i dag, og det bliver en arbejd-hjemmefra-dag – i Oslo. Og om millionoverskud i Svinkløv Badehotels comebackår.
+Skriv til programmet: anders@radionordjyske.dk</itunes:summary>
+            <itunes:duration>12:20</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Andedammen%2001042020%20session.mp3" type="audio/mpeg" length="17833108"/>
+            <category>Nordjylland</category>
+            <category>journalistik</category>
+            <category>NORDJYSKE Medier</category>
+            <category>nordjyske historier</category>
+            <category>Andedammen</category>
+            <category>Radio NORDJYSKE</category>
+            <category>andedam</category>
+            <category>snak</category>
+            <category>Anders Fuglsang</category>
+        </item>
+        <item>
+            <guid isPermaLink="false">678b5785-9b84-4ea8-af0d-0762b356cff2</guid>
+            <title>31.03 - Sosu-vikar: 'Der var ikke styr på værnemidler - Hjemløse forsvinder fra gadebilledet - Karnevalæspar gift i Sverige: Forældre med på Skype</title>
+            <description>I dag handler Andedammen om Marie fra Thy og Gerhard fra Østrig, der blev gift i Sverige. Om de forsvundne hjemløse i gadebilledet. Og om Anja, der var på vagt som vikar i weekenden, da en 75-årig plejehjemsbeboer blev konstateret smittet med coronavirus. Kommunen siger, at personalet tacklede situationen professionelt – Anja siger, at der slet ikke var styr på det.&lt;br/&gt;
+Skriv til programmet: anders@radionordjyske.dk</description>
+            <pubDate>Tue, 31 Mar 2020 16:10:41 +0200</pubDate>
+            <author>anders@radionordjyske.dk (Anders Fuglsang)</author>
+            <itunes:author>anders@radionordjyske.dk (Anders Fuglsang)</itunes:author>
+            <itunes:summary>I dag handler Andedammen om Marie fra Thy og Gerhard fra Østrig, der blev gift i Sverige. Om de forsvundne hjemløse i gadebilledet. Og om Anja, der var på vagt som vikar i weekenden, da en 75-årig plejehjemsbeboer blev konstateret smittet med coronavirus. Kommunen siger, at personalet tacklede situationen professionelt – Anja siger, at der slet ikke var styr på det.
+Skriv til programmet: anders@radionordjyske.dk</itunes:summary>
+            <itunes:duration>13:10</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Andedammen%2031032020%20session.mp3" type="audio/mpeg" length="19028054"/>
+            <category>Nordjylland</category>
+            <category>journalistik</category>
+            <category>NORDJYSKE Medier</category>
+            <category>nordjyske historier</category>
+            <category>Andedammen</category>
+            <category>Radio NORDJYSKE</category>
+            <category>andedam</category>
+            <category>snak</category>
+            <category>Anders Fuglsang</category>
+        </item>
         <item>
             <guid isPermaLink="false">d2de1ce2-edda-4246-9a80-5ca21319207c</guid>
             <title>30.03 - Hånd-desinfektion: Virker det? - eller er det falsk tryghed? </title>
