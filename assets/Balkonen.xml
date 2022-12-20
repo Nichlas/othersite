@@ -27,8 +27,19 @@
         <itunes:explicit>Clean</itunes:explicit>
         <generator>Hindenburg Broadcaster 1.82.2304</generator>
         <pubDate>Thu, 21 Mar 2019 13:32:21 +0100</pubDate>
-        <lastBuildDate>Fri, 28 Feb 2020 11:15:02 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 11 Mar 2020 13:56:04 +0100</lastBuildDate>
         <itunes:keywords>Nordjylland, radio, NORDJYSKE, Skovmand, Bue, humor, direktør, sjov, nordjylland</itunes:keywords>
+        <item>
+            <guid isPermaLink="false">97f6b700-d04b-47fa-bfdd-4ed0d7963c3e</guid>
+            <title>Balkonen nu med Puk og pølser</title>
+            <description>Balkonen forsøger denne gang at undgå for mange Covid-19 historier...det er svært og derfor kommer der blandt andet brevkasse og oplevelsen af at lave pølser et fremmed sted.</description>
+            <pubDate>Wed, 11 Mar 2020 13:56:04 +0100</pubDate>
+            <author>Niels Holger Thrane Skovmand</author>
+            <itunes:author>Niels Holger Thrane Skovmand</itunes:author>
+            <itunes:summary>Balkonen forsøger denne gang at undgå for mange Covid-19 historier...det er svært og derfor kommer der blandt andet brevkasse og oplevelsen af at lave pølser et fremmed sted.</itunes:summary>
+            <itunes:duration>38:08</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Balkon%20podcast%201303.mp3" type="audio/mpeg" length="36677760"/>
+        </item>
         <item>
             <guid isPermaLink="false">66d2ef20-1aed-4eb8-921e-927da06b45f0</guid>
             <title>Balkonen med Skovmand og Bue og nøgenhed</title>

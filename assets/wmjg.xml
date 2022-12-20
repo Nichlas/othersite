@@ -27,8 +27,17 @@
         <itunes:explicit>Clean</itunes:explicit>
         <generator>Hindenburg Broadcaster 1.82.2306</generator>
         <pubDate>Tue, 28 May 2019 14:31:54 +0200</pubDate>
-        <lastBuildDate>Fri, 06 Mar 2020 07:29:32 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 13 Mar 2020 11:54:46 +0100</lastBuildDate>
         <itunes:keywords>Nordjylland, radio, ANR, Johnni Gade, humor, weekend, sjov</itunes:keywords>
+        <item>
+            <guid isPermaLink="false">3b918120-3e95-4e34-a519-53bd30770071</guid>
+            <title>Corona Special. (Hjemmeoptagelse)</title>
+            <pubDate>Fri, 13 Mar 2020 11:54:46 +0100</pubDate>
+            <author>Johnni Gade</author>
+            <itunes:author>Johnni Gade</itunes:author>
+            <itunes:duration>26:33</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/pod%2040.mp3" type="audio/mpeg" length="38287296"/>
+        </item>
         <item>
             <guid isPermaLink="false">687917d1-98a2-4857-8c8a-68012c3e7b70</guid>
             <title>Fie Laursen sugardater, Wozniacki i studiet, Corona over alt og meget mere!</title>
