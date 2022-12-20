@@ -9,7 +9,7 @@
         <link>http://www.nordjyske.dk</link>
         <language>da</language>
         <copyright>NORDJYSKE Medier</copyright>
-        <lastBuildDate>Mon, 02 Mar 2020 22:25:29 +0100</lastBuildDate>
+        <lastBuildDate>Wed, 08 Apr 2020 22:28:59 +0200</lastBuildDate>
         <itunes:subtitle>Nordjysk sportspodcast</itunes:subtitle>
         <itunes:summary>I Arena går vi tæt på den nordjyske eliteidræt og dens udøvere. Nogle gange via studieinterviews og/eller debat andre gange gennem reportager og længere portrætter. </itunes:summary>
         <itunes:keywords>Eliteidræt, sport, håndbold, ishockey, Nordjylland</itunes:keywords>
@@ -29,6 +29,20 @@
             <itunes:category text="Professional"/>
         </itunes:category>
         <itunes:explicit>No</itunes:explicit>
+        <item>
+            <guid isPermaLink="false">b50738e7-be62-4e68-9af1-387dbfdb9cb5</guid>
+            <title>Arena episode 9</title>
+            <description>Han er blevet kaldt ishockeyens Laudrup, har scoret mere end 400 mål i den danske liga, er noteret for mere end 200 landskampe for Danmark, og var den første der opnåede at blive kåret til årets ishockeyspiller i Danmark tre gange. Der er tale om Ronny Larsen som tidligere i år blev indlemmet i dansk ishockeys "Hall of Fame". I denne udgave af Arena ser vi tilbage på Ronny Larsens aktive karriere, der har budt på både op- og nedture siden han fik debut for AaB Ishockey som bare 15-årig. Jens Otto Barsøe har produceret podcasten. </description>
+            <pubDate>Wed, 08 Apr 2020 22:28:59 +0200</pubDate>
+            <author>podcast@nordjyske.dk (NORDJYSKE Medier)</author>
+            <itunes:author>NORDJYSKE Medier</itunes:author>
+            <itunes:summary>Han er blevet kaldt ishockeyens Laudrup, har scoret mere end 400 mål i den danske liga, er noteret for mere end 200 landskampe for Danmark, og var den første der opnåede at blive kåret til årets ishockeyspiller i Danmark tre gange. Der er tale om Ronny Larsen som tidligere i år blev indlemmet i dansk ishockeys "Hall of Fame". I denne udgave af Arena ser vi tilbage på Ronny Larsens aktive karriere, der har budt på både op- og nedture siden han fik debut for AaB Ishockey som bare 15-årig. Jens Otto Barsøe har produceret podcasten. </itunes:summary>
+            <itunes:duration>51:39</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/www.radionet.dk/podcast/Ronny%20til%20Arena.mp3" type="audio/mpeg" length="49646072"/>
+            <category>Elitesport</category>
+            <category>ishockey</category>
+            <category>Nordjylland</category>
+        </item>
         <item>
             <guid isPermaLink="false">61c2bfc0-264a-43b3-b0bf-740d41c2404d</guid>
             <title>Arena episode 8</title>

@@ -10,7 +10,7 @@ Vært: Anders Fuglsang</description>
         <link>http://www.radionordjyske.dk</link>
         <language>da</language>
         <copyright>NORDJYSKE Medier</copyright>
-        <lastBuildDate>Tue, 07 Apr 2020 14:26:33 +0200</lastBuildDate>
+        <lastBuildDate>Wed, 08 Apr 2020 17:07:24 +0200</lastBuildDate>
         <itunes:subtitle>Tre goe' historier fra NORDJYSKE</itunes:subtitle>
         <itunes:summary>I Andedammen får du hver dag tre goe’ historier fra NORDJYSKE. Alt fra Obamas besøg i Aalborg over kæmpeordre til nordjysk industrigigant til lokalbrag i Superligaen. Hver dag får de tre nye historier om kultur, erhverv, sport, krimi, SoMe, byudvikling og landliv, og de bliver fortalt af de journalister der selv sidder med historien. 
 Vært: Anders Fuglsang</itunes:summary>
@@ -29,6 +29,54 @@ Vært: Anders Fuglsang</itunes:summary>
         <itunes:image href="http://www.radionet.dk/podcast/Podcastlogo.png"/>
         <itunes:category text="News &amp; Politics"/>
         <itunes:explicit>Clean</itunes:explicit>
+        <item>
+            <guid isPermaLink="false">f60bd0aa-70de-47b9-ac51-89729d4ed96d</guid>
+            <title>møder Reden Aalborg - del 2</title>
+            <description>Reden Aalborg hjælper mennesker, der har sugardatet eller solgt seksuelle ydelser, med bl.a. anonym og juridisk rådgivning, en samtalegruppe og anonyme test i egen sundhedsklinik. Kom bag fordøren og hør fra to brugere og nogle af dem, der hjælper.&lt;br/&gt;
+Skriv til programmet: anders@radionordjyske.dk</description>
+            <pubDate>Wed, 08 Apr 2020 17:07:24 +0200</pubDate>
+            <author>anders@radionordjyske.dk (Anders Fuglsang)</author>
+            <itunes:author>anders@radionordjyske.dk (Anders Fuglsang)</itunes:author>
+            <itunes:summary>Reden Aalborg hjælper mennesker, der har sugardatet eller solgt seksuelle ydelser, med bl.a. anonym og juridisk rådgivning, en samtalegruppe og anonyme test i egen sundhedsklinik. Kom bag fordøren og hør fra to brugere og nogle af dem, der hjælper.
+Skriv til programmet: anders@radionordjyske.dk</itunes:summary>
+            <itunes:duration>21:42</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Reden%20podcast%202%20session.mp3" type="audio/mpeg" length="31311038"/>
+            <category>Nordjylland</category>
+            <category>journalistik</category>
+            <category>NORDJYSKE Medier</category>
+            <category>nordjyske historier</category>
+            <category>Andedammen</category>
+            <category>Radio NORDJYSKE</category>
+            <category>andedam</category>
+            <category>snak</category>
+            <category>Anders Fuglsang</category>
+            <category>Reden Aalborg</category>
+            <category>Reden</category>
+            <category>sugardating</category>
+            <category>prostitution</category>
+        </item>
+        <item>
+            <guid isPermaLink="false">7eb67c13-861e-41f1-8e8d-bb4c8ad94d08</guid>
+            <title>08.04 - Kandidater i kø - unge akademikere uddannet til arbejdsløshed.</title>
+            <description>I dag handler Andedammen om kandidater i kø. En serie af historier om unge nyuddannede akademikere, der vader direkte fra studiet og ud i arbejdsløshed.&lt;br/&gt;
+Skriv til programmet: anders@radionordjyske.dk</description>
+            <pubDate>Wed, 08 Apr 2020 13:28:30 +0200</pubDate>
+            <author>anders@radionordjyske.dk (Anders Fuglsang)</author>
+            <itunes:author>anders@radionordjyske.dk (Anders Fuglsang)</itunes:author>
+            <itunes:summary>I dag handler Andedammen om kandidater i kø. En serie af historier om unge nyuddannede akademikere, der vader direkte fra studiet og ud i arbejdsløshed.
+Skriv til programmet: anders@radionordjyske.dk</itunes:summary>
+            <itunes:duration>12:15</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Andedammen%2008042020%20session.mp3" type="audio/mpeg" length="17695182"/>
+            <category>Nordjylland</category>
+            <category>journalistik</category>
+            <category>NORDJYSKE Medier</category>
+            <category>nordjyske historier</category>
+            <category>Andedammen</category>
+            <category>Radio NORDJYSKE</category>
+            <category>andedam</category>
+            <category>snak</category>
+            <category>Anders Fuglsang</category>
+        </item>
         <item>
             <guid isPermaLink="false">ce1d2a9a-2feb-42a0-9b71-473aee1d9568</guid>
             <title>07.04 - Dansk eller svensk corona-strategi? - Grævlingen flytter til byerne - Grønttorv åbner igen.</title>

@@ -25,6 +25,34 @@
 <itunes:category text="Music" />
 <itunes:explicit>no</itunes:explicit> 
 ﻿<item>
+	<title>Tur/Retur - 09.04.2020</title>
+	<itunes:author>Radio NORDJYSKE</itunes:author>
+	<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+	<itunes:summary>Vi dykker ned i musikarkivet og spiller glemte hits. - sendt i radioen 09.04.2020</itunes:summary>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Tur_Retur00016354.mp3" length="57464685" type="audio/mpeg" />
+	<guid isPermaLink="false">2020040913023100016354</guid>
+	<pubDate>Thu, 9 Apr 2020 12:00:00 +0200</pubDate>
+	<itunes:duration>01:00:00</itunes:duration>
+	<itunes:keywords>radio, NORDJYSKE, Glemte hits, Musikarkivet, Hitlist</itunes:keywords>
+	<itunes:explicit>no</itunes:explicit>
+	<category>Music</category>
+</item>
+
+﻿<item>
+	<title>Tur/Retur - 08.04.2020</title>
+	<itunes:author>Radio NORDJYSKE</itunes:author>
+	<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
+	<itunes:summary>Vi dykker ned i musikarkivet og spiller glemte hits. - sendt i radioen 08.04.2020</itunes:summary>
+	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Tur_Retur00016349.mp3" length="57464685" type="audio/mpeg" />
+	<guid isPermaLink="false">2020040813024000016349</guid>
+	<pubDate>Wed, 8 Apr 2020 12:00:00 +0200</pubDate>
+	<itunes:duration>01:00:00</itunes:duration>
+	<itunes:keywords>radio, NORDJYSKE, Glemte hits, Musikarkivet, Hitlist</itunes:keywords>
+	<itunes:explicit>no</itunes:explicit>
+	<category>Music</category>
+</item>
+
+﻿<item>
 	<title>Tur/Retur - 07.04.2020</title>
 	<itunes:author>Radio NORDJYSKE</itunes:author>
 	<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
@@ -830,34 +858,6 @@
 	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Tur_Retur00015333.mp3" length="57464685" type="audio/mpeg" />
 	<guid isPermaLink="false">2020022006023500015333</guid>
 	<pubDate>Thu, 20 Feb 2020 05:00:00 +0200</pubDate>
-	<itunes:duration>01:00:00</itunes:duration>
-	<itunes:keywords>radio, NORDJYSKE, Glemte hits, Musikarkivet, Hitlist</itunes:keywords>
-	<itunes:explicit>no</itunes:explicit>
-	<category>Music</category>
-</item>
-
-﻿<item>
-	<title>Tur/Retur - 19.02.2020</title>
-	<itunes:author>Radio NORDJYSKE</itunes:author>
-	<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-	<itunes:summary>Vi dykker ned i musikarkivet og spiller glemte hits. - sendt i radioen 19.02.2020</itunes:summary>
-	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Tur_Retur00015626.mp3" length="57464685" type="audio/mpeg" />
-	<guid isPermaLink="false">2020030316535000015626</guid>
-	<pubDate>Wed, 19 Feb 2020 13:00:00 +0200</pubDate>
-	<itunes:duration>01:00:00</itunes:duration>
-	<itunes:keywords>radio, NORDJYSKE, Glemte hits, Musikarkivet, Hitlist</itunes:keywords>
-	<itunes:explicit>no</itunes:explicit>
-	<category>Music</category>
-</item>
-
-﻿<item>
-	<title>Tur/Retur - 19.02.2020</title>
-	<itunes:author>Radio NORDJYSKE</itunes:author>
-	<itunes:subtitle>Vi elsker Nordjylland</itunes:subtitle>
-	<itunes:summary>Vi dykker ned i musikarkivet og spiller glemte hits. - sendt i radioen 19.02.2020</itunes:summary>
-	<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/Tur_Retur00016086.mp3" length="57464685" type="audio/mpeg" />
-	<guid isPermaLink="false">2020031912533100016086</guid>
-	<pubDate>Wed, 19 Feb 2020 12:00:00 +0200</pubDate>
 	<itunes:duration>01:00:00</itunes:duration>
 	<itunes:keywords>radio, NORDJYSKE, Glemte hits, Musikarkivet, Hitlist</itunes:keywords>
 	<itunes:explicit>no</itunes:explicit>
