@@ -26,6 +26,20 @@
 <itunes:category text="Music" />
 <itunes:explicit>no</itunes:explicit> 
 <item>
+<title>Morgenkøterne - 06.04.2020</title>
+<itunes:author>ANR</itunes:author>
+<itunes:subtitle>ANR</itunes:subtitle>
+<itunes:summary>Morgenkøterne - 06.04.2020</itunes:summary>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/mk00016338.mp3" length="229856238" type="audio/mpeg" />
+<guid isPermaLink="false">2020040610062300016338</guid>
+<pubDate>Mon, 6 Apr 2020 06:00:00 +0200</pubDate>
+<itunes:duration>04:00:00</itunes:duration>
+<itunes:keywords>radio, Morgenkøterne, ANR</itunes:keywords>
+<itunes:explicit>No</itunes:explicit> 
+<category>Morgenkøterne</category>
+</item>
+
+<item>
 <title>Morgenkøterne - 03.04.2020</title>
 <itunes:author>ANR</itunes:author>
 <itunes:subtitle>ANR</itunes:subtitle>
@@ -103,20 +117,6 @@
 <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/mk00016310.mp3" length="229856238" type="audio/mpeg" />
 <guid isPermaLink="false">2020032710061000016310</guid>
 <pubDate>Fri, 27 Mar 2020 06:00:00 +0200</pubDate>
-<itunes:duration>04:00:00</itunes:duration>
-<itunes:keywords>radio, Morgenkøterne, ANR</itunes:keywords>
-<itunes:explicit>No</itunes:explicit> 
-<category>Morgenkøterne</category>
-</item>
-
-<item>
-<title>Morgenkøterne - 26.03.2020</title>
-<itunes:author>ANR</itunes:author>
-<itunes:subtitle>ANR</itunes:subtitle>
-<itunes:summary>Morgenkøterne - 26.03.2020</itunes:summary>
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.radionet.dk/podcast/mk00016305.mp3" length="229856238" type="audio/mpeg" />
-<guid isPermaLink="false">2020032610062000016305</guid>
-<pubDate>Thu, 26 Mar 2020 06:00:00 +0200</pubDate>
 <itunes:duration>04:00:00</itunes:duration>
 <itunes:keywords>radio, Morgenkøterne, ANR</itunes:keywords>
 <itunes:explicit>No</itunes:explicit> 
