@@ -10,7 +10,7 @@ Vært: Anders Fuglsang</description>
         <link>http://www.radionordjyske.dk</link>
         <language>da</language>
         <copyright>NORDJYSKE Medier</copyright>
-        <lastBuildDate>Wed, 11 Mar 2020 13:48:32 +0100</lastBuildDate>
+        <lastBuildDate>Thu, 12 Mar 2020 13:18:37 +0100</lastBuildDate>
         <itunes:subtitle>Tre goe' historier fra NORDJYSKE</itunes:subtitle>
         <itunes:summary>I Andedammen får du hver dag tre goe’ historier fra NORDJYSKE. Alt fra Obamas besøg i Aalborg over kæmpeordre til nordjysk industrigigant til lokalbrag i Superligaen. Hver dag får de tre nye historier om kultur, erhverv, sport, krimi, SoMe, byudvikling og landliv, og de bliver fortalt af de journalister der selv sidder med historien. 
 Vært: Anders Fuglsang</itunes:summary>
@@ -29,6 +29,28 @@ Vært: Anders Fuglsang</itunes:summary>
         <itunes:image href="http://www.radionet.dk/podcast/Podcastlogo.png"/>
         <itunes:category text="News &amp; Politics"/>
         <itunes:explicit>Clean</itunes:explicit>
+        <item>
+            <guid isPermaLink="false">9a03b502-c4ff-4370-97bc-0eeac87d1704</guid>
+            <title>12.03 - Hamstring hos Min Købmand kl. 06:30 - Superligaen udsat i 14 dage - Ingen massefyringer på vej hos Sæbe Fiske-Industri.</title>
+            <description>I dag handler Andedammen om lidt hamstring; hos min købmand i Nr. Uttrup stod kunderne klar med vogne kl. 6:30. Om situationen for 3F Superligaen og andre sportsbegivenheder i Nordjylland – og en historie, der ikke handler om corona, men om jobsituationen hos en af verdens største producenter af makrel på dåse, Sæby Fiske-Industri, hvor direktøren beroliger og siger, at der ikke er grund til at frygte massefyringer.&lt;br/&gt;
+Skriv til programmet: anders@radionordjyske.dk</description>
+            <pubDate>Thu, 12 Mar 2020 13:18:37 +0100</pubDate>
+            <author>anders@radionordjyske.dk (Anders Fuglsang)</author>
+            <itunes:author>anders@radionordjyske.dk (Anders Fuglsang)</itunes:author>
+            <itunes:summary>I dag handler Andedammen om lidt hamstring; hos min købmand i Nr. Uttrup stod kunderne klar med vogne kl. 6:30. Om situationen for 3F Superligaen og andre sportsbegivenheder i Nordjylland – og en historie, der ikke handler om corona, men om jobsituationen hos en af verdens største producenter af makrel på dåse, Sæby Fiske-Industri, hvor direktøren beroliger og siger, at der ikke er grund til at frygte massefyringer.
+Skriv til programmet: anders@radionordjyske.dk</itunes:summary>
+            <itunes:duration>11:27</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/Andedammen%2012032020%20session.mp3" type="audio/mpeg" length="16552273"/>
+            <category>Nordjylland</category>
+            <category>journalistik</category>
+            <category>NORDJYSKE Medier</category>
+            <category>nordjyske historier</category>
+            <category>Andedammen</category>
+            <category>Radio NORDJYSKE</category>
+            <category>andedam</category>
+            <category>snak</category>
+            <category>Anders Fuglsang</category>
+        </item>
         <item>
             <guid isPermaLink="false">d2da8591-8272-4e9d-96dd-f5edf4d9d8e5</guid>
             <title>11.03 - Disse udlejere får flest klager - Dorthe vandt over Jammerbugt Kommune - Corona har ramt nabokrig i Hasseris.</title>
