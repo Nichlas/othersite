@@ -27,8 +27,17 @@
         <itunes:explicit>Clean</itunes:explicit>
         <generator>Hindenburg Broadcaster 1.82.2306</generator>
         <pubDate>Tue, 28 May 2019 14:31:54 +0200</pubDate>
-        <lastBuildDate>Fri, 03 Apr 2020 16:27:00 +0200</lastBuildDate>
+        <lastBuildDate>Fri, 10 Apr 2020 12:34:43 +0200</lastBuildDate>
         <itunes:keywords>Nordjylland, radio, ANR, Johnni Gade, humor, weekend, sjov</itunes:keywords>
+        <item>
+            <guid isPermaLink="false">87e344c8-068b-459d-8954-5366b73de062</guid>
+            <title>Tourettes i corona tiden, 77 årig med hidsig tommestok og meget mere!</title>
+            <pubDate>Fri, 10 Apr 2020 12:34:43 +0200</pubDate>
+            <author>Johnni Gade</author>
+            <itunes:author>Johnni Gade</itunes:author>
+            <itunes:duration>25:40</itunes:duration>
+            <enclosure url="http://dts.podtrac.com/redirect.mp3/http://www.radionet.dk/podcast/pod44.mp3" type="audio/mpeg" length="37014912"/>
+        </item>
         <item>
             <guid isPermaLink="false">92ec8f6e-4a09-4fbb-b5cb-957435a5056f</guid>
             <title>Trump fejler til matematik, Paludans nye parti, corona smider folk i bur og meget mere!</title>
